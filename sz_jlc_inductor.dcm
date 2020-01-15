@@ -1,0 +1,1250 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2.2uH,±10%,0603,C1033
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±10%,0603,C1034
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH,±10%,0603,C1035
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uH,±10%,0805,C1042
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uH,±10%,0805,C1043
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±10%,0805,C1044
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5.6uH,±10%,0805,C1045
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH,±10%,0805,C1046
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uH,±10%,1206,C1047
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uH,±10%,1206,C1048
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±10%,1206,C1049
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5.6uH,±10%,1206,C1050
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH,±10%,1206,C1051
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33nH,±5%,600mA,0603,C11774
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 68nH,±5%,0805,C11775
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 39nH,±5%,0603,C12327
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 39nH,±5%,0805,C12328
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uH,±10%,0603,C12374
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3uH,±10%,0603,C12589
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22nH,±5%,0402,C12670
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47uH,±10%,0805,C14304
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nH,±5%,300mA,0805,C14457
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22nH,±5%,0805,C14459
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18nH,±5%,300mA,0805,C14460
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5uH,±10%,1206,C15581
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33uH,±10%,0805,C18101
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2nH,±0.3nH,900mA,0402,C18216
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.6nH,±0.3nH,750mA,0402,C19216
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8nH,±0.2nH,200mA,0603,C19227
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3nH,±0.3nH,0402,C19898
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 600Ω±25%,100MHz,0603,C20345
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12uH,±10%,3mA,0603,C21306
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nH,±5%,0402,C21585
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 36nH,±5%,0805,C21941
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uH,±5%,400mA,1210,C22202
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7nH,±0.1nH,160mA,0402,C23769
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7uH,±10%,30mA,0805,C24183
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47uH,±10%,1206,C26910
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8uH,±10%,1210,C27774
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100uH,±20%,1210,C27775
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330nH,±10%,250mA,0805,C29069
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18uH,±5%,1210,C295126
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7uH,±10%,0603,C29946
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 390nH,±10%,0805,C29972
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330nH,±10%,250mA,0805,C30617
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150nH,±10%,250mA,0805,C30618
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH,±5%,1210,C31961
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22uH,±10%,0805,C32375
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nH,±5%,0805,C32878
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.1nH,±0.3nH,400mA,0402,C33115
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uH,±5%,1210,C36828
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 560nH,±5%,230mA,0805,C37297
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2nH,±0.3nH,500mA,0603,C40464
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3nH,±0.3nH,0603,C40465
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8uH,±5%,350mA,1210,C41039
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uH,±5%,350mA,0805,C41651
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18uH,±10%,0805,C42027
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8uH,±10%,1206,C43936
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 24nH,±5%,300mA,0603,C47614
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 30nH,±0.3nH,300mA,0603,C47615
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.47uH,±10%,0805,C48556
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 36nH,±5%,300mA,0603,C48589
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uH,±10%,0402,C49067
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nH,±5%,0603,C49329
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uH,±10%,0603,C49810
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3uH±10%,0805,C51725
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 36nH,±5%,150mA,0402,C52050
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3uH,±10%,50mA,1206,C52707
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uH,±20%,900mA,0805,C55755
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 27nH,±5%,0805,C56586
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±5%,220mA,1210,C56767
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5.6uH,±10%,5mA,0603,C57837
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15uH,±10%,1mA,0603,C57838
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18uH,±10%,0603,C57839
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22uH,±10%,1mA,0603,C57840
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 27uH,±10%,1mA,0603,C57841
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470uH,±5%,1210,C63833
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22uH,±10%,1206,C64476
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47uH,,±5%,,60mA,1210,C66936
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100uH,±10%,0805,C68035
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22nH,±5%,0603,C71649
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.82uH,±10%,0603,C74313
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±10%,0805,C74314
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.68uH,±10%,0805,C74315
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7uH,±10%,0805,C74318
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5uH,±10%,1206,C74477
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47uH,±10%,1206,C75660
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8uH,±10%,0603,C75929
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH±10%,0603,C76730
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 390nH±10%,0603,C76731
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH±10%,0603,C76732
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12uH±5%,0603,C76733
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5.6uH±10%,0603,C76734
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8.2uH±5%,0603,C76735
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH±10%,0805,C76736
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nH±5%,0805,C76737
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120nH±10%,0805,C76738
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150nH±5%,0805,C76739
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nH±5%,0805,C76740
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 820nH±5%,0805,C76741
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH±5%,0805,C76742
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12uH±5%,0805,C76744
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uH±20%,0805,C76793
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5uH±20%,0805,C76794
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uH±20%,0603,C76797
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH±20%,0603,C76799
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15uH±10%,1812,C76823
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH±5%,1210,C76835
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100uH±5%,1210,C76836
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5uH±5%,1210,C76837
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 27uH±5%,1210,C76839
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33uH±5%,1210,C76840
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 39uH±5%,1210,C76841
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH±5%,1210,C76842
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 68uH±5%,1210,C76843
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 82uH±5%,1210,C76844
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8.2uH±5%,1210,C76845
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nH,±0.1nH,400mA,0402,C77116
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2nH,±0.1nH,0402,C77117
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5nH,±0.1nH,280mA,0402,C77118
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8nH,±0.1nH,280mA,0402,C77119
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nH,±0.1nH,220mA,0402,C77120
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7nH,±0.1nH,220mA,0402,C77121
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3nH,±0.1nH,190mA,0402,C77122
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.9nH,±0.1nH,170mA,0402,C77123
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 20nH,±2%,0603,C77124
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 9.1nH,±0.5nH,650mA,0603,C77125
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 180nH,±5%,0603,C77126
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nH,±5%,0603,C77127
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22nH,±2%,0603,C84341
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uH,±10%,0402,C84468
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2uH,±10%,0402,C84469
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5uH,±10%,0402,C84470
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2UH,±10%,0402,C84472
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3uH,±10%,0402,C84474
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15nH,±5%,0402,C86059
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18nH,±5%,0402,C86060
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nH,±0.3nH,900mA,0402,C86061
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33nH,±5%,0402,C86062
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 39nH,±5%,0402,C86063
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3nH,±0.3nH,800mA,0402,C86064
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7nH,±0.3nH,700mA,0402,C86065
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5.1nH,±0.3nH,0402,C86066
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120nH,±5%,0402,C86067
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33nH,±5%,0603,C86068
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH,±10%,1210,C86069
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±20%,1210,C86070
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 560uH,±5%,1210,C86071
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 560uH,±10%,1210,C86072
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH,±20%,1210,C86073
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uH,±30%,1210,C86074
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±10%,1812,C86079
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uH,±30%,0805,C86086
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47uH,±30%,0805,C86087
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±30%,0805,C86088
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uH,±30%,0805,C86089
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±20%,0805,C86090
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12nH,±2%,0402,C86128
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22nH,±2%,0402,C86129
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nH,±5%,0402,C86130
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15nH,±2%,0603,C86132
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18nH,±2%,0603,C86133
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 39nH,±2%,0603,C86134
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 68nH,±2%,0603,C86135
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8nH,±0.2nH,750mA,0603,C86136
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120nH,±2%,0603,C86138
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nH,±2%,0603,C86139
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47μH,±5%,1812,C86701
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH,±20%,0603,C86752
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22μH,±10%,1812,C86821
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uH,±10%,0603,C87216
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 820nH,±10%,0402,C87452
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uH,±20%,0603,C87511
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5uH,±5%,0603,C87514
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±5%,0603,C87515
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120nH,±10%,0603,C87517
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150nH,±5%,0603,C87518
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330nH,±10%,0603,C87520
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330nH,±5%,0805,C87521
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.2nH,±0.3nH,600mA,0402,C87534
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2nH,±0.3nH,0603,C87537
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 56nH,±5%,0603,C87538
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8.2nH,±0.5nH,0402,C87541
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8.2nH,±5%,0402,C87542
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uH,±20%,0805,C87543
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5uH,±20%,1210,C87556
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330uH,±10%,1210,C87557
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8uH,±20%,1210,C87558
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8uH,±20%,1210,C87559
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3uH,±20%,1210,C87560
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33nH,±5%,1210,C87561
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2uH,±5%,1210,C87562
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5.6uH,±5%,1210,C87563
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22μH,±20%,0805,C88185
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.027uH,±5%,1210,C88514
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220μH,±5%,1210,C89015
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2μH,±5%,1210,C89016
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 56μH,±5%,1210,C89022
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.15μH,±5%,1210,C89025
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.39μH,±5%,1210,C89028
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.47μH,±5%,1210,C89029
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680nH,±5%,1210,C89031
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nH,±2%,0402,C90642
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470nH,±5%,0805,C92032
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 68nH,±5%,0603,C92902
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15uH,±10%,0805,C92908
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3uH,±10%,0805,C93799
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18nH,±5%,350mA,0402,C97980
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

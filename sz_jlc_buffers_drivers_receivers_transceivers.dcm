@@ -1,0 +1,290 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LV1T34DBVR,SOT-23-5,C100024
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74HC541D,653,SOIC-20_7.5x12.8x1.27P,C126008
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN74AHC126PWR,TSSOP-14_4.4x5.0x0.65P,C132984
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN74LV07APWR,TSSOP-14_4.4x5.0x0.65P,C133848
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN75161BDW,SOIC-20_7.5x12.8x1.27P,C139410
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN75160BDW,SOIC-20_7.5x12.8x1.27P,C139422
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN74LVC1G17QDBVRQ1,SOT-23-5,C202202
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74LVC541AQ20-13,QFN-20_EP_2.5x4.5x0.5P,C212601
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74LVX244MTCX,TSSOP-20_4.4x6.5x0.65P,C232785
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74LCX125MTCX,TSSOP-14_4.4x5.0x0.65P,C232794
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74VHC541MTCX,TSSOP-20_4.4x6.5x0.65P,C232797
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74HCT541ADWG,SOIC-20_7.5x12.8x1.27P,C233473
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74VHC244DTR2G,TSSOP-20_4.4x6.5x0.65P,C233478
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74ACT125DTR2G,TSSOP-14_4.4x5.0x0.65P,C233520
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74ACT541DWR2G,SOIC-20_7.5x12.8x1.27P,C233523
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74LCX16244DTG,TSSOP-48_6.1x12.5x0.5P,C233544
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74LCX244DTR2G,TSSOP-20_4.4x6.5x0.65P,C233545
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74VHCT244ADTRG,TSSOP-20_4.4x6.5x0.65P,C233553
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74VHCT541ADTRG,TSSOP-20_4.4x6.5x0.65P,C233555
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NL27WZ16DTT1G,TSOP-6_1.5x3.0x0.95P,C233560
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP M74LCX16244DTR2G,TSSOP-48_6.1x12.5x0.5P,C233565
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74AC244DWR2G,SOIC-20_7.5x12.8x1.27P,C233589
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74ACT244DTR2G,TSSOP-20_4.4x6.5x0.65P,C233595
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74LCX07DTR2G,TSSOP-14_4.4x5.0x0.65P,C233625
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74LCX125DTR2G,TSSOP-14_4.4x5.0x0.65P,C233626
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74LVX125DR2G,SOIC-14_3.9x8.7x1.27P,C233633
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74AC244SCX,SOIC-20_7.5x12.8x1.27P,C238941
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74AC541SCX,SOIC-20_7.5x12.8x1.27P,C238942
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74ACT240SCX,SOIC-20_7.5x12.8x1.27P,C238946
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74LCX125MX,SOIC-14_3.9x8.7x1.27P,C238953
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74LVT244MTCX,TSSOP-20_4.4x6.5x0.65P,C238954
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74LVT244WMX,SOIC-20_7.5x12.8x1.27P,C238955
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP GM8906C,QFN-60_9.0x9.0x0.5P,C245025
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP M74VHC1GT50DTT1G,SOT-23-5,C327487
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN74LVC541ADW,SOIC-20_7.5x12.8x1.27P,C336175
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN74LVC244APW,TSSOP-20_4.4x6.5x0.65P,C352972
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP AM26LV31CDR,SOIC-16_3.9x9.9x1.27P,C363283
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP am26lv32eipwr,TSSOP-16_4.4x5.0x0.65P,C404024
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP UA9637ACDR,SOIC-8_3.9x4.9x1.27P,C434452
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74LCX07DR2G,SOIC-14_3.9x8.7x1.27P,C457675
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP AMIS42665TJAA1RG,SOIC-8_3.9x4.9x1.27P,C457698
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74ACT244DWG,SOIC-20_7.5x12.8x1.27P,C457779
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74AC541DWG,SOIC-20_7.5x12.8x1.27P,C457792
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74AC240SCX,SOIC-20_7.5x12.8x1.27P,C5484
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74LCX07MTCX,TSSOP-14_4.4x5.0x0.65P,C6006
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74LCX16244MTDX,TSSOP-48_6.1x12.5x0.5P,C6013
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 74VHCT244AMTCX,TSSOP-20_4.4x6.5x0.65P,C6154
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MC74AC541DWR2G,SOIC-20_7.5x12.8x1.27P,C8013
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

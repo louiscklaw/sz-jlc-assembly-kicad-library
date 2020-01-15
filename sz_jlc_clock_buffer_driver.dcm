@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NB6L611MNG,QFN-16_EP_3.0x3.0x0.5P,C223584
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NB3N2304NZDTR2G,TSSOP-8_3.0x4.4x0.65P,C223615
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NB6L14SMNG,QFN-16_EP_3.0x3.0x0.5P,C223630
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NL27WZ07DTT1G,TSOP-6_1.5x3.0x0.95P,C327509
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NB7L1008MMNR4G,QFN-32_EP_5.0x5.0x0.5P,C369558
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP PI6CV304WEX,SOIC-8_3.9x4.9x1.27P,C445516
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP PI6C485311WE,SOIC-8_3.9x4.9x1.27P,C445519
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NB7L14MMNG,QFN-16_EP_3.0x3.0x0.5P,C462883
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

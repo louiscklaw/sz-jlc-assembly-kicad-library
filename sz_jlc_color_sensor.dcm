@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCS3200D-TR,SOIC-8_3.9x4.9x1.27P,C92501
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

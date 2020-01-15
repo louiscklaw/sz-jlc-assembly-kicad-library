@@ -1,0 +1,74 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 200Ω,@,20MHz,SMD-4_4.6x6.5x2.54P,C167312
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 500uH,@,100kHz,SMD-4_6.0x9.0x2.54P,C261397
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1kΩ,@,10MHz,SMD-4_6.0x7.0x2.54P,C380036
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 90Ω,±25%,@100MHz,SMD-4_1.2x2.0x1.55P,C54888
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2kΩ,@,10MHz,SMD-4_4.6x6.5x2.54P,C69715
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120Ω,@100MHz,[切勿选用!,正在完善SMT工艺数据中...即将上架,2C8],SMD-4_1.2x2.0x1.55P,C76571
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 200Ω,@100MHz,SMD-4_1.2x2.0x1.55P,C76572
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 700Ω,@100MHz,SMD-4_4.6x6.5x2.54P,C76582
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 90Ω,@100MHz,SMD-4_1.0x1.3x0.55P,C76895
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 180Ω,@100MHz,SMD-4_1.2x2.0x1.55P,C76896
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 90Ω,@,100MHz,SMD-4_1.2x2.0x1.55P,C80529
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120Ω,@,100MHz,SMD-4_1.2x2.0x1.55P,C86163
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

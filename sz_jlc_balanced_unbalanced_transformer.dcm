@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATB2012-75011-T000,SMD-4_1.2x2.0x1.55P,C76586
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP HHM1711D1,SMD-6_0.6x0.6x0.55P,C76727
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

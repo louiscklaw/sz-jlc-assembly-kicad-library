@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1.1Ω(1R10),±1%,0603,C103378
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.6Ω(1R60),±1%,0603,C103386
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

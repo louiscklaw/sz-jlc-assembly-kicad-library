@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FXAS21002CQR1,QFN-24_4.0x4.0x0.5P,C110805
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP L3GD20TR,LGA-16_4.0x4.0x0.65P,C116866
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP L3G4200DTR,LGA-16_4.0x4.0x0.65P,C26444
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

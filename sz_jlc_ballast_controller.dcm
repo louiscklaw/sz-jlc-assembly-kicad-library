@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IR2156STRPBF,SOIC-14_3.9x8.7x1.27P,C371543
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP IR21571STRPBF,SOIC-16_3.9x9.9x1.27P,C371544
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

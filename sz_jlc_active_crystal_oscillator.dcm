@@ -1,0 +1,1658 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SiT8008AI-82-33S-100.000000,SMD-7050_4P,C111930
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 50MHz,±25PPM,SMD-7050_4P,C112970
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,32.768MHZ,3.3V,20PPM,SMD-7050_4P,C113768
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-82-33E-16.000000Y,SMD-7050_4P,C12710
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-82-33E-8.000000Y,SMD-7050_4P,C12711
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCXO2016,26MHz,2.8V,0.5ppm,-40~85℃,SMD-2016_4P,C132147
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP DSB321SDA,26MHz,1.7~3.6V,±1.5ppm,-30~+85℃,SMD-3225_4P,C132295
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP DSB221SDN,26MHz,1.8~2.8V,±1.5ppm,-40~+85℃,SMD-2520_4P,C132296
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP DSA221SDN,26MHz,2.8V,±2ppm,-40~+85℃,SMD-2520_4P,C132298
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP DSB321SDA,16.368MHZ,SMD-3225_4P,C135213
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO531SR,8MHZ,3.3V,20PPM,SMD-5032_4P,C13843
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,156.25MHz,3.3V,SMD-7050_4P,C148242
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,16MHz,5V,±20ppm,SMD-7050_4P,C15576
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,14.7456MHz,5V,±20ppm,SMD-7050_4P,C15577
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,12MHz,3.3V,±20ppm,SMD-7050_4P,C15918
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG5032CAN,16MHZ,1.6-3.6V,-40~+85℃,SMD-5032_4P,C16171
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,10MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C16850
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8432MHz,±50ppm,-40°C~+85°C,SMD-3225_4P,C179646
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO531SR,24MHZ,3.3V,20PPM,SMD-5032_4P,C18170
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP DSB221SDN,38.400MHZ,3.3V,0.5PPM(-30~85),SMD-4_2520_4P_2.5,C190737
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,30MHz,3.3V,±25ppm,SMD-7050_4P,C20036
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP DSK321STD,32.768K,5.0PPM,3.3V,-40~+85℃,SMD-3225_4P,C213398
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,22.1184MHz,3.3V,±25ppm,SMD-7050_4P,C2178
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,50MHz,3.3V,±20ppm,SMD-7050_4P,C22120
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,1.8432MHz,3.3V,±25ppm,SMD-7050_4P,C2259
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,3.579545MHz,3.3V,±25ppm,SMD-7050_4P,C2260
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,2MHz,3.3V,±25ppm,SMD-7050_4P,C2261
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,7.3728MHZ,2.25~5.5V,-40~+85℃,SMD-7050_4P,C2263
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,8MHz,±25ppm,3.3V,SMD-7050_4P,C2264
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,11.0592MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C2266
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,16MHz,3.3V,±20ppm,SMD-7050_4P,C2268
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,24MHz,3.3V,±20ppm,SMD-7050_4P,C2269
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,24.576MHz,3.3V,±20ppm,SMD-7050_4P,C2270
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,12.288MHZ,3.3V,-40~+85℃,SMD-3225_4P,C24117
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,19.44MHz,3.3V,±25ppm,SMD-7050_4P,C24175
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP OCETGLJANF-32MHZ,SMD-7050_4P,C242204
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-22-33E-54.000000D,SMD-3225_4P,C24751
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,40MHz,3.3V,±20ppm,SMD-7050_4P,C24796
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 32.768MHz,±25ppm,3.3V,SMD-7050_4P,C24942
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 29.4912MHZ,10PF,-30~+85℃,SMD-3225_4P,C253715
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-210STF,20.000000MHz,1.6V~3.6V,-40~+85℃,SMD-4_2520_4P_2.5,C255994
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-60.000000Y,SMD-7050_4P,C26255
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-22-33E-50.000000D,SMD-3225_4P,C26431
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP KN3270012,32.768KHz,3.3V,±25ppm,SMD-7050_4P,C27839
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO321SR,24.576MHZ,3.3V,25PPM,SMD-3225_4P,C27869
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP S25000V008,SMD-5032_4P,C279587
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SS25000016,SMD-5032_4P,C280059
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO321SR,25MHZ,3.3V,20PPM,SMD-3225_4P,C29208
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12MHZ,3.3V50PPM,-40℃~+85℃7050,SMD-7050_4P,C295095
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 26MHZ,3.3V50PPM,-40℃~+85℃7050,SMD-7050_4P,C295096
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33.333MHZ,3.3V50PPM,-40℃~+85℃7050,SMD-7050_4P,C295097
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8432MHZ,3.3V50PPM,-40℃~+85℃7050,SMD-7050_4P,C295098
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 29.4912MHZ,3.3V50PPM,-40℃~+85℃7050,SMD-7050_4P,C295099
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.096MHZ,3.3V50PPM,-40℃~+85℃7050,SMD-7050_4P,C295100
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12MHZ,3.3V25PPM,-40℃~+85℃7050,SMD-7050_4P,C295101
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 32.768MHZ,3.3V25PPM,-40℃~+85℃7050,SMD-7050_4P,C295102
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 16MHZ,3.3V25PPM,-40℃~+85℃7050,SMD-7050_4P,C295103
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 32.768KHZ,3.3V25PPM,-40℃~+85℃7050,SMD-7050_4P,C295104
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100MHZ,3.3V25PPM,-40℃~+85℃7050,SMD-7050_4P,C295105
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 125MHZ,3.3V25PPM,-40℃~+85℃7050,SMD-7050_4P,C295507
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 50MHZ,3.3V25PPM,-40℃~+85℃7050,SMD-7050_4P,C295508
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8432MHZ,3.3V50PPM,-40℃~+85℃5032,SMD-5032_4P,C295509
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 11.0592MHZ,3.3V50PPM,-40℃~+85℃5032,SMD-5032_4P,C295510
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12MHZ,3.3V50PPM,-40℃~+85℃5032,SMD-5032_4P,C295511
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 24MHZ,3.3V50PPM,-40℃~+85℃5032,SMD-5032_4P,C295512
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 32.768KHZ,3.3V50PPM,-40℃~+85℃5032,SMD-5032_4P,C295513
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.096MHZ,3.3V50PPM,-40℃~+85℃5032,SMD-5032_4P,C295514
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 40MHZ,3.3V50PPM,-40℃~+85℃5032,SMD-5032_4P,C295515
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6MHZ,3.3V50PPM,-40℃~+85℃5032,SMD-5032_4P,C295516
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 13.56MHZ,3.3V25PPM,-40℃~+85℃5032,SMD-5032_4P,C295517
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 25MHZ,3.3V25PPM,-40℃~+85℃5032,SMD-5032_4P,C295518
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33.333MHZ,3.3V25PPM,-40℃~+85℃5032,SMD-5032_4P,C295519
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8MHZ,3.3V25PPM,-40℃~+85℃5032,SMD-5032_4P,C295520
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8432MHZ,3.3V50PPM,-40℃~+85℃3225,SMD-3225_4P,C295521
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12MHZ,3.3V50PPM,-40℃~+85℃3225,SMD-3225_4P,C295522
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 14.31818MHZ,3.3V50PPM,-40℃~+85℃3225,SMD-3225_4P,C295523
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 24MHZ,3.3V50PPM,-40℃~+85℃3225,SMD-3225_4P,C295524
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 25MHZ,3.3V50PPM,-40℃~+85℃3225,SMD-3225_4P,C295525
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 27MHZ,3.3V,50PPM,-40℃~+85℃,SMD-3225_4P,C295526
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-22-33E-12.000000D,SMD-3225_4P,C29752
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,24MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C30097
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-22-33E-26.000000D,SMD-3225_4P,C30103
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,25MHZ,3.3V,-40~+85℃,SMD-3225_4P,C32526
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,24MHZ,3.3V,-40~+85℃,SMD-3225_4P,C32528
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,20MHZ,3.3V,-40~+85℃,SMD-3225_4P,C32529
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,12MHZ,3.3V,-40~+85℃,SMD-3225_4P,C32531
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,37.125MHZ,3.3V,-40~+85℃,SMD-3225_4P,C32532
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,48MHZ,3.3V,-40~+85℃,SMD-3225_4P,C32533
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,20MHz,3.3V,±20ppm,SMD-7050_4P,C32943
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-82-33E-90.000000Y,SMD-7050_4P,C35045
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 133MHz,SMD-7050_4P,C367048
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG5032CAN,25MHZ,TJGA,1.6-3.6V,-40~+85℃,SMD,5.0x3.2mm,4P,C37076
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG5032CAN,50MHZ,1.6-3.6V,-40~+85℃,SMD-5032_4P,C37187
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-22-33E-37.125000D,SMD-3225_4P,C37640
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 16.0MHZ,±20ppm,3.3V,-40~85℃,SMD-7050_4P,C386990
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.9152MHZ,±20ppm,3.3V,-40~85℃,SMD-5032_4P,C387193
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5.5296MHZ,±20ppm,3.3V,-40~85℃,SMD-5032_4P,C387196
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 32.768KHZ,±20ppm,3.3V,-40~85℃,SMD-5032_4P,C387279
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.0960MHZ,±20ppm,3.3V,-40~85℃,SMD-3225_4P,C387328
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 13.56MHZ,±20ppm,5.0V,-40~85℃,SMD-3225_4P,C387362
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 32.768KHZ,±20ppm,3.3V,-40~85℃,SMD-3225_4P,C387415
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3225,3.579545MHz,1.8~3.3V,20ppm,OE,SMD_4P,-40~+105℃,SMD-3225_4P,C390558
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-22-33E-8.000000D,SMD-3225_4P,C39097
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG5032CAN,24.576MHZ,1.6-3.6V,-40~+85℃,SMD-5032_4P,C40208
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,4.096MHz,3.3V,±20ppm,SMD-7050_4P,C40267
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,8MHz,2.25V~5.5V,±25ppm,-40~+85,SMD-7050_4P,C41296
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP DSC1033BI1-026.0000T,SMD-5032_4P,C42106
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,25MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C42107
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,25MHz,5V,±20ppm,SMD-7050_4P,C42208
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,7.68MHz,3.3V,±25ppm,SMD-7050_4P,C44831
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,16MHZ,3.3V,-40~+85℃,SMD-3225_4P,C45448
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 50MHZ,3.3V,25PPM,SMD-3225_4P,C462332
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,50MHZ,3.3V,-40~+85℃,SMD-3225_4P,C46327
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,11.2896MHz,3.3V,±25ppm,SMD-7050_4P,C46350
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,33MHz,3.3V,±20ppm,SMD-7050_4P,C51785
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,74.25MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C52014
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,27MHZ,3.3V,-40~+85℃,SMD-3225_4P,C59012
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,40MHZ,3.3V,-40~+85℃,SMD-3225_4P,C61219
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,65MHz,3.3V,±20ppm,SMD-7050_4P,C62025
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,12.288MHZ,3.3V,20PPM,SMD-7050_4P,C63446
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,10MHz,3.3V~5V,±20ppm,SMD-7050_4P,C63874
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,3.6864MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70510
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,4MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70511
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,7.3728MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70512
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,8MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70513
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,12MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70514
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,12.288MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70515
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,14.7456MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70516
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,14.31818MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70517
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,16MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70518
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,16.384MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70519
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,20MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70520
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,24.576MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70521
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,27MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70522
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,28.6363MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70523
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,32MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70524
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,32.768MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70525
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,33.333MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70526
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,48MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70527
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,50MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70528
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,54MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70529
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,60MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70530
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,40MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70531
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,18.432MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70532
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CBN,125MHZ,3.3V,-40~+85℃,SMD-7050_4P,C70533
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CBN,96MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70534
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,66MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70535
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,65.536MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70536
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,14.75MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70537
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,22.1184MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70538
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,13MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70539
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CAN,30MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70540
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG7050CBN,100MHZ,1.6~3.6V,-40~+85℃,SMD-7050_4P,C70541
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG5032CAN,8MHZ,1.6-3.6V,-40~+85℃,SMD-5032_4P,C70542
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG5032CAN,32MHZ,1.6-3.6V,-40~+85℃,SMD-5032_4P,C70548
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,24.576MHZ,3.3V,-40~+85℃,SMD-3225_4P,C70552
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SEF,12MHZ,1.6~2.2V,-40~+85℃,SMD-3225_4P,C70553
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,4MHZ,3.3V,-40~+85℃,SMD-3225_4P,C70554
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,26MHZ,3.3V,-40~+85℃,SMD-3225_4P,C70555
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCF,8MHZ,3.3V,-40~+85℃,SMD-3225_4P,C70556
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-310SCN,54MHZ,3.3V,-40~+85℃,SMD-3225_4P,C70557
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-210STF,19.2MHZ,1.6V~3.6V,-40~+85℃,SMD-2520_4P,C70558
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-210STF,24MHZ,1.6V~3.6V,-40~+85℃,SMD-2520_4P,C70559
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-210STF,25MHZ,1.6V~3.6V,-40~+85℃,SMD-2520_4P,C70560
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SG-210STF,27MHZ,1.6V~3.6V,-40~+85℃,SMD-2520_4P,C70561
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO321SR,100MHZ,3.3V,20PPM,SMD-3225_4P,C70602
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO322ST,25MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-3225_4P,C70603
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO322ST,26MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-3225_4P,C70604
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO321SR,3.579545MHZ,3.3V,20PPM,SMD-3225_4P,C70605
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO322ST,3.579545MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-3225_4P,C70606
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO321SR,50MHZ,3.3V,25PPM,-40~+85,SMD-3225_4P,C70607
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,1MHZ,3.3V,土20PPM,SMD-7050_4P,C70608
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,3.579MHZ,3.3V,25PPM,SMD-7050_4P,C70610
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,3.579545MHZ,3.3V,25PPM,-40~+85,SMD-7050_4P,C70611
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,10MHZ,3.3V,20PPM,SMD-7050_4P,C70612
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,11.0592MHZ,3.3V,20PPM,SMD-7050_4P,C70613
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,16.384MHZ,3.3V,土20PPM,SMD-7050_4P,C70615
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,27MHZ,3.3V,土20PPM,SMD-7050_4P,C70618
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,33.333MHZ,3.3V,25PPM,SMD-7050_4P,C70620
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,54MHZ,3.3V,土20PPM,SMD-7050_4P,C70623
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,65.536MHZ,3.3V,土20PPM,SMD-7050_4P,C70624
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,100MHZ,3.3V,20PPM,SMD-7050_4P,C70625
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,125MHZ,3.3V,土20PPM,SMD-7050_4P,C70626
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,160MHZ,3.3V,25PPM,SMD-7050_4P,C70627
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,27.120MHZ,3.3V,20PPM,SMD-7050_4P,C70628
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,14.7456MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70632
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,12MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70633
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,25MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70634
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,27MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70635
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,20MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70636
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,24.576MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70638
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,54MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70639
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,8.192MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70640
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,16.384MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70641
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,16MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70642
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,30MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70643
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,48MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70644
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,150MHZ,3.3V,25PPM,SMD-7050_4P,C70645
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,11.0592MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70646
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,12MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70647
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,24MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70648
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,24.576MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70649
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,25MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70650
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,27MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70651
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,50MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70653
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,54MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70654
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO751SR,22.1184MHZ,3.3V-5V,20PPM,SMD-7050_4P,C70655
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,32MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70656
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,30MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70657
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,8MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70658
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,18.432MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70659
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,10MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70661
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,8.192MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70662
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,16MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70663
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO752ST,22.1184MHZ,2.25V-5.5V,25PPM,-40~+85,SMD-7050_4P,C70664
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-10.000000Y,SMD-7050_4P,C70721
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-82-33E-16.384000Y,SMD-7050_4P,C70723
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8103AI-82-33E-20.00000Y,SMD-7050_4P,C70724
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-24.000000Y,SMD-7050_4P,C70725
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-74.250000Y,SMD-7050_4P,C70730
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-75.000000Y,SMD-7050_4P,C70731
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-82-33E-85.000000Y,SMD-7050_4P,C70732
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8004AI-82-33E-148.50000Y,SMD-7050_4P,C70733
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-82-33E-12.288000Y,SMD-7050_4P,C70734
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-82-33E-22.118400Y,SMD-7050_4P,C70735
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-82-33E-11.059200Y,SMD-7050_4P,C70736
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-28.636300Y,SMD-7050_4P,C70737
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8103AI-22-33E-3.57000T,SMD-3225_4P,C70738
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-22-33E-6.140000D,SMD-3225_4P,C70739
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-22-33E-24.000000D,SMD-3225_4P,C70741
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-22-33E-24.576000D,SMD-3225_4P,C70742
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-22-33E-25.000000D,SMD-3225_4P,C70743
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-22-33E-27.000000D,SMD-3225_4P,C70745
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-22-18E-37.125000D,SMD-3225_4P,C70746
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-22-33E-48.000000T,SMD-3225_4P,C70747
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-22-33E-74.250000D,SMD-3225_4P,C70748
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,8MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79408
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,10MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79409
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,11.0592MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79410
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,12MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79411
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,12.288MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79412
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,16MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79413
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,16.384MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79414
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,18.432MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79415
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,20MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79416
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,22.1184MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79417
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,24MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79418
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,24.576MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79419
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,25MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79420
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,27MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79421
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,30MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79422
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,32MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79423
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,32.768MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79424
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,40MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79425
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,48MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79426
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,50MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79427
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,54MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79428
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,65.536MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79429
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,100MHZ,3.3V,20PPM,7050,-40~+85℃,SMD-7050_4P,C79430
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,20MHZ,3.3V,20PPM,5032,-40~+85℃,SMD-5032_4P,C79431
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,50MHZ,3.3V,20PPM,5032,-40~+85℃,SMD-5032_4P,C79432
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,74.25MHZ,3.3V,20PPM,5032,-40~+85℃,SMD-5032_4P,C79434
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YSO8008MR,4.9152MHZ,3.3V,20PPM,SMD-5032_4P,C88104
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,12MHZ,3.3V,20PPM,-40~+85℃,SMD-2520_4P,C90619
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,24MHZ,3.3V,20PPM,-40~+85℃,SMD-2520_4P,C90620
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,25MHZ,3.3V,20PPM,-40~+85℃,SMD-2520_4P,C90621
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP YS08008MR,27MHZ,3.3V,20PPM,-40~+85℃,SMD-2520_4P,C90622
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP CXO,S7050,50MHz,3.3V,25ppm,-10~70℃,SMD-7050_4P,C90936
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-25.000000Y,SMD-7050_4P,C9240
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-27.000000Y,SMD-7050_4P,C9241
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-48.000000Y,SMD-7050_4P,C9242
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-50.000000Y,SMD-7050_4P,C9243
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1602AI-82-33E-54.000000Y,SMD-7050_4P,C9244
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-82-33E-65.536000Y,SMD-7050_4P,C9245
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8008AI-82-33E-100.000000Y,SMD-7050_4P,C9248
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT8103AI-82-33E-108.00000Y,SMD-7050_4P,C9249
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

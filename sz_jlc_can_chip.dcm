@@ -1,0 +1,758 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN65HVD1050D,SOIC-8_3.9x4.9x1.27P,C108129
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TLE6250G,SOIC-8_3.9x4.9x1.27P,C111030
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1044T,118,SOIC-8_3.9x4.9x1.27P,C111560
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD235DR,SOIC-8_3.9x4.9x1.27P,C111810
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MAX3051EKA+T,SOT-23-8,C112005
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1044GTJ,SOIC-8_3.9x4.9x1.27P,C112937
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1057GT/3J,SOIC-8_3.9x4.9x1.27P,C112947
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TH8056KDC-AAA-008-RE,SOIC-8_3.9x4.9x1.27P,C113215
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1057T,118,SOIC-8_3.9x4.9x1.27P,C113349
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2542FDT-E/MNY,TDFN-8_EP_2.0x3.0x0.5P_2,C114028
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJF1052IT/5Y,SOIC-16_7.5x10.3x1.27P,C115498
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP LTC2875IS8#PBF,SOIC-8_3.9x4.9x1.27P,C117076
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP LTC2875HS8#PBF,SOIC-8_3.9x4.9x1.27P,C117401
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ADM3053BRWZ-REEL7,SOIC-20_7.5x12.8x1.27P,C117821
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJF1051T/3,118,SOP-8_3.9x4.9x1.27P,C117822
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1042DRQ1,SOIC-8_3.9x4.9x1.27P,C118837
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD230DR,SOIC-8_3.9x4.9x1.27P,C12084
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1055T/3/C,518,SOIC-14_3.9x8.7x1.27P,C12222
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NCV7356D1G,SOIC-8_3.9x4.9x1.27P,C123082
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCZ33897TEFR2,SOIC-14_3.9x8.7x1.27P,C123089
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1051HGVDR,SOIC-8_3.9x4.9x1.27P,C124013
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1042HGVDR,SOIC-8_3.9x4.9x1.27P,C124014
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2558FD-H/SN,SOIC-8_3.9x4.9x1.27P,C124015
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2562FD-E/SN,SOIC-8_3.9x4.9x1.27P,C124016
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1051VDRQ1,SOIC-8_3.9x4.9x1.27P,C126014
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1042HVDR,SOIC-8_3.9x4.9x1.27P,C127869
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP IFX1050GXUMA1,SOIC-8_3.9x4.9x1.27P,C129255
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1048T,SOIC-14_3.9x8.7x1.27P,C129256
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD231DR,SOIC-8_3.9x4.9x1.27P,C129257
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2557FD-H/SN,SOIC-8_3.9x4.9x1.27P,C129258
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ADM3051CRZ-REEL7,SOIC-8_3.9x4.9x1.27P,C129259
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1051HDR,SOIC-8_3.9x4.9x1.27P,C129307
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1051HGDR,SOIC-8_3.9x4.9x1.27P,C129809
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD1040DR,SOIC-8_3.9x4.9x1.27P,C130018
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD232QDRQ1,SOIC-8_3.9x4.9x1.27P,C130019
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1042HGDR,SOIC-8_3.9x4.9x1.27P,C130126
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN337GDCNR,SOT-23-8,C130128
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN337DCNR,SOT-23-8,C130129
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1051HVDR,SOIC-8_3.9x4.9x1.27P,C130130
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1042HDR,SOIC-8_3.9x4.9x1.27P,C130131
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1145T/FDJ,SOIC-14_3.9x8.7x1.27P,C131479
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1042T/3/1J,SOIC-8_3.9x4.9x1.27P,C132227
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1042HGVDRQ1,SOIC-8_3.9x4.9x1.27P,C132550
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD256DR,SOIC-8_3.9x4.9x1.27P,C132551
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD255DR,SOIC-8_3.9x4.9x1.27P,C132552
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1051VDQ1,SOIC-8_3.9x4.9x1.27P,C133788
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2517FD-H/SL,SOIC-14_3.9x8.7x1.27P,C133861
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD231QDG4,SOIC-8_3.9x4.9x1.27P,C133995
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP AMIS30660CANH2RG,SOIC-8_3.9x4.9x1.27P,C134097
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD1050DR,SOIC-8_3.9x4.9x1.27P,C14019
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1043T/1J,SOIC-14_3.9x8.7x1.27P,C140826
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1042T/3/CM,118,SOIC-8_3.9x4.9x1.27P,C140827
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MAX3051ESA+,SOIC-8_3.9x4.9x1.27P,C143406
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2542WFD-H/SN,SOIC-8_3.9x4.9x1.27P,C144310
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP PCA82C251T,SOIC-8_3.9x4.9x1.27P,C14758
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2515-I/ST,TSSOP-20_4.4x6.5x0.65P,C15193
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TLE7250VSJXUMA1,SOIC-8_3.9x4.9x1.27P,C152644
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP AMIS41683CANN1RG,SOIC-14_3.9x8.7x1.27P,C153758
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2515T-I/SO,SOIC-18_7.5x11.5x1.27P,C153782
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NCV7340D13R2G,SOIC-8_3.9x4.9x1.27P,C154833
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP L9616-TR,SOIC-8_3.9x4.9x1.27P,C155654
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MAX3051ESA+T,SOIC-8_3.9x4.9x1.27P,C15648
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1041AT/CM,118,SOIC-14_3.9x8.7x1.27P,C159742
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1049T,118,SOIC-8_3.9x4.9x1.27P,C163240
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ISO1050DUBR,SMD-8_6.6x9.5x2.54P,C16428
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD230QDR,SOIC-8_3.9x4.9x1.27P,C16468
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN334DCNR,SOT-23-8,C165159
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1042T,118,SOIC-8_3.9x4.9x1.27P,C169860
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD232QDR,SOIC-8_3.9x4.9x1.27P,C177182
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD257DR,SOIC-8_3.9x4.9x1.27P,C181359
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD231D,SOIC-8_3.9x4.9x1.27P,C181449
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1049T/3J,SOIC-8_3.9x4.9x1.27P,C181727
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1043TK/1Y,HVSON-14_EP_3.0x4.5x0.65P,C181728
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1051T,118,SOIC-8_3.9x4.9x1.27P,C18387
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP25625-E/SS,SSOP-28_5.3x10.2x0.65P,C184944
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2515T-I/ST,TSSOP-20_4.4x6.5x0.65P,C185941
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1059TKJ,HVSON-14_EP_3.0x4.5x0.65P,C188405
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVDA1040AQDRQ1,SOIC-8_3.9x4.9x1.27P,C188675
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NCV7351FD13R2G,SOIC-8_3.9x4.9x1.27P,C189934
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TLE9250VSJXUMA1,SO-8_4.0x5.1x1.27P,C189936
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MAX14878AWE+,SOIC-16_7.5x10.3x1.27P,C190956
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MAX14879AWE+,SOIC-16_7.5x10.3x1.27P,C190957
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MAX14880AWE+,SOIC-16_7.5x10.3x1.27P,C190958
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN1051HGVDRQ1,SOIC-8_3.9x4.9x1.27P,C190987
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN337GDR,SOIC-8_3.9x4.9x1.27P,C191004
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN332GDCNR,SOT-23-8,C191007
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN330GDR,SOIC-8_3.9x4.9x1.27P,C191009
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP25625T-E/ML,QFN-28_EP_6.0x6.0x0.65P,C191253
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1057GTJ,SOIC-8_3.9x4.9x1.27P,C194380
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD235D,SOIC-8_3.9x4.9x1.27P,C201624
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2510-E/SO,SOIC-18_7.5x11.5x1.27P,C220751
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NCV7356D1R2G,SOIC-8_3.9x4.9x1.27P,C235992
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD1040AQDRQ1,SOIC-8_3.9x4.9x1.27P,C273638
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD232DR,SOIC-8_3.9x4.9x1.27P,C30530
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT82C250T,SOP-8_3.9x4.9x1.27P,C313019
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT82C251T,SOP-8_3.9x4.9x1.27P,C313020
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT1050T,SOP-8_3.9x4.9x1.27P,C313021
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1041T/CM,SOIC-14_3.9x8.7x1.27P,C35997
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD251DR,SOIC-8_3.9x4.9x1.27P,C364894
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NCV7342D10R2G,SOIC-8_3.9x4.9x1.27P,C367380
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP NCV7351D10R2G,SOIC-8_3.9x4.9x1.27P,C377541
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1051T/3,SOIC-8_3.9x4.9x1.27P,C38695
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MAX3057ASA+T,SOIC-8_3.9x4.9x1.27P,C39879
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MAX13054AEASA+,SOIC-8_3.9x4.9x1.27P,C402926
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SIT2551T,SOP-8_3.9x4.9x1.27P,C403912
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ILA82C251DT-BF,SOP-8_3.9x4.9x1.27P,C412489
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2562-E/SN,SOIC-8_3.9x4.9x1.27P,C53609
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1042T/1J,SOP-8_3.9x4.9x1.27P,C53670
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD233DRG4,SOIC-8_3.9x4.9x1.27P,C61643
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1055T/C,518,SOIC-14_3.9x8.7x1.27P,C63049
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SJA1000T,SOIC-28_7.5x17.9x1.27P,C6910
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD251DRG4,SOIC-8_3.9x4.9x1.27P,C6911
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1040T/CM,SOIC-8_3.9x4.9x1.27P,C6951
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1050T/CM,SOIC-8_3.9x4.9x1.27P,C6952
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TCAN332DR,SOIC-8_3.9x4.9x1.27P,C73651
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2551-I/SN,SOIC-8_3.9x4.9x1.27P,C7376
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP PCA82C250T/YM,SOIC-8_3.9x4.9x1.27P,C7439
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2561T-E/SN,SOIC-8_3.9x4.9x1.27P,C87081
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1042T/3,118,SOIC-8_3.9x4.9x1.27P,C92208
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1052IT/2Y,SOIC-16_7.5x10.3x1.27P,C92209
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1052IT/5Y,SOIC-16_7.5x10.3x1.27P,C92210
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1051T/1J,SOIC-8_3.9x4.9x1.27P,C92211
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ISO1050DWR,SOIC-16_7.5x10.3x1.27P,C93718
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TJA1043T,118,SOIC-14_3.9x8.7x1.27P,C95335
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MCP2515T-I/ML,QFN-20_EP_4.0x4.0x0.5P,C96140
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SN65HVD234DR,SOIC-8_3.9x4.9x1.27P,C99818
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BYG23T-M3/TR,SMA,DO-214AC,C145454
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP BAS29,215,SOT-23-3,C246394
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP BYG21M-E3/TR,SMA,DO-214AC,C36987
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

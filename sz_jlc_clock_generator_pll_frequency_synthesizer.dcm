@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADF4153ABRUZ,TSSOP-16_4.4x5.0x0.65P,C208632
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP CY2305SXI-1H,SOIC-8_3.9x4.9x1.27P,C466855
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP CY2305SXI-1T,SOIC-8_3.9x4.9x1.27P,C6571
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP CY2308SXI-1,SOIC-16_3.9x9.9x1.27P,C6572
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

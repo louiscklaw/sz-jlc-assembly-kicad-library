@@ -1,0 +1,5828 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 2.2uH,±10%,0603,C1033
+#
+DEF 2.2uH,±10%,0603,C1033 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH,±10%,0603,C1033" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1033" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH,±10%,0603,C1033" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±10%,0603,C1034
+#
+DEF 4.7uH,±10%,0603,C1034 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±10%,0603,C1034" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1034" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±10%,0603,C1034" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH,±10%,0603,C1035
+#
+DEF 10uH,±10%,0603,C1035 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH,±10%,0603,C1035" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1035" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH,±10%,0603,C1035" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uH,±10%,0805,C1042
+#
+DEF 1uH,±10%,0805,C1042 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1uH,±10%,0805,C1042" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1042" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1uH,±10%,0805,C1042" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "1uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uH,±10%,0805,C1043
+#
+DEF 2.2uH,±10%,0805,C1043 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH,±10%,0805,C1043" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1043" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH,±10%,0805,C1043" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±10%,0805,C1044
+#
+DEF 4.7uH,±10%,0805,C1044 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±10%,0805,C1044" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1044" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±10%,0805,C1044" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ML 美莱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5.6uH,±10%,0805,C1045
+#
+DEF 5.6uH,±10%,0805,C1045 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5.6uH,±10%,0805,C1045" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1045" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5.6uH,±10%,0805,C1045" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5.6uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH,±10%,0805,C1046
+#
+DEF 10uH,±10%,0805,C1046 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH,±10%,0805,C1046" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1046" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH,±10%,0805,C1046" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uH,±10%,1206,C1047
+#
+DEF 1uH,±10%,1206,C1047 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1uH,±10%,1206,C1047" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1047" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1uH,±10%,1206,C1047" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uH,±10%,1206,C1048
+#
+DEF 2.2uH,±10%,1206,C1048 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH,±10%,1206,C1048" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1048" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH,±10%,1206,C1048" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±10%,1206,C1049
+#
+DEF 4.7uH,±10%,1206,C1049 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±10%,1206,C1049" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1049" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±10%,1206,C1049" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5.6uH,±10%,1206,C1050
+#
+DEF 5.6uH,±10%,1206,C1050 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5.6uH,±10%,1206,C1050" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1050" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5.6uH,±10%,1206,C1050" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5.6uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH,±10%,1206,C1051
+#
+DEF 10uH,±10%,1206,C1051 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH,±10%,1206,C1051" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C1051" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH,±10%,1206,C1051" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33nH,±5%,600mA,0603,C11774
+#
+DEF 33nH,±5%,600mA,0603,C11774 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "33nH,±5%,600mA,0603,C11774" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C11774" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "33nH,±5%,600mA,0603,C11774" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "LC 立创" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "33nH ±5% 600mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 68nH,±5%,0805,C11775
+#
+DEF 68nH,±5%,0805,C11775 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "68nH,±5%,0805,C11775" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C11775" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "68nH,±5%,0805,C11775" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ML 美莱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "68nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 39nH,±5%,0603,C12327
+#
+DEF 39nH,±5%,0603,C12327 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "39nH,±5%,0603,C12327" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C12327" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "39nH,±5%,0603,C12327" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ML 美莱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "39nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 39nH,±5%,0805,C12328
+#
+DEF 39nH,±5%,0805,C12328 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "39nH,±5%,0805,C12328" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C12328" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "39nH,±5%,0805,C12328" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "39nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uH,±10%,0603,C12374
+#
+DEF 1uH,±10%,0603,C12374 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1uH,±10%,0603,C12374" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C12374" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1uH,±10%,0603,C12374" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ML 美莱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.3uH,±10%,0603,C12589
+#
+DEF 3.3uH,±10%,0603,C12589 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3.3uH,±10%,0603,C12589" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C12589" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3.3uH,±10%,0603,C12589" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3.3uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22nH,±5%,0402,C12670
+#
+DEF 22nH,±5%,0402,C12670 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "22nH,±5%,0402,C12670" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C12670" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "22nH,±5%,0402,C12670" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "22nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uH,±10%,0805,C14304
+#
+DEF 47uH,±10%,0805,C14304 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "47uH,±10%,0805,C14304" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C14304" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "47uH,±10%,0805,C14304" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "47uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10nH,±5%,300mA,0805,C14457
+#
+DEF 10nH,±5%,300mA,0805,C14457 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10nH,±5%,300mA,0805,C14457" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C14457" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10nH,±5%,300mA,0805,C14457" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10nH ±5% 300mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22nH,±5%,0805,C14459
+#
+DEF 22nH,±5%,0805,C14459 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "22nH,±5%,0805,C14459" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C14459" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "22nH,±5%,0805,C14459" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "22nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 18nH,±5%,300mA,0805,C14460
+#
+DEF 18nH,±5%,300mA,0805,C14460 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "18nH,±5%,300mA,0805,C14460" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C14460" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "18nH,±5%,300mA,0805,C14460" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "18nH ±5% 300mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.5uH,±10%,1206,C15581
+#
+DEF 1.5uH,±10%,1206,C15581 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.5uH,±10%,1206,C15581" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C15581" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.5uH,±10%,1206,C15581" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.5uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33uH,±10%,0805,C18101
+#
+DEF 33uH,±10%,0805,C18101 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "33uH,±10%,0805,C18101" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C18101" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "33uH,±10%,0805,C18101" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "33uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2nH,±0.3nH,900mA,0402,C18216
+#
+DEF 2nH,±0.3nH,900mA,0402,C18216 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2nH,±0.3nH,900mA,0402,C18216" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C18216" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2nH,±0.3nH,900mA,0402,C18216" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2nH ±0.3nH 900mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.6nH,±0.3nH,750mA,0402,C19216
+#
+DEF 3.6nH,±0.3nH,750mA,0402,C19216 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3.6nH,±0.3nH,750mA,0402,C19216" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C19216" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3.6nH,±0.3nH,750mA,0402,C19216" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3.6nH ±0.3nH 750mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6.8nH,±0.2nH,200mA,0603,C19227
+#
+DEF 6.8nH,±0.2nH,200mA,0603,C19227 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "6.8nH,±0.2nH,200mA,0603,C19227" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C19227" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "6.8nH,±0.2nH,200mA,0603,C19227" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "6.8nH ±0.2nH 200mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3nH,±0.3nH,0402,C19898
+#
+DEF 3nH,±0.3nH,0402,C19898 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3nH,±0.3nH,0402,C19898" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C19898" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3nH,±0.3nH,0402,C19898" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3nH ±0.3nH" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 600Ω±25%,100MHz,0603,C20345
+#
+DEF 600Ω±25%,100MHz,0603,C20345 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "600Ω±25%,100MHz,0603,C20345" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C20345" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "600Ω±25%,100MHz,0603,C20345" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "600Ω±25% 100MHz" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 12uH,±10%,3mA,0603,C21306
+#
+DEF 12uH,±10%,3mA,0603,C21306 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "12uH,±10%,3mA,0603,C21306" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C21306" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "12uH,±10%,3mA,0603,C21306" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "12uH ±10% 3mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10nH,±5%,0402,C21585
+#
+DEF 10nH,±5%,0402,C21585 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10nH,±5%,0402,C21585" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C21585" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10nH,±5%,0402,C21585" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 36nH,±5%,0805,C21941
+#
+DEF 36nH,±5%,0805,C21941 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "36nH,±5%,0805,C21941" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C21941" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "36nH,±5%,0805,C21941" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "36nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uH,±5%,400mA,1210,C22202
+#
+DEF 1uH,±5%,400mA,1210,C22202 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1uH,±5%,400mA,1210,C22202" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C22202" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1uH,±5%,400mA,1210,C22202" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1uH ±5% 400mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7nH,±0.1nH,160mA,0402,C23769
+#
+DEF 4.7nH,±0.1nH,160mA,0402,C23769 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7nH,±0.1nH,160mA,0402,C23769" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C23769" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7nH,±0.1nH,160mA,0402,C23769" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7nH ±0.1nH 160mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.7uH,±10%,30mA,0805,C24183
+#
+DEF 2.7uH,±10%,30mA,0805,C24183 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.7uH,±10%,30mA,0805,C24183" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C24183" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.7uH,±10%,30mA,0805,C24183" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.7uH ±10% 30mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uH,±10%,1206,C26910
+#
+DEF 47uH,±10%,1206,C26910 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "47uH,±10%,1206,C26910" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C26910" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "47uH,±10%,1206,C26910" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "47uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.8uH,±10%,1210,C27774
+#
+DEF 1.8uH,±10%,1210,C27774 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.8uH,±10%,1210,C27774" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C27774" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.8uH,±10%,1210,C27774" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.8uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100uH,±20%,1210,C27775
+#
+DEF 100uH,±20%,1210,C27775 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "100uH,±20%,1210,C27775" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C27775" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "100uH,±20%,1210,C27775" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "100uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330nH,±10%,250mA,0805,C29069
+#
+DEF 330nH,±10%,250mA,0805,C29069 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "330nH,±10%,250mA,0805,C29069" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C29069" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "330nH,±10%,250mA,0805,C29069" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "330nH ±10% 250mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 18uH,±5%,1210,C295126
+#
+DEF 18uH,±5%,1210,C295126 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "18uH,±5%,1210,C295126" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C295126" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "18uH,±5%,1210,C295126" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "18uH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.7uH,±10%,0603,C29946
+#
+DEF 2.7uH,±10%,0603,C29946 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.7uH,±10%,0603,C29946" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C29946" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.7uH,±10%,0603,C29946" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.7uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 390nH,±10%,0805,C29972
+#
+DEF 390nH,±10%,0805,C29972 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "390nH,±10%,0805,C29972" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C29972" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "390nH,±10%,0805,C29972" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ML 美莱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "390nH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330nH,±10%,250mA,0805,C30617
+#
+DEF 330nH,±10%,250mA,0805,C30617 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "330nH,±10%,250mA,0805,C30617" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C30617" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "330nH,±10%,250mA,0805,C30617" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "330nH ±10% 250mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150nH,±10%,250mA,0805,C30618
+#
+DEF 150nH,±10%,250mA,0805,C30618 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "150nH,±10%,250mA,0805,C30618" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C30618" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "150nH,±10%,250mA,0805,C30618" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "150nH ±10% 250mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH,±5%,1210,C31961
+#
+DEF 10uH,±5%,1210,C31961 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH,±5%,1210,C31961" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C31961" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH,±5%,1210,C31961" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22uH,±10%,0805,C32375
+#
+DEF 22uH,±10%,0805,C32375 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "22uH,±10%,0805,C32375" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C32375" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "22uH,±10%,0805,C32375" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "22uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nH,±5%,0805,C32878
+#
+DEF 100nH,±5%,0805,C32878 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "100nH,±5%,0805,C32878" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C32878" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "100nH,±5%,0805,C32878" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "100nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.1nH,±0.3nH,400mA,0402,C33115
+#
+DEF 1.1nH,±0.3nH,400mA,0402,C33115 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.1nH,±0.3nH,400mA,0402,C33115" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C33115" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.1nH,±0.3nH,400mA,0402,C33115" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ML 美莱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.1nH ±0.3nH 400mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uH,±5%,1210,C36828
+#
+DEF 2.2uH,±5%,1210,C36828 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH,±5%,1210,C36828" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C36828" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH,±5%,1210,C36828" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 560nH,±5%,230mA,0805,C37297
+#
+DEF 560nH,±5%,230mA,0805,C37297 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "560nH,±5%,230mA,0805,C37297" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C37297" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "560nH,±5%,230mA,0805,C37297" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "560nH ±5% 230mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2nH,±0.3nH,500mA,0603,C40464
+#
+DEF 2nH,±0.3nH,500mA,0603,C40464 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2nH,±0.3nH,500mA,0603,C40464" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C40464" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2nH,±0.3nH,500mA,0603,C40464" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2nH ±0.3nH 500mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3nH,±0.3nH,0603,C40465
+#
+DEF 3nH,±0.3nH,0603,C40465 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3nH,±0.3nH,0603,C40465" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C40465" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3nH,±0.3nH,0603,C40465" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3nH ±0.3nH" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.8uH,±5%,350mA,1210,C41039
+#
+DEF 1.8uH,±5%,350mA,1210,C41039 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.8uH,±5%,350mA,1210,C41039" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C41039" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.8uH,±5%,350mA,1210,C41039" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.8uH ±5% 350mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uH,±5%,350mA,0805,C41651
+#
+DEF 2.2uH,±5%,350mA,0805,C41651 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH,±5%,350mA,0805,C41651" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C41651" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH,±5%,350mA,0805,C41651" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH ±5% 350mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 18uH,±10%,0805,C42027
+#
+DEF 18uH,±10%,0805,C42027 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "18uH,±10%,0805,C42027" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C42027" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "18uH,±10%,0805,C42027" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "18uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.8uH,±10%,1206,C43936
+#
+DEF 1.8uH,±10%,1206,C43936 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.8uH,±10%,1206,C43936" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C43936" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.8uH,±10%,1206,C43936" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.8uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 24nH,±5%,300mA,0603,C47614
+#
+DEF 24nH,±5%,300mA,0603,C47614 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "24nH,±5%,300mA,0603,C47614" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C47614" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "24nH,±5%,300mA,0603,C47614" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "24nH ±5% 300mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 30nH,±0.3nH,300mA,0603,C47615
+#
+DEF 30nH,±0.3nH,300mA,0603,C47615 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "30nH,±0.3nH,300mA,0603,C47615" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C47615" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "30nH,±0.3nH,300mA,0603,C47615" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "30nH ±0.3nH 300mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0.47uH,±10%,0805,C48556
+#
+DEF 0.47uH,±10%,0805,C48556 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0.47uH,±10%,0805,C48556" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C48556" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0.47uH,±10%,0805,C48556" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0.47uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 36nH,±5%,300mA,0603,C48589
+#
+DEF 36nH,±5%,300mA,0603,C48589 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "36nH,±5%,300mA,0603,C48589" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C48589" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "36nH,±5%,300mA,0603,C48589" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ML 美莱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "36nH ±5% 300mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uH,±10%,0402,C49067
+#
+DEF 2.2uH,±10%,0402,C49067 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH,±10%,0402,C49067" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C49067" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH,±10%,0402,C49067" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nH,±5%,0603,C49329
+#
+DEF 100nH,±5%,0603,C49329 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "100nH,±5%,0603,C49329" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C49329" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "100nH,±5%,0603,C49329" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "100nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uH,±10%,0603,C49810
+#
+DEF 1uH,±10%,0603,C49810 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1uH,±10%,0603,C49810" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C49810" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1uH,±10%,0603,C49810" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.3uH±10%,0805,C51725
+#
+DEF 3.3uH±10%,0805,C51725 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3.3uH±10%,0805,C51725" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C51725" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3.3uH±10%,0805,C51725" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "3.3uH±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 36nH,±5%,150mA,0402,C52050
+#
+DEF 36nH,±5%,150mA,0402,C52050 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "36nH,±5%,150mA,0402,C52050" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C52050" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "36nH,±5%,150mA,0402,C52050" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ML 美莱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "36nH ±5% 150mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.3uH,±10%,50mA,1206,C52707
+#
+DEF 3.3uH,±10%,50mA,1206,C52707 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3.3uH,±10%,50mA,1206,C52707" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C52707" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3.3uH,±10%,50mA,1206,C52707" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3.3uH ±10% 50mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uH,±20%,900mA,0805,C55755
+#
+DEF 2.2uH,±20%,900mA,0805,C55755 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH,±20%,900mA,0805,C55755" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C55755" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH,±20%,900mA,0805,C55755" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH ±20% 900mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 27nH,±5%,0805,C56586
+#
+DEF 27nH,±5%,0805,C56586 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "27nH,±5%,0805,C56586" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C56586" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "27nH,±5%,0805,C56586" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "27nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±5%,220mA,1210,C56767
+#
+DEF 4.7uH,±5%,220mA,1210,C56767 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±5%,220mA,1210,C56767" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C56767" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±5%,220mA,1210,C56767" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±5% 220mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5.6uH,±10%,5mA,0603,C57837
+#
+DEF 5.6uH,±10%,5mA,0603,C57837 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5.6uH,±10%,5mA,0603,C57837" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C57837" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5.6uH,±10%,5mA,0603,C57837" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5.6uH ±10% 5mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15uH,±10%,1mA,0603,C57838
+#
+DEF 15uH,±10%,1mA,0603,C57838 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "15uH,±10%,1mA,0603,C57838" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C57838" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "15uH,±10%,1mA,0603,C57838" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "15uH ±10% 1mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 18uH,±10%,0603,C57839
+#
+DEF 18uH,±10%,0603,C57839 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "18uH,±10%,0603,C57839" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C57839" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "18uH,±10%,0603,C57839" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "18uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22uH,±10%,1mA,0603,C57840
+#
+DEF 22uH,±10%,1mA,0603,C57840 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "22uH,±10%,1mA,0603,C57840" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C57840" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "22uH,±10%,1mA,0603,C57840" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "22uH ±10% 1mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 27uH,±10%,1mA,0603,C57841
+#
+DEF 27uH,±10%,1mA,0603,C57841 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "27uH,±10%,1mA,0603,C57841" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C57841" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "27uH,±10%,1mA,0603,C57841" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "27uH ±10% 1mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uH,±5%,1210,C63833
+#
+DEF 470uH,±5%,1210,C63833 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "470uH,±5%,1210,C63833" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C63833" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "470uH,±5%,1210,C63833" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ML 美莱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "470uH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22uH,±10%,1206,C64476
+#
+DEF 22uH,±10%,1206,C64476 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "22uH,±10%,1206,C64476" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C64476" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "22uH,±10%,1206,C64476" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "22uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uH,,±5%,,60mA,1210,C66936
+#
+DEF 47uH,,±5%,,60mA,1210,C66936 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "47uH,,±5%,,60mA,1210,C66936" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C66936" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "47uH,,±5%,,60mA,1210,C66936" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "47uH  ±5%  60mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100uH,±10%,0805,C68035
+#
+DEF 100uH,±10%,0805,C68035 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "100uH,±10%,0805,C68035" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C68035" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "100uH,±10%,0805,C68035" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "100uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22nH,±5%,0603,C71649
+#
+DEF 22nH,±5%,0603,C71649 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "22nH,±5%,0603,C71649" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C71649" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "22nH,±5%,0603,C71649" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "22nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0.82uH,±10%,0603,C74313
+#
+DEF 0.82uH,±10%,0603,C74313 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0.82uH,±10%,0603,C74313" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74313" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0.82uH,±10%,0603,C74313" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0.82uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±10%,0805,C74314
+#
+DEF 4.7uH,±10%,0805,C74314 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±10%,0805,C74314" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74314" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±10%,0805,C74314" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0.68uH,±10%,0805,C74315
+#
+DEF 0.68uH,±10%,0805,C74315 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0.68uH,±10%,0805,C74315" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74315" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0.68uH,±10%,0805,C74315" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0.68uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.7uH,±10%,0805,C74318
+#
+DEF 2.7uH,±10%,0805,C74318 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.7uH,±10%,0805,C74318" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74318" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.7uH,±10%,0805,C74318" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.7uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.5uH,±10%,1206,C74477
+#
+DEF 1.5uH,±10%,1206,C74477 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.5uH,±10%,1206,C74477" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74477" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.5uH,±10%,1206,C74477" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.5uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uH,±10%,1206,C75660
+#
+DEF 47uH,±10%,1206,C75660 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "47uH,±10%,1206,C75660" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1206" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C75660" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "47uH,±10%,1206,C75660" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "47uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1206*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6.8uH,±10%,0603,C75929
+#
+DEF 6.8uH,±10%,0603,C75929 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "6.8uH,±10%,0603,C75929" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C75929" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "6.8uH,±10%,0603,C75929" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "6.8uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH±10%,0603,C76730
+#
+DEF 4.7uH±10%,0603,C76730 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH±10%,0603,C76730" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76730" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH±10%,0603,C76730" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 390nH±10%,0603,C76731
+#
+DEF 390nH±10%,0603,C76731 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "390nH±10%,0603,C76731" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76731" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "390nH±10%,0603,C76731" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "390nH±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH±10%,0603,C76732
+#
+DEF 10uH±10%,0603,C76732 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH±10%,0603,C76732" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76732" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH±10%,0603,C76732" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 12uH±5%,0603,C76733
+#
+DEF 12uH±5%,0603,C76733 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "12uH±5%,0603,C76733" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76733" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "12uH±5%,0603,C76733" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "12uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5.6uH±10%,0603,C76734
+#
+DEF 5.6uH±10%,0603,C76734 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5.6uH±10%,0603,C76734" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76734" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5.6uH±10%,0603,C76734" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5.6uH±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8.2uH±5%,0603,C76735
+#
+DEF 8.2uH±5%,0603,C76735 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "8.2uH±5%,0603,C76735" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76735" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "8.2uH±5%,0603,C76735" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "8.2uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH±10%,0805,C76736
+#
+DEF 4.7uH±10%,0805,C76736 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH±10%,0805,C76736" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76736" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH±10%,0805,C76736" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nH±5%,0805,C76737
+#
+DEF 100nH±5%,0805,C76737 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "100nH±5%,0805,C76737" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76737" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "100nH±5%,0805,C76737" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "100nH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 120nH±10%,0805,C76738
+#
+DEF 120nH±10%,0805,C76738 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "120nH±10%,0805,C76738" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76738" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "120nH±10%,0805,C76738" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "120nH±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150nH±5%,0805,C76739
+#
+DEF 150nH±5%,0805,C76739 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "150nH±5%,0805,C76739" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76739" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "150nH±5%,0805,C76739" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "150nH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220nH±5%,0805,C76740
+#
+DEF 220nH±5%,0805,C76740 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "220nH±5%,0805,C76740" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76740" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "220nH±5%,0805,C76740" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "220nH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820nH±5%,0805,C76741
+#
+DEF 820nH±5%,0805,C76741 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "820nH±5%,0805,C76741" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76741" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "820nH±5%,0805,C76741" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "820nH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH±5%,0805,C76742
+#
+DEF 10uH±5%,0805,C76742 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH±5%,0805,C76742" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76742" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH±5%,0805,C76742" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 12uH±5%,0805,C76744
+#
+DEF 12uH±5%,0805,C76744 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "12uH±5%,0805,C76744" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76744" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "12uH±5%,0805,C76744" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "12uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uH±20%,0805,C76793
+#
+DEF 1uH±20%,0805,C76793 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1uH±20%,0805,C76793" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76793" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1uH±20%,0805,C76793" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1uH±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.5uH±20%,0805,C76794
+#
+DEF 1.5uH±20%,0805,C76794 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.5uH±20%,0805,C76794" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76794" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.5uH±20%,0805,C76794" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.5uH±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uH±20%,0603,C76797
+#
+DEF 2.2uH±20%,0603,C76797 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH±20%,0603,C76797" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76797" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH±20%,0603,C76797" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH±20%,0603,C76799
+#
+DEF 4.7uH±20%,0603,C76799 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH±20%,0603,C76799" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76799" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH±20%,0603,C76799" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15uH±10%,1812,C76823
+#
+DEF 15uH±10%,1812,C76823 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "15uH±10%,1812,C76823" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1812" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76823" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "15uH±10%,1812,C76823" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1812" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "15uH±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1812*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH±5%,1210,C76835
+#
+DEF 10uH±5%,1210,C76835 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH±5%,1210,C76835" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76835" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH±5%,1210,C76835" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100uH±5%,1210,C76836
+#
+DEF 100uH±5%,1210,C76836 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "100uH±5%,1210,C76836" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76836" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "100uH±5%,1210,C76836" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "100uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.5uH±5%,1210,C76837
+#
+DEF 1.5uH±5%,1210,C76837 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.5uH±5%,1210,C76837" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76837" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.5uH±5%,1210,C76837" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.5uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 27uH±5%,1210,C76839
+#
+DEF 27uH±5%,1210,C76839 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "27uH±5%,1210,C76839" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76839" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "27uH±5%,1210,C76839" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "27uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33uH±5%,1210,C76840
+#
+DEF 33uH±5%,1210,C76840 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "33uH±5%,1210,C76840" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76840" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "33uH±5%,1210,C76840" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "33uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 39uH±5%,1210,C76841
+#
+DEF 39uH±5%,1210,C76841 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "39uH±5%,1210,C76841" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76841" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "39uH±5%,1210,C76841" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "39uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH±5%,1210,C76842
+#
+DEF 4.7uH±5%,1210,C76842 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH±5%,1210,C76842" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76842" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH±5%,1210,C76842" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 68uH±5%,1210,C76843
+#
+DEF 68uH±5%,1210,C76843 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "68uH±5%,1210,C76843" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76843" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "68uH±5%,1210,C76843" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "68uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 82uH±5%,1210,C76844
+#
+DEF 82uH±5%,1210,C76844 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "82uH±5%,1210,C76844" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76844" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "82uH±5%,1210,C76844" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "82uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8.2uH±5%,1210,C76845
+#
+DEF 8.2uH±5%,1210,C76845 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "8.2uH±5%,1210,C76845" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C76845" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "8.2uH±5%,1210,C76845" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "8.2uH±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1nH,±0.1nH,400mA,0402,C77116
+#
+DEF 1nH,±0.1nH,400mA,0402,C77116 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1nH,±0.1nH,400mA,0402,C77116" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77116" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1nH,±0.1nH,400mA,0402,C77116" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1nH ±0.1nH 400mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.2nH,±0.1nH,0402,C77117
+#
+DEF 1.2nH,±0.1nH,0402,C77117 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.2nH,±0.1nH,0402,C77117" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77117" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.2nH,±0.1nH,0402,C77117" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.2nH ±0.1nH" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.5nH,±0.1nH,280mA,0402,C77118
+#
+DEF 1.5nH,±0.1nH,280mA,0402,C77118 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.5nH,±0.1nH,280mA,0402,C77118" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77118" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.5nH,±0.1nH,280mA,0402,C77118" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.5nH ±0.1nH 280mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.8nH,±0.1nH,280mA,0402,C77119
+#
+DEF 1.8nH,±0.1nH,280mA,0402,C77119 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.8nH,±0.1nH,280mA,0402,C77119" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77119" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.8nH,±0.1nH,280mA,0402,C77119" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.8nH ±0.1nH 280mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2nH,±0.1nH,220mA,0402,C77120
+#
+DEF 2.2nH,±0.1nH,220mA,0402,C77120 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2nH,±0.1nH,220mA,0402,C77120" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77120" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2nH,±0.1nH,220mA,0402,C77120" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2nH ±0.1nH 220mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.7nH,±0.1nH,220mA,0402,C77121
+#
+DEF 2.7nH,±0.1nH,220mA,0402,C77121 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.7nH,±0.1nH,220mA,0402,C77121" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77121" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.7nH,±0.1nH,220mA,0402,C77121" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.7nH ±0.1nH 220mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.3nH,±0.1nH,190mA,0402,C77122
+#
+DEF 3.3nH,±0.1nH,190mA,0402,C77122 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3.3nH,±0.1nH,190mA,0402,C77122" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77122" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3.3nH,±0.1nH,190mA,0402,C77122" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3.3nH ±0.1nH 190mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.9nH,±0.1nH,170mA,0402,C77123
+#
+DEF 3.9nH,±0.1nH,170mA,0402,C77123 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3.9nH,±0.1nH,170mA,0402,C77123" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77123" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3.9nH,±0.1nH,170mA,0402,C77123" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3.9nH ±0.1nH 170mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 20nH,±2%,0603,C77124
+#
+DEF 20nH,±2%,0603,C77124 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "20nH,±2%,0603,C77124" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77124" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "20nH,±2%,0603,C77124" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "20nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 9.1nH,±0.5nH,650mA,0603,C77125
+#
+DEF 9.1nH,±0.5nH,650mA,0603,C77125 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "9.1nH,±0.5nH,650mA,0603,C77125" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77125" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "9.1nH,±0.5nH,650mA,0603,C77125" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "9.1nH ±0.5nH 650mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 180nH,±5%,0603,C77126
+#
+DEF 180nH,±5%,0603,C77126 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "180nH,±5%,0603,C77126" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77126" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "180nH,±5%,0603,C77126" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "180nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220nH,±5%,0603,C77127
+#
+DEF 220nH,±5%,0603,C77127 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "220nH,±5%,0603,C77127" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C77127" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "220nH,±5%,0603,C77127" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "220nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22nH,±2%,0603,C84341
+#
+DEF 22nH,±2%,0603,C84341 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "22nH,±2%,0603,C84341" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84341" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "22nH,±2%,0603,C84341" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "22nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uH,±10%,0402,C84468
+#
+DEF 1uH,±10%,0402,C84468 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1uH,±10%,0402,C84468" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84468" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1uH,±10%,0402,C84468" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.2uH,±10%,0402,C84469
+#
+DEF 1.2uH,±10%,0402,C84469 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.2uH,±10%,0402,C84469" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84469" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.2uH,±10%,0402,C84469" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.2uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.5uH,±10%,0402,C84470
+#
+DEF 1.5uH,±10%,0402,C84470 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.5uH,±10%,0402,C84470" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84470" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.5uH,±10%,0402,C84470" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.5uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2UH,±10%,0402,C84472
+#
+DEF 2.2UH,±10%,0402,C84472 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2UH,±10%,0402,C84472" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84472" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2UH,±10%,0402,C84472" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2UH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.3uH,±10%,0402,C84474
+#
+DEF 3.3uH,±10%,0402,C84474 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3.3uH,±10%,0402,C84474" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84474" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3.3uH,±10%,0402,C84474" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Sunlord 顺络" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3.3uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15nH,±5%,0402,C86059
+#
+DEF 15nH,±5%,0402,C86059 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "15nH,±5%,0402,C86059" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86059" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "15nH,±5%,0402,C86059" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "15nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 18nH,±5%,0402,C86060
+#
+DEF 18nH,±5%,0402,C86060 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "18nH,±5%,0402,C86060" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86060" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "18nH,±5%,0402,C86060" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "18nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2nH,±0.3nH,900mA,0402,C86061
+#
+DEF 2.2nH,±0.3nH,900mA,0402,C86061 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2nH,±0.3nH,900mA,0402,C86061" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86061" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2nH,±0.3nH,900mA,0402,C86061" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2nH ±0.3nH 900mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33nH,±5%,0402,C86062
+#
+DEF 33nH,±5%,0402,C86062 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "33nH,±5%,0402,C86062" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86062" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "33nH,±5%,0402,C86062" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "33nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 39nH,±5%,0402,C86063
+#
+DEF 39nH,±5%,0402,C86063 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "39nH,±5%,0402,C86063" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86063" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "39nH,±5%,0402,C86063" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "39nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.3nH,±0.3nH,800mA,0402,C86064
+#
+DEF 3.3nH,±0.3nH,800mA,0402,C86064 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3.3nH,±0.3nH,800mA,0402,C86064" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86064" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3.3nH,±0.3nH,800mA,0402,C86064" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3.3nH ±0.3nH 800mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7nH,±0.3nH,700mA,0402,C86065
+#
+DEF 4.7nH,±0.3nH,700mA,0402,C86065 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7nH,±0.3nH,700mA,0402,C86065" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86065" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7nH,±0.3nH,700mA,0402,C86065" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7nH ±0.3nH 700mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5.1nH,±0.3nH,0402,C86066
+#
+DEF 5.1nH,±0.3nH,0402,C86066 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5.1nH,±0.3nH,0402,C86066" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86066" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5.1nH,±0.3nH,0402,C86066" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5.1nH ±0.3nH" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 120nH,±5%,0402,C86067
+#
+DEF 120nH,±5%,0402,C86067 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "120nH,±5%,0402,C86067" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86067" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "120nH,±5%,0402,C86067" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "120nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33nH,±5%,0603,C86068
+#
+DEF 33nH,±5%,0603,C86068 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "33nH,±5%,0603,C86068" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86068" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "33nH,±5%,0603,C86068" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "33nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH,±10%,1210,C86069
+#
+DEF 10uH,±10%,1210,C86069 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH,±10%,1210,C86069" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86069" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH,±10%,1210,C86069" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±20%,1210,C86070
+#
+DEF 4.7uH,±20%,1210,C86070 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±20%,1210,C86070" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86070" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±20%,1210,C86070" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 560uH,±5%,1210,C86071
+#
+DEF 560uH,±5%,1210,C86071 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "560uH,±5%,1210,C86071" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86071" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "560uH,±5%,1210,C86071" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "560uH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 560uH,±10%,1210,C86072
+#
+DEF 560uH,±10%,1210,C86072 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "560uH,±10%,1210,C86072" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86072" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "560uH,±10%,1210,C86072" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "560uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH,±20%,1210,C86073
+#
+DEF 10uH,±20%,1210,C86073 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH,±20%,1210,C86073" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86073" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH,±20%,1210,C86073" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uH,±30%,1210,C86074
+#
+DEF 2.2uH,±30%,1210,C86074 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH,±30%,1210,C86074" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86074" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH,±30%,1210,C86074" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH ±30%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±10%,1812,C86079
+#
+DEF 4.7uH,±10%,1812,C86079 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±10%,1812,C86079" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1812" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86079" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±10%,1812,C86079" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1812" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1812*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uH,±30%,0805,C86086
+#
+DEF 1uH,±30%,0805,C86086 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1uH,±30%,0805,C86086" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86086" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1uH,±30%,0805,C86086" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1uH ±30%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uH,±30%,0805,C86087
+#
+DEF 47uH,±30%,0805,C86087 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "47uH,±30%,0805,C86087" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86087" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "47uH,±30%,0805,C86087" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "47uH ±30%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±30%,0805,C86088
+#
+DEF 4.7uH,±30%,0805,C86088 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±30%,0805,C86088" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86088" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±30%,0805,C86088" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±30%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uH,±30%,0805,C86089
+#
+DEF 2.2uH,±30%,0805,C86089 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH,±30%,0805,C86089" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86089" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH,±30%,0805,C86089" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH ±30%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±20%,0805,C86090
+#
+DEF 4.7uH,±20%,0805,C86090 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±20%,0805,C86090" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86090" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±20%,0805,C86090" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 12nH,±2%,0402,C86128
+#
+DEF 12nH,±2%,0402,C86128 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "12nH,±2%,0402,C86128" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86128" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "12nH,±2%,0402,C86128" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "12nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22nH,±2%,0402,C86129
+#
+DEF 22nH,±2%,0402,C86129 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "22nH,±2%,0402,C86129" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86129" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "22nH,±2%,0402,C86129" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "22nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nH,±5%,0402,C86130
+#
+DEF 100nH,±5%,0402,C86130 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "100nH,±5%,0402,C86130" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86130" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "100nH,±5%,0402,C86130" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "100nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15nH,±2%,0603,C86132
+#
+DEF 15nH,±2%,0603,C86132 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "15nH,±2%,0603,C86132" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86132" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "15nH,±2%,0603,C86132" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "15nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 18nH,±2%,0603,C86133
+#
+DEF 18nH,±2%,0603,C86133 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "18nH,±2%,0603,C86133" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86133" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "18nH,±2%,0603,C86133" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "18nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 39nH,±2%,0603,C86134
+#
+DEF 39nH,±2%,0603,C86134 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "39nH,±2%,0603,C86134" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86134" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "39nH,±2%,0603,C86134" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "39nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 68nH,±2%,0603,C86135
+#
+DEF 68nH,±2%,0603,C86135 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "68nH,±2%,0603,C86135" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86135" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "68nH,±2%,0603,C86135" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "68nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6.8nH,±0.2nH,750mA,0603,C86136
+#
+DEF 6.8nH,±0.2nH,750mA,0603,C86136 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "6.8nH,±0.2nH,750mA,0603,C86136" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86136" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "6.8nH,±0.2nH,750mA,0603,C86136" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "6.8nH ±0.2nH 750mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 120nH,±2%,0603,C86138
+#
+DEF 120nH,±2%,0603,C86138 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "120nH,±2%,0603,C86138" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86138" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "120nH,±2%,0603,C86138" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "120nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220nH,±2%,0603,C86139
+#
+DEF 220nH,±2%,0603,C86139 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "220nH,±2%,0603,C86139" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86139" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "220nH,±2%,0603,C86139" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "220nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47μH,±5%,1812,C86701
+#
+DEF 47μH,±5%,1812,C86701 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "47μH,±5%,1812,C86701" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1812" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86701" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "47μH,±5%,1812,C86701" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1812" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "47μH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1812*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH,±20%,0603,C86752
+#
+DEF 10uH,±20%,0603,C86752 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH,±20%,0603,C86752" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86752" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH,±20%,0603,C86752" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TAIYO YUDEN 太诱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22μH,±10%,1812,C86821
+#
+DEF 22μH,±10%,1812,C86821 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "22μH,±10%,1812,C86821" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1812" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86821" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "22μH,±10%,1812,C86821" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1812" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "22μH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1812*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uH,±10%,0603,C87216
+#
+DEF 10uH,±10%,0603,C87216 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10uH,±10%,0603,C87216" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87216" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10uH,±10%,0603,C87216" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TAIYO YUDEN 太诱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820nH,±10%,0402,C87452
+#
+DEF 820nH,±10%,0402,C87452 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "820nH,±10%,0402,C87452" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87452" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "820nH,±10%,0402,C87452" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "820nH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uH,±20%,0603,C87511
+#
+DEF 2.2uH,±20%,0603,C87511 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2uH,±20%,0603,C87511" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87511" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2uH,±20%,0603,C87511" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.5uH,±5%,0603,C87514
+#
+DEF 1.5uH,±5%,0603,C87514 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.5uH,±5%,0603,C87514" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87514" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.5uH,±5%,0603,C87514" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.5uH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±5%,0603,C87515
+#
+DEF 4.7uH,±5%,0603,C87515 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±5%,0603,C87515" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87515" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±5%,0603,C87515" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 120nH,±10%,0603,C87517
+#
+DEF 120nH,±10%,0603,C87517 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "120nH,±10%,0603,C87517" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87517" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "120nH,±10%,0603,C87517" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "120nH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150nH,±5%,0603,C87518
+#
+DEF 150nH,±5%,0603,C87518 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "150nH,±5%,0603,C87518" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87518" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "150nH,±5%,0603,C87518" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "150nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330nH,±10%,0603,C87520
+#
+DEF 330nH,±10%,0603,C87520 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "330nH,±10%,0603,C87520" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87520" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "330nH,±10%,0603,C87520" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "330nH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330nH,±5%,0805,C87521
+#
+DEF 330nH,±5%,0805,C87521 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "330nH,±5%,0805,C87521" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87521" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "330nH,±5%,0805,C87521" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "330nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6.2nH,±0.3nH,600mA,0402,C87534
+#
+DEF 6.2nH,±0.3nH,600mA,0402,C87534 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "6.2nH,±0.3nH,600mA,0402,C87534" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87534" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "6.2nH,±0.3nH,600mA,0402,C87534" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "6.2nH ±0.3nH 600mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.2nH,±0.3nH,0603,C87537
+#
+DEF 1.2nH,±0.3nH,0603,C87537 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.2nH,±0.3nH,0603,C87537" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87537" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.2nH,±0.3nH,0603,C87537" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.2nH ±0.3nH" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 56nH,±5%,0603,C87538
+#
+DEF 56nH,±5%,0603,C87538 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "56nH,±5%,0603,C87538" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87538" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "56nH,±5%,0603,C87538" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "56nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8.2nH,±0.5nH,0402,C87541
+#
+DEF 8.2nH,±0.5nH,0402,C87541 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "8.2nH,±0.5nH,0402,C87541" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87541" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "8.2nH,±0.5nH,0402,C87541" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "8.2nH ±0.5nH" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8.2nH,±5%,0402,C87542
+#
+DEF 8.2nH,±5%,0402,C87542 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "8.2nH,±5%,0402,C87542" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87542" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "8.2nH,±5%,0402,C87542" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "8.2nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uH,±20%,0805,C87543
+#
+DEF 4.7uH,±20%,0805,C87543 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "4.7uH,±20%,0805,C87543" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87543" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "4.7uH,±20%,0805,C87543" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "4.7uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.5uH,±20%,1210,C87556
+#
+DEF 1.5uH,±20%,1210,C87556 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.5uH,±20%,1210,C87556" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87556" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.5uH,±20%,1210,C87556" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.5uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uH,±10%,1210,C87557
+#
+DEF 330uH,±10%,1210,C87557 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "330uH,±10%,1210,C87557" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87557" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "330uH,±10%,1210,C87557" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "330uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6.8uH,±20%,1210,C87558
+#
+DEF 6.8uH,±20%,1210,C87558 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "6.8uH,±20%,1210,C87558" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87558" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "6.8uH,±20%,1210,C87558" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "6.8uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6.8uH,±20%,1210,C87559
+#
+DEF 6.8uH,±20%,1210,C87559 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "6.8uH,±20%,1210,C87559" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87559" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "6.8uH,±20%,1210,C87559" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "6.8uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.3uH,±20%,1210,C87560
+#
+DEF 3.3uH,±20%,1210,C87560 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3.3uH,±20%,1210,C87560" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87560" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3.3uH,±20%,1210,C87560" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3.3uH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33nH,±5%,1210,C87561
+#
+DEF 33nH,±5%,1210,C87561 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "33nH,±5%,1210,C87561" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87561" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "33nH,±5%,1210,C87561" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "33nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.2uH,±5%,1210,C87562
+#
+DEF 1.2uH,±5%,1210,C87562 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1.2uH,±5%,1210,C87562" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87562" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1.2uH,±5%,1210,C87562" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1.2uH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5.6uH,±5%,1210,C87563
+#
+DEF 5.6uH,±5%,1210,C87563 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5.6uH,±5%,1210,C87563" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C87563" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5.6uH,±5%,1210,C87563" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5.6uH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22μH,±20%,0805,C88185
+#
+DEF 22μH,±20%,0805,C88185 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "22μH,±20%,0805,C88185" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C88185" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "22μH,±20%,0805,C88185" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "22μH ±20%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0.027uH,±5%,1210,C88514
+#
+DEF 0.027uH,±5%,1210,C88514 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0.027uH,±5%,1210,C88514" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C88514" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0.027uH,±5%,1210,C88514" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0.027uH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220μH,±5%,1210,C89015
+#
+DEF 220μH,±5%,1210,C89015 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "220μH,±5%,1210,C89015" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C89015" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "220μH,±5%,1210,C89015" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "220μH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2μH,±5%,1210,C89016
+#
+DEF 2.2μH,±5%,1210,C89016 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "2.2μH,±5%,1210,C89016" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C89016" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "2.2μH,±5%,1210,C89016" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "2.2μH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 56μH,±5%,1210,C89022
+#
+DEF 56μH,±5%,1210,C89022 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "56μH,±5%,1210,C89022" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C89022" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "56μH,±5%,1210,C89022" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "56μH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0.15μH,±5%,1210,C89025
+#
+DEF 0.15μH,±5%,1210,C89025 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0.15μH,±5%,1210,C89025" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C89025" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0.15μH,±5%,1210,C89025" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0.15μH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0.39μH,±5%,1210,C89028
+#
+DEF 0.39μH,±5%,1210,C89028 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0.39μH,±5%,1210,C89028" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C89028" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0.39μH,±5%,1210,C89028" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0.39μH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0.47μH,±5%,1210,C89029
+#
+DEF 0.47μH,±5%,1210,C89029 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0.47μH,±5%,1210,C89029" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C89029" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0.47μH,±5%,1210,C89029" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0.47μH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 680nH,±5%,1210,C89031
+#
+DEF 680nH,±5%,1210,C89031 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "680nH,±5%,1210,C89031" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_1210" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C89031" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "680nH,±5%,1210,C89031" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "1210" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "680nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *1210*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10nH,±2%,0402,C90642
+#
+DEF 10nH,±2%,0402,C90642 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "10nH,±2%,0402,C90642" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C90642" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "10nH,±2%,0402,C90642" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "10nH ±2%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470nH,±5%,0805,C92032
+#
+DEF 470nH,±5%,0805,C92032 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "470nH,±5%,0805,C92032" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C92032" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "470nH,±5%,0805,C92032" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TDK" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "470nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 68nH,±5%,0603,C92902
+#
+DEF 68nH,±5%,0603,C92902 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "68nH,±5%,0603,C92902" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C92902" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "68nH,±5%,0603,C92902" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TAIYO YUDEN 太诱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "68nH ±5%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15uH,±10%,0805,C92908
+#
+DEF 15uH,±10%,0805,C92908 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "15uH,±10%,0805,C92908" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C92908" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "15uH,±10%,0805,C92908" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TAIYO YUDEN 太诱" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "15uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.3uH,±10%,0805,C93799
+#
+DEF 3.3uH,±10%,0805,C93799 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3.3uH,±10%,0805,C93799" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0805" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C93799" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3.3uH,±10%,0805,C93799" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "FH 风华" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3.3uH ±10%" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 18nH,±5%,350mA,0402,C97980
+#
+DEF 18nH,±5%,350mA,0402,C97980 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "18nH,±5%,350mA,0402,C97980" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0402" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C97980" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "18nH,±5%,350mA,0402,C97980" 50 -200 50 H I L CNN "MFR_Part"
+F6 "电感_贴片电感" 0 -600 50 H I C CNN "Second Category"
+F7 "0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "muRata 村田" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "18nH ±5% 350mA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

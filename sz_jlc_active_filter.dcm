@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HMC1044LP3ETR,QFN-16_EP_3.0x3.0x0.5P,C114187
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MAX7427EUA+,MSOP-8_3.0x3.0x0.65P,C143590
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TLC14CD,SOIC-8_3.9x4.9x1.27P,C157350
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP LTC1068-200IG#PBF,SSOP-28_5.3x10.2x0.65P,C75228
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

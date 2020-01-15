@@ -1,0 +1,1208 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP green,led,LED_0805,C107402
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603,bright,blue,light,LED_0603,C10775
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603,yellow-green,highlights,LED_0603,C10776
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1206,purple,lights,LED_1206,C10781
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP rgb_three-color,led,taping,LED-4_2020,C108793
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP white,smd,led,(330-750mcd),color,temperature:,c,district,LED_0805,C110099
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP full,color,smd,led,LED-6_3535,C110402
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP full,color,smd,led,LED-6_3535,C110903
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP LTST-C19HE1WT,RGB,LED-4_1.6x1.6x0.9P,C113451
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 17-21/R6C-AQ2R2B/3T,0805,C113551
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ws2812b-3535,data,sheet,diagram,pin,order,in,violation,of,industry,standards_,务必小心,LED-4_3535,C114583
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5050,rgb集成光源,white,box,LED-6_5050,C114584
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5050,RGB集成光源,4Pin,LED-4_5050,C114585
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5050,RGB集成光源,4Pin,LED-4_5050,C114586
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5050,RGB集成光源,4Pin,LED-4_5050,C114587
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5050,rgb集成光源,6pin,taping,LED-6_5050,C114592
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP led,color:,red,+,yellow,green,led,taping,LED-4_2.7x3.2x1.38P,C115448
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP green,led,LED_0603,C118334
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP d-b060306b1-ks2,blue,LED_0603,C118339
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ltst-c193tgkt-5a,emerald,0603,LED_0603,C12065
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow-green,led,LED_0603,C122984
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow,transparent,square,top,with,flat,top,taping,LED_0402,C123071
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP smd,red,LED_1206,C125086
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow-green,led,LED_0603,C125093
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP smd,green,LED_0603,C125094
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP smd,red,LED_0603,C125099
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP smd,red,LED_1206,C125107
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603,emerald,LED_0603,C12624
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 61-238/RSGBB7C-B02/ET,LED-6_5060,C130391
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP fc-,f1005hok-,600h5,orange,LED_0402,C130720
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP fc-,f1005hyk-,589k5,yellow,LED_0402,C130721
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP fc-,f1005ygk-,572j5,yellow-green,LED_0402,C130722
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP green,led,LED_0402,C130723
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP fc-,f1005bk-,470g5,blue,LED_0402,C130724
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP fc-,f1005wd-,455k5,white,LED_0402,C130725
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blue,0402,LED_0402,C131223
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow-green,light,emitting,diode,3528,taping,LED_3528,C131232
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,light-emitting,diode,0805,LED_0805,C131244
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 67-22sursygc/s530-a2/tr8,taping,LED-4_2.8x3.5x1.45P,C13873
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ws2812e,data,sheet,diagram,pin,order,in,violation,of,industry,standards_,务必小心,LED-4_5050,C139127
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP white,hair,red,rectangle,with,flat,top,taping,LED_0603,C142275
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow-green,led,,smd,LED_0805,C142303
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP led,emerald,LED_1206,C14641
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP the,led,color,(green,+,orange),taping,LED-4_1.5x1.6x0.8P,C154456
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP the,led,color,(red,+,green),LED-4_1.5x1.6x0.8P,C154460
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1206,yellow-green,LED_1206,C15595
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP FC-A1608BK-465M,LED_0603,C158101
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP green,led_,,smd,taping,LED_0603,C161618
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP rgb,color,common,anode,diode,LED-4_1010,C162074
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP smd,led,red,LED_0402,C165980
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP smd,led,yellow-green,taping,LED_0603,C181862
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP smd,led,red,taping,LED_0603,C181863
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP two-color,led:,red,+,green,emerald,LED-4_1.5x1.6x0.9P,C182213
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,transparent,square,top,with,flat,top,taping,LED_0402,C184648
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP smd,led,blue,LED_0805,C189307
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP emerald,LED_0603,C192316
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP tj-s3216sw9tglc2g-a5,emerald,taping,LED_1206,C192678
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blue,LED_0603,C193191
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5050full,color,SMD_5.0x5.0x1.6P,C193878
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP WS2813C,RGB,LED-6_5050,C194323
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP green,led,taping,LED-0805,C205442
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP green,led,LED_0603,C205443
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,red,0805,C205444
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603,orange-red,LED_0603,C205445
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,white,20ma,1000mcd以上,color,temperature:,6000-7000k,LED_0805,C219231
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5060,RGB,20ma*3,LED-6_5060,C219409
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,light,LED_0603,C2286
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow,0603,LED_0603,C2287
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blue,light,0603,LED_0603,C2288
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP olivine,0603,LED_0603,C2289
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP white,light,LED_0603,C2290
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP olivine,0805,LED_0805,C2292
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blue,light,LED_0805,C2293
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow,LED_0805,C2296
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP emerald,LED_0805,C2297
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow,1206,LED_1206,C2298
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow,1206,LED_1206,C2299
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP green,cape,3528,LED_3528,C2304
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,light,3528,LED_3528,C2305
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP white,light,3528,LED_3528,C2306
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP emerald,3528,LED_3528,C2308
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603full,color_,rgb灯,LED_1.6x1.6x4P,C233195
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP sml-d12y1wt86,yellow,LED_0603,C253534
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP HT27-2101SURC,LED_0603,C258852
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP high,brightness,red,trisun,SMD_5.0x5.0x1.6P,C258982
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP bright,red,LED_1206,C264317
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blu-ray,LED_1206,C264323
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blu-ray,side,taping,LED_0.6x2.1,C264358
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP efficient,red,(hi-eff,red),wavelength,625-640nm,LED_0805,C264415
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blu-ray,LED_0603,C264464
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,,green,,and,blue,light,rgb灯,LED-4_1.6x1.6x0.9P,C264514
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP rgb,three,color,light,taping,LED-4_1.6x1.6x0.9P,C264517
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 61-238/KK2C-S30306F4GB2/ET,SMD-6_5x5.4x1.6P,C264586
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 61-238/QK2C-B50632FAGB2/ET,SMD-6_5x5.4x1.6P,C264587
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP RGB灯,SMD-4_2.8x3.2x1.5P,C264607
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP warm,white,3528,led灯珠,LED_3528,C26545
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1206,smd,led,red,red,taping,LED_1206,C268276
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603x2red_emerald_蓝三色,common,anode,LED-4_1.5x1.6x0.8P,C273610
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603x2red_emerald_蓝三色,common,cathode,LED-4_1.5x1.6x0.9P,C273611
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP a,light,emitting,diode,(yellow-green),LED_0805,C28105
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SML-D12M8WT86S,LED_0603,C308768
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP white,light,LED_0805,C34499
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603orange_ledled,LED_0603,C375450
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805red_ledled,LED_0805,C375451
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805yellow_ledled,LED_0805,C375452
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP E6C0805QBAC1UDA,LED_0805,C375453
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1206blue_ledled,taping,LED_1206,C375460
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1206emerald_ledled,LED_1206,C375461
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,yellow-green,light,emitting,diodes,led,taping,LED-4_1.6x1.6x0.85P,C375543
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,and,blue,color,led,led,taping,LED-4_1.6x1.6x0.85P,C375544
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP pure,green,color,led,red,light-emitting,diodes,LED-4_2.7x3.2x1.38P,C375560
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,,green,and,blue,light,emitting,diodes,led,taping,LED-4_1.6x1.6x0.85P,C375569
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1206red,,green,and,blue,light,emitting,diodes,led,LED-4_1206,C375571
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1209red_green_blue_ledled,taping,LED-4_2.5x3x1.5P,C375572
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3528,rgbfull,color_ledsmd,LED-4_3.2x2.8x1.45P,C383429
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_0603highlight_white,LED_0603,C389521
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_0603highlight_冰blu-ray,LED_0603,C389522
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_0805高bright,red,LED_0805,C389523
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_0805超highlight_blu-ray,taping,LED_0805,C389525
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_1206高bright,red,taping,LED_1206,C389526
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_0805双色highlight_red_emerald,taping,LED-4_0805,C391863
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_0402highlight_red_光,LED_0402,C397045
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_1206超highlight_emerald_光,LED_1206,C397048
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_0603highlight_white_冷白,LED_0603,C397049
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MHT151WDT,LED_1206,C401114
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_0603highlight_red_光,LED_0603,C401120
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,taping,LED_0603,C40378
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_0603/0605highlight_red_green_蓝rgbthree,color,light,LED-4_1.5x1.6x0.9P,C404275
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_1515common,anode_室内full,color_rgbhighlight_red_green_蓝三色,SMD-4_1.5x1.6x0.72P,C404281
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_1515common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_1515,C404282
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_1921common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_1921,C404283
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_2121common,anode_室内full,color_rgb超highlight_red_green_蓝三色,LED-4_2121,C404284
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_2727common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_2727,C404286
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_3528超highlight_red,green,(green,530nm),light,color,LED-4_3528,C409778
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_5050highlight_red_green_蓝rgbthree,color,light,LED-6_5050,C409780
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_1206highlight_red_green_蓝rgbthree,color,light_(注意反贴),LED-4_1.25x3.2x0.75P,C409782
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP smd0603灯珠red_蓝无极,LED_0603,C440514
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledsmd_0603highlight_yellow-green_光,LED_0603,C473820
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ledhighlight_red,light,1206,LED_1206,C49018
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blue,light,highlight,LED_0805,C55951
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP three-color,led:,red,,green,,blue,taping,LED-4_1.6x1.6x0.9P,C60105
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP led,,green,0805,LED_0805,C63855
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP led,blue,light,3528,LED_3528,C69273
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP n,white,1206,(非暖色调的white_),LED_1206,C71796
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP led灯,red,0402,LED_0402,C71911
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,blue,light,highlight,LED_0805,C72034
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,blue,light,LED_0805,C72035
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,yellow,LED_0805,C72036
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,red,light,bright,LED_0805,C72037
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow,LED_0603,C72038
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603,red,light,LED_0603,C72039
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603,olivine,LED_0603,C72040
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blue,light,LED_0603,C72041
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603,green,LED_0603,C72042
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP green,LED_0603,C72043
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603,red,light,LED_0603,C72044
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603,red,light,LED_0603,C72045
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP chip,smd,1206,blue,LED_1206,C72691
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,emerald,LED_0805,C73546
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,olivine,LED_0805,C73548
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1206,olivine,LED_1206,C73550
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,and,blue,color,led,lights,LED_1.6x1.6x4P,C73822
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0402,emerald_smd,LED_0402,C74338
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0402,red_smd,LED_0402,C74339
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0402,white_smd,taping,LED_0402,C74342
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,green_smd,LED_0805,C74344
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,olivine_smd,LED_0805,C74346
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3528,blue_smd,taping,LED_3528,C74348
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3528,yellow_smd,taping,LED_3528,C74349
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3528,red_smd,taping,LED_3528,C74350
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP the,red,light,emitting,diode,in,57-21,/,r6c-ap1q2b,/,bf,taping,SMD-4_4x4x2.5P,C78197
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0603,pure,white,0.4mm,height,LED_0603,C83955
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0805,pure,white,LED_0805,C83960
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,light,smd,led,LED_0805,C84256
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow-green,smd,led,LED_0805,C84257
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP white,light,smd,led,LED_0805,C84258
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blue,light,smd,led,LED_0805,C84259
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP emerald,smd,led,LED_0805,C84260
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow,smd,led,LED_0805,C84261
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP orange,ledsmd,LED_0805,C84262
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow-green,smd,led,LED_0603,C84264
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP white,light,smd,led,LED_0603,C84265
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP emerald,smd,led,LED_0603,C84267
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP yellow,smd,led,LED_0603,C84268
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP orange,smd,led,LED_0603,C84269
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,light,smd,led,LED_1206,C84270
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP olivine,LED_1206,C84273
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP SML-311DTT86,LED_0603,C84984
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,LED_3528,C85318
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP blue,LED_3528,C85319
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP green,LED_3528,C85320
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP azure,0603,LED_0603,C85323
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP pink,0603,LED_0603,C85324
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,smd,led,LED_0805,C86865
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15-21SURC/S530-A3/TR8,LED_1206,C88326
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP led,orange,LED_0402,C88330
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP olivine,0603,LED_0603,C89809
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP FC-F1608BK-470H5,LED_0603,C89814
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP red,smd,led,(65-150mcd),LED_0603,C90692
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP LTST-C170KRKT,(Iv=54mcd(Typ),@IF=20mA),LED_0805,C94868
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP green,led,taping,LED_1206,C99881
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

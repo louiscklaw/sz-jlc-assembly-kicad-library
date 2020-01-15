@@ -1,0 +1,5833 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# green,led,LED_0805,C107402
+#
+DEF green,led,LED_0805,C107402 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "green,led,LED_0805,C107402" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C107402" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "green,led,LED_0805,C107402" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ARKLED 方舟" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603,bright,blue,light,LED_0603,C10775
+#
+DEF 0603,bright,blue,light,LED_0603,C10775 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603,bright,blue,light,LED_0603,C10775" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C10775" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603,bright,blue,light,LED_0603,C10775" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603 蓝灯超亮" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603,yellow-green,highlights,LED_0603,C10776
+#
+DEF 0603,yellow-green,highlights,LED_0603,C10776 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603,yellow-green,highlights,LED_0603,C10776" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C10776" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603,yellow-green,highlights,LED_0603,C10776" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603 黄绿高亮" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206,purple,lights,LED_1206,C10781
+#
+DEF 1206,purple,lights,LED_1206,C10781 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1206,purple,lights,LED_1206,C10781" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C10781" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1206,purple,lights,LED_1206,C10781" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1206 紫灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# rgb_three-color,led,taping,LED-4_2020,C108793
+#
+DEF rgb_three-color,led,taping,LED-4_2020,C108793 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "rgb_three-color,led,taping,LED-4_2020,C108793" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C108793" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "rgb_three-color,led,taping,LED-4_2020,C108793" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_2020" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "RGB三色LED 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# white,smd,led,(330-750mcd),color,temperature:,c,district,LED_0805,C110099
+#
+DEF white,smd,led,(330-750mcd),color,temperature:,c,district,LED_0805,C110099 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "white,smd,led,(330-750mcd),color,temperature:,c,district,LED_0805,C110099" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C110099" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "white,smd,led,(330-750mcd),color,temperature:,c,district,LED_0805,C110099" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "白色 贴片LED (330-750mcd) 色温:C区" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# full,color,smd,led,LED-6_3535,C110402
+#
+DEF full,color,smd,led,LED-6_3535,C110402 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "full,color,smd,led,LED-6_3535,C110402" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C110402" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "full,color,smd,led,LED-6_3535,C110402" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-6_3535" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "全彩 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# full,color,smd,led,LED-6_3535,C110903
+#
+DEF full,color,smd,led,LED-6_3535,C110903 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "full,color,smd,led,LED-6_3535,C110903" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C110903" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "full,color,smd,led,LED-6_3535,C110903" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-6_3535" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "全彩 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# LTST-C19HE1WT,RGB,LED-4_1.6x1.6x0.9P,C113451
+#
+DEF LTST-C19HE1WT,RGB,LED-4_1.6x1.6x0.9P,C113451 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "LTST-C19HE1WT,RGB,LED-4_1.6x1.6x0.9P,C113451" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C113451" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "LTST-C19HE1WT,RGB,LED-4_1.6x1.6x0.9P,C113451" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.6x1.6x0.9P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "LITEON 台湾光宝" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LTST-C19HE1WT RGB" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 17-21/R6C-AQ2R2B/3T,0805,C113551
+#
+DEF 17-21/R6C-AQ2R2B/3T,0805,C113551 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "17-21/R6C-AQ2R2B/3T,0805,C113551" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C113551" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "17-21/R6C-AQ2R2B/3T,0805,C113551" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "17-21/R6C-AQ2R2B/3T" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ws2812b-3535,data,sheet,diagram,pin,order,in,violation,of,industry,standards_,务必小心,LED-4_3535,C114583
+#
+DEF ws2812b-3535,data,sheet,diagram,pin,order,in,violation,of,industry,standards_,务必小心,LED-4_3535,C114583 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ws2812b-3535,data,sheet,diagram,pin,order,in,violation,of,industry,standards_,务必小心,LED-4_3535,C114583" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C114583" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ws2812b-3535,data,sheet,diagram,pin,order,in,violation,of,industry,standards_,务必小心,LED-4_3535,C114583" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_3535" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "worldsemi" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "WS2812B-3535 数据手册中原理图引脚顺序违反行业规范,务必小心" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5050,rgb集成光源,white,box,LED-6_5050,C114584
+#
+DEF 5050,rgb集成光源,white,box,LED-6_5050,C114584 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5050,rgb集成光源,white,box,LED-6_5050,C114584" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C114584" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5050,rgb集成光源,white,box,LED-6_5050,C114584" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-6_5050" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "worldsemi" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5050 RGB集成光源 白框" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5050,RGB集成光源,4Pin,LED-4_5050,C114585
+#
+DEF 5050,RGB集成光源,4Pin,LED-4_5050,C114585 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5050,RGB集成光源,4Pin,LED-4_5050,C114585" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C114585" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5050,RGB集成光源,4Pin,LED-4_5050,C114585" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_5050" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "worldsemi" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5050 RGB集成光源 4Pin" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5050,RGB集成光源,4Pin,LED-4_5050,C114586
+#
+DEF 5050,RGB集成光源,4Pin,LED-4_5050,C114586 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5050,RGB集成光源,4Pin,LED-4_5050,C114586" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C114586" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5050,RGB集成光源,4Pin,LED-4_5050,C114586" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_5050" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "worldsemi" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5050 RGB集成光源 4Pin" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5050,RGB集成光源,4Pin,LED-4_5050,C114587
+#
+DEF 5050,RGB集成光源,4Pin,LED-4_5050,C114587 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5050,RGB集成光源,4Pin,LED-4_5050,C114587" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C114587" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5050,RGB集成光源,4Pin,LED-4_5050,C114587" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_5050" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "worldsemi" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5050 RGB集成光源 4Pin" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5050,rgb集成光源,6pin,taping,LED-6_5050,C114592
+#
+DEF 5050,rgb集成光源,6pin,taping,LED-6_5050,C114592 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5050,rgb集成光源,6pin,taping,LED-6_5050,C114592" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C114592" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5050,rgb集成光源,6pin,taping,LED-6_5050,C114592" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-6_5050" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "worldsemi" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5050 RGB集成光源 6Pin 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# led,color:,red,+,yellow,green,led,taping,LED-4_2.7x3.2x1.38P,C115448
+#
+DEF led,color:,red,+,yellow,green,led,taping,LED-4_2.7x3.2x1.38P,C115448 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "led,color:,red,+,yellow,green,led,taping,LED-4_2.7x3.2x1.38P,C115448" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C115448" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "led,color:,red,+,yellow,green,led,taping,LED-4_2.7x3.2x1.38P,C115448" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_2.7x3.2x1.38P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "LITEON 台湾光宝" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "双色LED：红+黄绿色LED 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# green,led,LED_0603,C118334
+#
+DEF green,led,LED_0603,C118334 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "green,led,LED_0603,C118334" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C118334" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "green,led,LED_0603,C118334" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ARKLED 方舟" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# d-b060306b1-ks2,blue,LED_0603,C118339
+#
+DEF d-b060306b1-ks2,blue,LED_0603,C118339 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "d-b060306b1-ks2,blue,LED_0603,C118339" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C118339" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "d-b060306b1-ks2,blue,LED_0603,C118339" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ARKLED 方舟" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "D-B060306B1-KS2 蓝色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ltst-c193tgkt-5a,emerald,0603,LED_0603,C12065
+#
+DEF ltst-c193tgkt-5a,emerald,0603,LED_0603,C12065 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ltst-c193tgkt-5a,emerald,0603,LED_0603,C12065" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C12065" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ltst-c193tgkt-5a,emerald,0603,LED_0603,C12065" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "台湾光宝" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LTST-C193TGKT-5A 翠绿 0603" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow-green,led,LED_0603,C122984
+#
+DEF yellow-green,led,LED_0603,C122984 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow-green,led,LED_0603,C122984" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C122984" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow-green,led,LED_0603,C122984" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ROHM 罗姆" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄绿色LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow,transparent,square,top,with,flat,top,taping,LED_0402,C123071
+#
+DEF yellow,transparent,square,top,with,flat,top,taping,LED_0402,C123071 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow,transparent,square,top,with,flat,top,taping,LED_0402,C123071" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C123071" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow,transparent,square,top,with,flat,top,taping,LED_0402,C123071" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ROHM 罗姆" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄色 透明 方顶带平顶 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# smd,red,LED_1206,C125086
+#
+DEF smd,red,LED_1206,C125086 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "smd,red,LED_1206,C125086" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C125086" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "smd,red,LED_1206,C125086" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "LITEON 台湾光宝" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "贴片 红色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow-green,led,LED_0603,C125093
+#
+DEF yellow-green,led,LED_0603,C125093 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow-green,led,LED_0603,C125093" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C125093" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow-green,led,LED_0603,C125093" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "LITEON 台湾光宝" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄绿LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# smd,green,LED_0603,C125094
+#
+DEF smd,green,LED_0603,C125094 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "smd,green,LED_0603,C125094" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C125094" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "smd,green,LED_0603,C125094" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "LITEON 台湾光宝" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "贴片 绿色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# smd,red,LED_0603,C125099
+#
+DEF smd,red,LED_0603,C125099 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "smd,red,LED_0603,C125099" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C125099" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "smd,red,LED_0603,C125099" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "LITEON 台湾光宝" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "贴片 红色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# smd,red,LED_1206,C125107
+#
+DEF smd,red,LED_1206,C125107 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "smd,red,LED_1206,C125107" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C125107" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "smd,red,LED_1206,C125107" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "LITEON 台湾光宝" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "贴片 红色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603,emerald,LED_0603,C12624
+#
+DEF 0603,emerald,LED_0603,C12624 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603,emerald,LED_0603,C12624" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C12624" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603,emerald,LED_0603,C12624" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603 翠绿" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 61-238/RSGBB7C-B02/ET,LED-6_5060,C130391
+#
+DEF 61-238/RSGBB7C-B02/ET,LED-6_5060,C130391 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "61-238/RSGBB7C-B02/ET,LED-6_5060,C130391" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C130391" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "61-238/RSGBB7C-B02/ET,LED-6_5060,C130391" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-6_5060" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "61-238/RSGBB7C-B02/ET" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# fc-,f1005hok-,600h5,orange,LED_0402,C130720
+#
+DEF fc-,f1005hok-,600h5,orange,LED_0402,C130720 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "fc-,f1005hok-,600h5,orange,LED_0402,C130720" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C130720" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "fc-,f1005hok-,600h5,orange,LED_0402,C130720" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "FC- F1005HOK- 600H5 橙色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# fc-,f1005hyk-,589k5,yellow,LED_0402,C130721
+#
+DEF fc-,f1005hyk-,589k5,yellow,LED_0402,C130721 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "fc-,f1005hyk-,589k5,yellow,LED_0402,C130721" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C130721" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "fc-,f1005hyk-,589k5,yellow,LED_0402,C130721" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "FC- F1005HYK- 589K5 黄色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# fc-,f1005ygk-,572j5,yellow-green,LED_0402,C130722
+#
+DEF fc-,f1005ygk-,572j5,yellow-green,LED_0402,C130722 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "fc-,f1005ygk-,572j5,yellow-green,LED_0402,C130722" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C130722" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "fc-,f1005ygk-,572j5,yellow-green,LED_0402,C130722" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "FC- F1005YGK- 572J5 黄绿色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# green,led,LED_0402,C130723
+#
+DEF green,led,LED_0402,C130723 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "green,led,LED_0402,C130723" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C130723" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "green,led,LED_0402,C130723" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# fc-,f1005bk-,470g5,blue,LED_0402,C130724
+#
+DEF fc-,f1005bk-,470g5,blue,LED_0402,C130724 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "fc-,f1005bk-,470g5,blue,LED_0402,C130724" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C130724" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "fc-,f1005bk-,470g5,blue,LED_0402,C130724" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "FC- F1005BK- 470G5 蓝色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# fc-,f1005wd-,455k5,white,LED_0402,C130725
+#
+DEF fc-,f1005wd-,455k5,white,LED_0402,C130725 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "fc-,f1005wd-,455k5,white,LED_0402,C130725" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C130725" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "fc-,f1005wd-,455k5,white,LED_0402,C130725" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "FC- F1005WD- 455K5 白色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blue,0402,LED_0402,C131223
+#
+DEF blue,0402,LED_0402,C131223 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blue,0402,LED_0402,C131223" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C131223" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blue,0402,LED_0402,C131223" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝色 0402" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow-green,light,emitting,diode,3528,taping,LED_3528,C131232
+#
+DEF yellow-green,light,emitting,diode,3528,taping,LED_3528,C131232 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow-green,light,emitting,diode,3528,taping,LED_3528,C131232" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C131232" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow-green,light,emitting,diode,3528,taping,LED_3528,C131232" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "发光二极管3528黄绿 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,light-emitting,diode,0805,LED_0805,C131244
+#
+DEF red,light-emitting,diode,0805,LED_0805,C131244 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,light-emitting,diode,0805,LED_0805,C131244" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C131244" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,light-emitting,diode,0805,LED_0805,C131244" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "发光二极管0805红灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 67-22sursygc/s530-a2/tr8,taping,LED-4_2.8x3.5x1.45P,C13873
+#
+DEF 67-22sursygc/s530-a2/tr8,taping,LED-4_2.8x3.5x1.45P,C13873 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "67-22sursygc/s530-a2/tr8,taping,LED-4_2.8x3.5x1.45P,C13873" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C13873" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "67-22sursygc/s530-a2/tr8,taping,LED-4_2.8x3.5x1.45P,C13873" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_2.8x3.5x1.45P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "67-22SURSYGC/S530-A2/TR8 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ws2812e,data,sheet,diagram,pin,order,in,violation,of,industry,standards_,务必小心,LED-4_5050,C139127
+#
+DEF ws2812e,data,sheet,diagram,pin,order,in,violation,of,industry,standards_,务必小心,LED-4_5050,C139127 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ws2812e,data,sheet,diagram,pin,order,in,violation,of,industry,standards_,务必小心,LED-4_5050,C139127" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C139127" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ws2812e,data,sheet,diagram,pin,order,in,violation,of,industry,standards_,务必小心,LED-4_5050,C139127" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_5050" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "worldsemi" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "WS2812E 数据手册中原理图引脚顺序违反行业规范,务必小心" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# white,hair,red,rectangle,with,flat,top,taping,LED_0603,C142275
+#
+DEF white,hair,red,rectangle,with,flat,top,taping,LED_0603,C142275 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "white,hair,red,rectangle,with,flat,top,taping,LED_0603,C142275" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C142275" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "white,hair,red,rectangle,with,flat,top,taping,LED_0603,C142275" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "白发红矩形带平顶 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow-green,led,,smd,LED_0805,C142303
+#
+DEF yellow-green,led,,smd,LED_0805,C142303 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow-green,led,,smd,LED_0805,C142303" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C142303" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow-green,led,,smd,LED_0805,C142303" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄绿色LED，贴片" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# led,emerald,LED_1206,C14641
+#
+DEF led,emerald,LED_1206,C14641 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "led,emerald,LED_1206,C14641" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C14641" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "led,emerald,LED_1206,C14641" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "发光二极管 翠绿" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# the,led,color,(green,+,orange),taping,LED-4_1.5x1.6x0.8P,C154456
+#
+DEF the,led,color,(green,+,orange),taping,LED-4_1.5x1.6x0.8P,C154456 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "the,led,color,(green,+,orange),taping,LED-4_1.5x1.6x0.8P,C154456" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C154456" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "the,led,color,(green,+,orange),taping,LED-4_1.5x1.6x0.8P,C154456" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.5x1.6x0.8P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "宏齐光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "双色LED（橙+翠绿） 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# the,led,color,(red,+,green),LED-4_1.5x1.6x0.8P,C154460
+#
+DEF the,led,color,(red,+,green),LED-4_1.5x1.6x0.8P,C154460 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "the,led,color,(red,+,green),LED-4_1.5x1.6x0.8P,C154460" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C154460" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "the,led,color,(red,+,green),LED-4_1.5x1.6x0.8P,C154460" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.5x1.6x0.8P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "宏齐光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "双色LED（红+翠绿）" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206,yellow-green,LED_1206,C15595
+#
+DEF 1206,yellow-green,LED_1206,C15595 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1206,yellow-green,LED_1206,C15595" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C15595" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1206,yellow-green,LED_1206,C15595" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1206 黄绿色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FC-A1608BK-465M,LED_0603,C158101
+#
+DEF FC-A1608BK-465M,LED_0603,C158101 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "FC-A1608BK-465M,LED_0603,C158101" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C158101" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "FC-A1608BK-465M,LED_0603,C158101" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "FC-A1608BK-465M" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# green,led_,,smd,taping,LED_0603,C161618
+#
+DEF green,led_,,smd,taping,LED_0603,C161618 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "green,led_,,smd,taping,LED_0603,C161618" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C161618" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "green,led_,,smd,taping,LED_0603,C161618" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "LITEON 台湾光宝" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿LED, 贴片 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# rgb,color,common,anode,diode,LED-4_1010,C162074
+#
+DEF rgb,color,common,anode,diode,LED-4_1010,C162074 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "rgb,color,common,anode,diode,LED-4_1010,C162074" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C162074" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "rgb,color,common,anode,diode,LED-4_1010,C162074" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1010" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ROHM 罗姆" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "共阳RGB三色二极管" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# smd,led,red,LED_0402,C165980
+#
+DEF smd,led,red,LED_0402,C165980 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "smd,led,red,LED_0402,C165980" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C165980" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "smd,led,red,LED_0402,C165980" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "BrtLed 佰鸿" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "贴片LED 红色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# smd,led,yellow-green,taping,LED_0603,C181862
+#
+DEF smd,led,yellow-green,taping,LED_0603,C181862 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "smd,led,yellow-green,taping,LED_0603,C181862" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C181862" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "smd,led,yellow-green,taping,LED_0603,C181862" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "贴片LED 黄绿色 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# smd,led,red,taping,LED_0603,C181863
+#
+DEF smd,led,red,taping,LED_0603,C181863 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "smd,led,red,taping,LED_0603,C181863" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C181863" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "smd,led,red,taping,LED_0603,C181863" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "贴片LED 红色 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# two-color,led:,red,+,green,emerald,LED-4_1.5x1.6x0.9P,C182213
+#
+DEF two-color,led:,red,+,green,emerald,LED-4_1.5x1.6x0.9P,C182213 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "two-color,led:,red,+,green,emerald,LED-4_1.5x1.6x0.9P,C182213" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C182213" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "two-color,led:,red,+,green,emerald,LED-4_1.5x1.6x0.9P,C182213" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.5x1.6x0.9P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "双色LED：红色+翠绿色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,transparent,square,top,with,flat,top,taping,LED_0402,C184648
+#
+DEF red,transparent,square,top,with,flat,top,taping,LED_0402,C184648 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,transparent,square,top,with,flat,top,taping,LED_0402,C184648" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C184648" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,transparent,square,top,with,flat,top,taping,LED_0402,C184648" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ROHM 罗姆" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红色 透明 方顶带平顶 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# smd,led,blue,LED_0805,C189307
+#
+DEF smd,led,blue,LED_0805,C189307 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "smd,led,blue,LED_0805,C189307" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C189307" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "smd,led,blue,LED_0805,C189307" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "BrtLed 佰鸿" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "贴片LED 蓝色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# emerald,LED_0603,C192316
+#
+DEF emerald,LED_0603,C192316 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "emerald,LED_0603,C192316" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C192316" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "emerald,LED_0603,C192316" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TOGIALED 台湾统佳" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# tj-s3216sw9tglc2g-a5,emerald,taping,LED_1206,C192678
+#
+DEF tj-s3216sw9tglc2g-a5,emerald,taping,LED_1206,C192678 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "tj-s3216sw9tglc2g-a5,emerald,taping,LED_1206,C192678" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C192678" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "tj-s3216sw9tglc2g-a5,emerald,taping,LED_1206,C192678" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TOGIALED 台湾统佳" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "TJ-S3216SW9TGLC2G-A5 翠绿色 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blue,LED_0603,C193191
+#
+DEF blue,LED_0603,C193191 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blue,LED_0603,C193191" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C193191" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blue,LED_0603,C193191" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Orient 奥伦德" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5050full,color,SMD_5.0x5.0x1.6P,C193878
+#
+DEF 5050full,color,SMD_5.0x5.0x1.6P,C193878 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5050full,color,SMD_5.0x5.0x1.6P,C193878" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C193878" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5050full,color,SMD_5.0x5.0x1.6P,C193878" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "SMD_5.0x5.0x1.6P" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "BRIGHTEK 弘凯光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5050全彩" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# WS2813C,RGB,LED-6_5050,C194323
+#
+DEF WS2813C,RGB,LED-6_5050,C194323 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "WS2813C,RGB,LED-6_5050,C194323" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C194323" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "WS2813C,RGB,LED-6_5050,C194323" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-6_5050" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "worldsemi" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "WS2813C RGB" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# green,led,taping,LED-0805,C205442
+#
+DEF green,led,taping,LED-0805,C205442 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "green,led,taping,LED-0805,C205442" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C205442" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "green,led,taping,LED-0805,C205442" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Orient 奥伦德" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿LED 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ LED-0805
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# green,led,LED_0603,C205443
+#
+DEF green,led,LED_0603,C205443 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "green,led,LED_0603,C205443" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C205443" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "green,led,LED_0603,C205443" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Orient 奥伦德" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,red,0805,C205444
+#
+DEF 0805,red,0805,C205444 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,red,0805,C205444" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C205444" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,red,0805,C205444" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Orient 奥伦德" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 红色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603,orange-red,LED_0603,C205445
+#
+DEF 0603,orange-red,LED_0603,C205445 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603,orange-red,LED_0603,C205445" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C205445" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603,orange-red,LED_0603,C205445" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "Orient 奥伦德" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603 橙红色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,white,20ma,1000mcd以上,color,temperature:,6000-7000k,LED_0805,C219231
+#
+DEF 0805,white,20ma,1000mcd以上,color,temperature:,6000-7000k,LED_0805,C219231 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,white,20ma,1000mcd以上,color,temperature:,6000-7000k,LED_0805,C219231" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C219231" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,white,20ma,1000mcd以上,color,temperature:,6000-7000k,LED_0805,C219231" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "HONGLITRONIC 鸿利光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 白光 20ma 1000mcd以上 色温：6000-7000K" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5060,RGB,20ma*3,LED-6_5060,C219409
+#
+DEF 5060,RGB,20ma*3,LED-6_5060,C219409 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "5060,RGB,20ma*3,LED-6_5060,C219409" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C219409" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "5060,RGB,20ma*3,LED-6_5060,C219409" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-6_5060" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "HONGLITRONIC 鸿利光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "5060 RGB 20ma*3" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,light,LED_0603,C2286
+#
+DEF red,light,LED_0603,C2286 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,light,LED_0603,C2286" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2286" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,light,LED_0603,C2286" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "红灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow,0603,LED_0603,C2287
+#
+DEF yellow,0603,LED_0603,C2287 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow,0603,LED_0603,C2287" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2287" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow,0603,LED_0603,C2287" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄灯 0603" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blue,light,0603,LED_0603,C2288
+#
+DEF blue,light,0603,LED_0603,C2288 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blue,light,0603,LED_0603,C2288" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2288" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blue,light,0603,LED_0603,C2288" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝灯 0603" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# olivine,0603,LED_0603,C2289
+#
+DEF olivine,0603,LED_0603,C2289 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "olivine,0603,LED_0603,C2289" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2289" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "olivine,0603,LED_0603,C2289" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄绿 0603" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# white,light,LED_0603,C2290
+#
+DEF white,light,LED_0603,C2290 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "white,light,LED_0603,C2290" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2290" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "white,light,LED_0603,C2290" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "白灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# olivine,0805,LED_0805,C2292
+#
+DEF olivine,0805,LED_0805,C2292 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "olivine,0805,LED_0805,C2292" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2292" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "olivine,0805,LED_0805,C2292" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄绿 0805" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blue,light,LED_0805,C2293
+#
+DEF blue,light,LED_0805,C2293 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blue,light,LED_0805,C2293" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2293" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blue,light,LED_0805,C2293" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow,LED_0805,C2296
+#
+DEF yellow,LED_0805,C2296 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow,LED_0805,C2296" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2296" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow,LED_0805,C2296" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# emerald,LED_0805,C2297
+#
+DEF emerald,LED_0805,C2297 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "emerald,LED_0805,C2297" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2297" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "emerald,LED_0805,C2297" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow,1206,LED_1206,C2298
+#
+DEF yellow,1206,LED_1206,C2298 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow,1206,LED_1206,C2298" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2298" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow,1206,LED_1206,C2298" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄 1206" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow,1206,LED_1206,C2299
+#
+DEF yellow,1206,LED_1206,C2299 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow,1206,LED_1206,C2299" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2299" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow,1206,LED_1206,C2299" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄灯 1206" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# green,cape,3528,LED_3528,C2304
+#
+DEF green,cape,3528,LED_3528,C2304 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "green,cape,3528,LED_3528,C2304" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2304" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "green,cape,3528,LED_3528,C2304" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "普绿 3528" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,light,3528,LED_3528,C2305
+#
+DEF red,light,3528,LED_3528,C2305 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,light,3528,LED_3528,C2305" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2305" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,light,3528,LED_3528,C2305" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红灯 3528" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# white,light,3528,LED_3528,C2306
+#
+DEF white,light,3528,LED_3528,C2306 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "white,light,3528,LED_3528,C2306" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2306" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "white,light,3528,LED_3528,C2306" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "白灯 3528" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# emerald,3528,LED_3528,C2308
+#
+DEF emerald,3528,LED_3528,C2308 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "emerald,3528,LED_3528,C2308" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C2308" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "emerald,3528,LED_3528,C2308" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿 3528" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603full,color_,rgb灯,LED_1.6x1.6x4P,C233195
+#
+DEF 0603full,color_,rgb灯,LED_1.6x1.6x4P,C233195 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603full,color_,rgb灯,LED_1.6x1.6x4P,C233195" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C233195" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603full,color_,rgb灯,LED_1.6x1.6x4P,C233195" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1.6x1.6x4P" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "BRIGHTEK 弘凯光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603全彩,RGB灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# sml-d12y1wt86,yellow,LED_0603,C253534
+#
+DEF sml-d12y1wt86,yellow,LED_0603,C253534 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "sml-d12y1wt86,yellow,LED_0603,C253534" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C253534" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "sml-d12y1wt86,yellow,LED_0603,C253534" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ROHM 罗姆" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "SML-D12Y1WT86 黄光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# HT27-2101SURC,LED_0603,C258852
+#
+DEF HT27-2101SURC,LED_0603,C258852 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "HT27-2101SURC,LED_0603,C258852" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C258852" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "HT27-2101SURC,LED_0603,C258852" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "宏齐光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "HT27-2101SURC" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# high,brightness,red,trisun,SMD_5.0x5.0x1.6P,C258982
+#
+DEF high,brightness,red,trisun,SMD_5.0x5.0x1.6P,C258982 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "high,brightness,red,trisun,SMD_5.0x5.0x1.6P,C258982" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C258982" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "high,brightness,red,trisun,SMD_5.0x5.0x1.6P,C258982" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "SMD_5.0x5.0x1.6P" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "宏齐光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "三晶高亮度红光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# bright,red,LED_1206,C264317
+#
+DEF bright,red,LED_1206,C264317 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "bright,red,LED_1206,C264317" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C264317" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "bright,red,LED_1206,C264317" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "亮红光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blu-ray,LED_1206,C264323
+#
+DEF blu-ray,LED_1206,C264323 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blu-ray,LED_1206,C264323" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C264323" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blu-ray,LED_1206,C264323" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blu-ray,side,taping,LED_0.6x2.1,C264358
+#
+DEF blu-ray,side,taping,LED_0.6x2.1,C264358 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blu-ray,side,taping,LED_0.6x2.1,C264358" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C264358" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blu-ray,side,taping,LED_0.6x2.1,C264358" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0.6x2.1" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝光 侧面 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# efficient,red,(hi-eff,red),wavelength,625-640nm,LED_0805,C264415
+#
+DEF efficient,red,(hi-eff,red),wavelength,625-640nm,LED_0805,C264415 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "efficient,red,(hi-eff,red),wavelength,625-640nm,LED_0805,C264415" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C264415" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "efficient,red,(hi-eff,red),wavelength,625-640nm,LED_0805,C264415" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "高效红光(Hi-EFF red),波长625-640nm" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blu-ray,LED_0603,C264464
+#
+DEF blu-ray,LED_0603,C264464 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blu-ray,LED_0603,C264464" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C264464" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blu-ray,LED_0603,C264464" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,,green,,and,blue,light,rgb灯,LED-4_1.6x1.6x0.9P,C264514
+#
+DEF red,,green,,and,blue,light,rgb灯,LED-4_1.6x1.6x0.9P,C264514 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,,green,,and,blue,light,rgb灯,LED-4_1.6x1.6x0.9P,C264514" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C264514" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,,green,,and,blue,light,rgb灯,LED-4_1.6x1.6x0.9P,C264514" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.6x1.6x0.9P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红、翠绿、蓝三色光 RGB灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# rgb,three,color,light,taping,LED-4_1.6x1.6x0.9P,C264517
+#
+DEF rgb,three,color,light,taping,LED-4_1.6x1.6x0.9P,C264517 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "rgb,three,color,light,taping,LED-4_1.6x1.6x0.9P,C264517" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C264517" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "rgb,three,color,light,taping,LED-4_1.6x1.6x0.9P,C264517" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.6x1.6x0.9P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "RGB 三色光 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 61-238/KK2C-S30306F4GB2/ET,SMD-6_5x5.4x1.6P,C264586
+#
+DEF 61-238/KK2C-S30306F4GB2/ET,SMD-6_5x5.4x1.6P,C264586 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "61-238/KK2C-S30306F4GB2/ET,SMD-6_5x5.4x1.6P,C264586" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C264586" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "61-238/KK2C-S30306F4GB2/ET,SMD-6_5x5.4x1.6P,C264586" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "SMD-6_5x5.4x1.6P" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "61-238/KK2C-S30306F4GB2/ET" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 61-238/QK2C-B50632FAGB2/ET,SMD-6_5x5.4x1.6P,C264587
+#
+DEF 61-238/QK2C-B50632FAGB2/ET,SMD-6_5x5.4x1.6P,C264587 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "61-238/QK2C-B50632FAGB2/ET,SMD-6_5x5.4x1.6P,C264587" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C264587" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "61-238/QK2C-B50632FAGB2/ET,SMD-6_5x5.4x1.6P,C264587" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "SMD-6_5x5.4x1.6P" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "61-238/QK2C-B50632FAGB2/ET" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RGB灯,SMD-4_2.8x3.2x1.5P,C264607
+#
+DEF RGB灯,SMD-4_2.8x3.2x1.5P,C264607 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "RGB灯,SMD-4_2.8x3.2x1.5P,C264607" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C264607" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "RGB灯,SMD-4_2.8x3.2x1.5P,C264607" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "SMD-4_2.8x3.2x1.5P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "RGB灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# warm,white,3528,led灯珠,LED_3528,C26545
+#
+DEF warm,white,3528,led灯珠,LED_3528,C26545 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "warm,white,3528,led灯珠,LED_3528,C26545" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C26545" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "warm,white,3528,led灯珠,LED_3528,C26545" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "暖白 3528 LED灯珠" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206,smd,led,red,red,taping,LED_1206,C268276
+#
+DEF 1206,smd,led,red,red,taping,LED_1206,C268276 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1206,smd,led,red,red,taping,LED_1206,C268276" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C268276" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1206,smd,led,red,red,taping,LED_1206,C268276" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "OptoSupply 光谷" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1206 SMD LED 红Red 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603x2red_emerald_蓝三色,common,anode,LED-4_1.5x1.6x0.8P,C273610
+#
+DEF 0603x2red_emerald_蓝三色,common,anode,LED-4_1.5x1.6x0.8P,C273610 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603x2red_emerald_蓝三色,common,anode,LED-4_1.5x1.6x0.8P,C273610" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C273610" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603x2red_emerald_蓝三色,common,anode,LED-4_1.5x1.6x0.8P,C273610" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.5x1.6x0.8P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TOGIALED 台湾统佳" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603x2红翠绿蓝三色 共阳" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603x2red_emerald_蓝三色,common,cathode,LED-4_1.5x1.6x0.9P,C273611
+#
+DEF 0603x2red_emerald_蓝三色,common,cathode,LED-4_1.5x1.6x0.9P,C273611 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603x2red_emerald_蓝三色,common,cathode,LED-4_1.5x1.6x0.9P,C273611" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C273611" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603x2red_emerald_蓝三色,common,cathode,LED-4_1.5x1.6x0.9P,C273611" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.5x1.6x0.9P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TOGIALED 台湾统佳" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603x2红翠绿蓝三色 共阴" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# a,light,emitting,diode,(yellow-green),LED_0805,C28105
+#
+DEF a,light,emitting,diode,(yellow-green),LED_0805,C28105 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "a,light,emitting,diode,(yellow-green),LED_0805,C28105" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C28105" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "a,light,emitting,diode,(yellow-green),LED_0805,C28105" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "发光二极管（黄绿色）" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SML-D12M8WT86S,LED_0603,C308768
+#
+DEF SML-D12M8WT86S,LED_0603,C308768 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "SML-D12M8WT86S,LED_0603,C308768" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C308768" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "SML-D12M8WT86S,LED_0603,C308768" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ROHM 罗姆" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "SML-D12M8WT86S" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# white,light,LED_0805,C34499
+#
+DEF white,light,LED_0805,C34499 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "white,light,LED_0805,C34499" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C34499" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "white,light,LED_0805,C34499" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "白灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603orange_ledled,LED_0603,C375450
+#
+DEF 0603orange_ledled,LED_0603,C375450 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603orange_ledled,LED_0603,C375450" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375450" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603orange_ledled,LED_0603,C375450" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603橙色led发光二极管" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805red_ledled,LED_0805,C375451
+#
+DEF 0805red_ledled,LED_0805,C375451 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805red_ledled,LED_0805,C375451" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375451" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805red_ledled,LED_0805,C375451" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805红色led发光二极管" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805yellow_ledled,LED_0805,C375452
+#
+DEF 0805yellow_ledled,LED_0805,C375452 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805yellow_ledled,LED_0805,C375452" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375452" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805yellow_ledled,LED_0805,C375452" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805黄色led发光二极管" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# E6C0805QBAC1UDA,LED_0805,C375453
+#
+DEF E6C0805QBAC1UDA,LED_0805,C375453 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "E6C0805QBAC1UDA,LED_0805,C375453" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375453" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "E6C0805QBAC1UDA,LED_0805,C375453" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "E6C0805QBAC1UDA" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206blue_ledled,taping,LED_1206,C375460
+#
+DEF 1206blue_ledled,taping,LED_1206,C375460 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1206blue_ledled,taping,LED_1206,C375460" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375460" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1206blue_ledled,taping,LED_1206,C375460" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1206蓝色led发光二极管 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206emerald_ledled,LED_1206,C375461
+#
+DEF 1206emerald_ledled,LED_1206,C375461 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1206emerald_ledled,LED_1206,C375461" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375461" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1206emerald_ledled,LED_1206,C375461" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1206翠绿色led发光二极管" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,yellow-green,light,emitting,diodes,led,taping,LED-4_1.6x1.6x0.85P,C375543
+#
+DEF red,yellow-green,light,emitting,diodes,led,taping,LED-4_1.6x1.6x0.85P,C375543 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,yellow-green,light,emitting,diodes,led,taping,LED-4_1.6x1.6x0.85P,C375543" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375543" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,yellow-green,light,emitting,diodes,led,taping,LED-4_1.6x1.6x0.85P,C375543" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.6x1.6x0.85P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红 黄绿双色led发光二极管 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,and,blue,color,led,led,taping,LED-4_1.6x1.6x0.85P,C375544
+#
+DEF red,and,blue,color,led,led,taping,LED-4_1.6x1.6x0.85P,C375544 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,and,blue,color,led,led,taping,LED-4_1.6x1.6x0.85P,C375544" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375544" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,and,blue,color,led,led,taping,LED-4_1.6x1.6x0.85P,C375544" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.6x1.6x0.85P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红蓝双色led发光二极管 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# pure,green,color,led,red,light-emitting,diodes,LED-4_2.7x3.2x1.38P,C375560
+#
+DEF pure,green,color,led,red,light-emitting,diodes,LED-4_2.7x3.2x1.38P,C375560 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "pure,green,color,led,red,light-emitting,diodes,LED-4_2.7x3.2x1.38P,C375560" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375560" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "pure,green,color,led,red,light-emitting,diodes,LED-4_2.7x3.2x1.38P,C375560" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_2.7x3.2x1.38P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红纯绿双色led发光二极管" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,,green,and,blue,light,emitting,diodes,led,taping,LED-4_1.6x1.6x0.85P,C375569
+#
+DEF red,,green,and,blue,light,emitting,diodes,led,taping,LED-4_1.6x1.6x0.85P,C375569 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,,green,and,blue,light,emitting,diodes,led,taping,LED-4_1.6x1.6x0.85P,C375569" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375569" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,,green,and,blue,light,emitting,diodes,led,taping,LED-4_1.6x1.6x0.85P,C375569" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.6x1.6x0.85P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红绿蓝三色led发光二极管 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206red,,green,and,blue,light,emitting,diodes,led,LED-4_1206,C375571
+#
+DEF 1206red,,green,and,blue,light,emitting,diodes,led,LED-4_1206,C375571 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1206red,,green,and,blue,light,emitting,diodes,led,LED-4_1206,C375571" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375571" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1206red,,green,and,blue,light,emitting,diodes,led,LED-4_1206,C375571" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1206" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1206红绿蓝三色led发光二极管" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1209red_green_blue_ledled,taping,LED-4_2.5x3x1.5P,C375572
+#
+DEF 1209red_green_blue_ledled,taping,LED-4_2.5x3x1.5P,C375572 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1209red_green_blue_ledled,taping,LED-4_2.5x3x1.5P,C375572" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C375572" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1209red_green_blue_ledled,taping,LED-4_2.5x3x1.5P,C375572" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_2.5x3x1.5P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ekinglux 亿晶源" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1209红绿蓝色led发光二极管 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3528,rgbfull,color_ledsmd,LED-4_3.2x2.8x1.45P,C383429
+#
+DEF 3528,rgbfull,color_ledsmd,LED-4_3.2x2.8x1.45P,C383429 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3528,rgbfull,color_ledsmd,LED-4_3.2x2.8x1.45P,C383429" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C383429" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3528,rgbfull,color_ledsmd,LED-4_3.2x2.8x1.45P,C383429" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_3.2x2.8x1.45P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "BRIGHTEK 弘凯光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3528 RGB全彩LED贴片" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_0603highlight_white,LED_0603,C389521
+#
+DEF ledsmd_0603highlight_white,LED_0603,C389521 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_0603highlight_white,LED_0603,C389521" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C389521" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_0603highlight_white,LED_0603,C389521" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片0603高亮白光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_0603highlight_冰blu-ray,LED_0603,C389522
+#
+DEF ledsmd_0603highlight_冰blu-ray,LED_0603,C389522 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_0603highlight_冰blu-ray,LED_0603,C389522" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C389522" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_0603highlight_冰blu-ray,LED_0603,C389522" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片0603高亮冰蓝光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_0805高bright,red,LED_0805,C389523
+#
+DEF ledsmd_0805高bright,red,LED_0805,C389523 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_0805高bright,red,LED_0805,C389523" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C389523" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_0805高bright,red,LED_0805,C389523" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片0805高亮红光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_0805超highlight_blu-ray,taping,LED_0805,C389525
+#
+DEF ledsmd_0805超highlight_blu-ray,taping,LED_0805,C389525 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_0805超highlight_blu-ray,taping,LED_0805,C389525" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C389525" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_0805超highlight_blu-ray,taping,LED_0805,C389525" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片0805超高亮蓝光 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_1206高bright,red,taping,LED_1206,C389526
+#
+DEF ledsmd_1206高bright,red,taping,LED_1206,C389526 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_1206高bright,red,taping,LED_1206,C389526" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C389526" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_1206高bright,red,taping,LED_1206,C389526" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片1206高亮红光 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_0805双色highlight_red_emerald,taping,LED-4_0805,C391863
+#
+DEF ledsmd_0805双色highlight_red_emerald,taping,LED-4_0805,C391863 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_0805双色highlight_red_emerald,taping,LED-4_0805,C391863" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C391863" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_0805双色highlight_red_emerald,taping,LED-4_0805,C391863" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_0805" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片0805双色高亮红色翠绿色 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_0402highlight_red_光,LED_0402,C397045
+#
+DEF ledsmd_0402highlight_red_光,LED_0402,C397045 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_0402highlight_red_光,LED_0402,C397045" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C397045" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_0402highlight_red_光,LED_0402,C397045" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片0402高亮红色光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_1206超highlight_emerald_光,LED_1206,C397048
+#
+DEF ledsmd_1206超highlight_emerald_光,LED_1206,C397048 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_1206超highlight_emerald_光,LED_1206,C397048" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C397048" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_1206超highlight_emerald_光,LED_1206,C397048" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片1206超高亮翠绿色光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_0603highlight_white_冷白,LED_0603,C397049
+#
+DEF ledsmd_0603highlight_white_冷白,LED_0603,C397049 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_0603highlight_white_冷白,LED_0603,C397049" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C397049" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_0603highlight_white_冷白,LED_0603,C397049" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片0603高亮白光冷白" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# MHT151WDT,LED_1206,C401114
+#
+DEF MHT151WDT,LED_1206,C401114 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "MHT151WDT,LED_1206,C401114" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C401114" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "MHT151WDT,LED_1206,C401114" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "MHT151WDT" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_0603highlight_red_光,LED_0603,C401120
+#
+DEF ledsmd_0603highlight_red_光,LED_0603,C401120 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_0603highlight_red_光,LED_0603,C401120" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C401120" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_0603highlight_red_光,LED_0603,C401120" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片0603高亮红色光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,taping,LED_0603,C40378
+#
+DEF red,taping,LED_0603,C40378 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,taping,LED_0603,C40378" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C40378" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,taping,LED_0603,C40378" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红色 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_0603/0605highlight_red_green_蓝rgbthree,color,light,LED-4_1.5x1.6x0.9P,C404275
+#
+DEF ledsmd_0603/0605highlight_red_green_蓝rgbthree,color,light,LED-4_1.5x1.6x0.9P,C404275 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_0603/0605highlight_red_green_蓝rgbthree,color,light,LED-4_1.5x1.6x0.9P,C404275" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C404275" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_0603/0605highlight_red_green_蓝rgbthree,color,light,LED-4_1.5x1.6x0.9P,C404275" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.5x1.6x0.9P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片0603/0605高亮红绿蓝RGB三色光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_1515common,anode_室内full,color_rgbhighlight_red_green_蓝三色,SMD-4_1.5x1.6x0.72P,C404281
+#
+DEF ledsmd_1515common,anode_室内full,color_rgbhighlight_red_green_蓝三色,SMD-4_1.5x1.6x0.72P,C404281 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_1515common,anode_室内full,color_rgbhighlight_red_green_蓝三色,SMD-4_1.5x1.6x0.72P,C404281" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C404281" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_1515common,anode_室内full,color_rgbhighlight_red_green_蓝三色,SMD-4_1.5x1.6x0.72P,C404281" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "SMD-4_1.5x1.6x0.72P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片1515共阳室内全彩RGB高亮红绿蓝三色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_1515common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_1515,C404282
+#
+DEF ledsmd_1515common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_1515,C404282 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_1515common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_1515,C404282" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C404282" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_1515common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_1515,C404282" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1515" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片1515共阳室外全彩RGB高亮红绿蓝三色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_1921common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_1921,C404283
+#
+DEF ledsmd_1921common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_1921,C404283 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_1921common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_1921,C404283" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C404283" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_1921common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_1921,C404283" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1921" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片1921共阳室外全彩RGB高亮红绿蓝三色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_2121common,anode_室内full,color_rgb超highlight_red_green_蓝三色,LED-4_2121,C404284
+#
+DEF ledsmd_2121common,anode_室内full,color_rgb超highlight_red_green_蓝三色,LED-4_2121,C404284 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_2121common,anode_室内full,color_rgb超highlight_red_green_蓝三色,LED-4_2121,C404284" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C404284" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_2121common,anode_室内full,color_rgb超highlight_red_green_蓝三色,LED-4_2121,C404284" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_2121" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片2121共阳室内全彩RGB超高亮红绿蓝三色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_2727common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_2727,C404286
+#
+DEF ledsmd_2727common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_2727,C404286 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_2727common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_2727,C404286" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C404286" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_2727common,anode_室外full,color_rgbhighlight_red_green_蓝三色,LED-4_2727,C404286" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_2727" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片2727共阳室外全彩RGB高亮红绿蓝三色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_3528超highlight_red,green,(green,530nm),light,color,LED-4_3528,C409778
+#
+DEF ledsmd_3528超highlight_red,green,(green,530nm),light,color,LED-4_3528,C409778 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_3528超highlight_red,green,(green,530nm),light,color,LED-4_3528,C409778" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C409778" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_3528超highlight_red,green,(green,530nm),light,color,LED-4_3528,C409778" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_3528" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片3528超高亮红 绿(翠绿530nm)双色光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_5050highlight_red_green_蓝rgbthree,color,light,LED-6_5050,C409780
+#
+DEF ledsmd_5050highlight_red_green_蓝rgbthree,color,light,LED-6_5050,C409780 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_5050highlight_red_green_蓝rgbthree,color,light,LED-6_5050,C409780" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C409780" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_5050highlight_red_green_蓝rgbthree,color,light,LED-6_5050,C409780" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-6_5050" 0 -800 50 H I C CNN "Package"
+F8 "6" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片5050高亮红绿蓝RGB三色光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_1206highlight_red_green_蓝rgbthree,color,light_(注意反贴),LED-4_1.25x3.2x0.75P,C409782
+#
+DEF ledsmd_1206highlight_red_green_蓝rgbthree,color,light_(注意反贴),LED-4_1.25x3.2x0.75P,C409782 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_1206highlight_red_green_蓝rgbthree,color,light_(注意反贴),LED-4_1.25x3.2x0.75P,C409782" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C409782" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_1206highlight_red_green_蓝rgbthree,color,light_(注意反贴),LED-4_1.25x3.2x0.75P,C409782" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.25x3.2x0.75P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片1206高亮红绿蓝RGB三色光(注意反贴)" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# smd0603灯珠red_蓝无极,LED_0603,C440514
+#
+DEF smd0603灯珠red_蓝无极,LED_0603,C440514 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "smd0603灯珠red_蓝无极,LED_0603,C440514" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C440514" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "smd0603灯珠red_蓝无极,LED_0603,C440514" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "TOGIALED 台湾统佳" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "SMD0603灯珠红蓝无极" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledsmd_0603highlight_yellow-green_光,LED_0603,C473820
+#
+DEF ledsmd_0603highlight_yellow-green_光,LED_0603,C473820 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledsmd_0603highlight_yellow-green_光,LED_0603,C473820" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C473820" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledsmd_0603highlight_yellow-green_光,LED_0603,C473820" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "MEIHUA 美华科技" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED贴片0603高亮黄绿色光" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ledhighlight_red,light,1206,LED_1206,C49018
+#
+DEF ledhighlight_red,light,1206,LED_1206,C49018 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "ledhighlight_red,light,1206,LED_1206,C49018" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C49018" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "ledhighlight_red,light,1206,LED_1206,C49018" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED高亮红灯 1206" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blue,light,highlight,LED_0805,C55951
+#
+DEF blue,light,highlight,LED_0805,C55951 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blue,light,highlight,LED_0805,C55951" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C55951" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blue,light,highlight,LED_0805,C55951" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝灯 高亮" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# three-color,led:,red,,green,,blue,taping,LED-4_1.6x1.6x0.9P,C60105
+#
+DEF three-color,led:,red,,green,,blue,taping,LED-4_1.6x1.6x0.9P,C60105 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "three-color,led:,red,,green,,blue,taping,LED-4_1.6x1.6x0.9P,C60105" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C60105" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "three-color,led:,red,,green,,blue,taping,LED-4_1.6x1.6x0.9P,C60105" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED-4_1.6x1.6x0.9P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "三色LED：红，翠绿，蓝 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# led,,green,0805,LED_0805,C63855
+#
+DEF led,,green,0805,LED_0805,C63855 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "led,,green,0805,LED_0805,C63855" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C63855" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "led,,green,0805,LED_0805,C63855" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED  绿色0805" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# led,blue,light,3528,LED_3528,C69273
+#
+DEF led,blue,light,3528,LED_3528,C69273 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "led,blue,light,3528,LED_3528,C69273" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C69273" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "led,blue,light,3528,LED_3528,C69273" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED 蓝灯 3528" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# n,white,1206,(非暖色调的white_),LED_1206,C71796
+#
+DEF n,white,1206,(非暖色调的white_),LED_1206,C71796 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "n,white,1206,(非暖色调的white_),LED_1206,C71796" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C71796" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "n,white,1206,(非暖色调的white_),LED_1206,C71796" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国产" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "正白色1206 (非暖色调的白色)" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# led灯,red,0402,LED_0402,C71911
+#
+DEF led灯,red,0402,LED_0402,C71911 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "led灯,red,0402,LED_0402,C71911" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C71911" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "led灯,red,0402,LED_0402,C71911" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LED灯 红色 0402" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,blue,light,highlight,LED_0805,C72034
+#
+DEF 0805,blue,light,highlight,LED_0805,C72034 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,blue,light,highlight,LED_0805,C72034" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72034" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,blue,light,highlight,LED_0805,C72034" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 蓝灯 高亮" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,blue,light,LED_0805,C72035
+#
+DEF 0805,blue,light,LED_0805,C72035 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,blue,light,LED_0805,C72035" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72035" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,blue,light,LED_0805,C72035" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 蓝灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,yellow,LED_0805,C72036
+#
+DEF 0805,yellow,LED_0805,C72036 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,yellow,LED_0805,C72036" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72036" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,yellow,LED_0805,C72036" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 黄灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,red,light,bright,LED_0805,C72037
+#
+DEF 0805,red,light,bright,LED_0805,C72037 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,red,light,bright,LED_0805,C72037" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72037" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,red,light,bright,LED_0805,C72037" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 红灯 超亮" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow,LED_0603,C72038
+#
+DEF yellow,LED_0603,C72038 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow,LED_0603,C72038" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72038" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow,LED_0603,C72038" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603,red,light,LED_0603,C72039
+#
+DEF 0603,red,light,LED_0603,C72039 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603,red,light,LED_0603,C72039" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72039" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603,red,light,LED_0603,C72039" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603 红灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603,olivine,LED_0603,C72040
+#
+DEF 0603,olivine,LED_0603,C72040 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603,olivine,LED_0603,C72040" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72040" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603,olivine,LED_0603,C72040" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603 黄绿" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blue,light,LED_0603,C72041
+#
+DEF blue,light,LED_0603,C72041 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blue,light,LED_0603,C72041" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72041" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blue,light,LED_0603,C72041" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603,green,LED_0603,C72042
+#
+DEF 0603,green,LED_0603,C72042 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603,green,LED_0603,C72042" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72042" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603,green,LED_0603,C72042" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603 绿灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# green,LED_0603,C72043
+#
+DEF green,LED_0603,C72043 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "green,LED_0603,C72043" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72043" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "green,LED_0603,C72043" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "绿灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603,red,light,LED_0603,C72044
+#
+DEF 0603,red,light,LED_0603,C72044 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603,red,light,LED_0603,C72044" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72044" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603,red,light,LED_0603,C72044" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603 红灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603,red,light,LED_0603,C72045
+#
+DEF 0603,red,light,LED_0603,C72045 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603,red,light,LED_0603,C72045" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72045" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603,red,light,LED_0603,C72045" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603 红灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# chip,smd,1206,blue,LED_1206,C72691
+#
+DEF chip,smd,1206,blue,LED_1206,C72691 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "chip,smd,1206,blue,LED_1206,C72691" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C72691" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "chip,smd,1206,blue,LED_1206,C72691" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "贴片SMD 1206 蓝色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,emerald,LED_0805,C73546
+#
+DEF 0805,emerald,LED_0805,C73546 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,emerald,LED_0805,C73546" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C73546" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,emerald,LED_0805,C73546" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 翠绿" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,olivine,LED_0805,C73548
+#
+DEF 0805,olivine,LED_0805,C73548 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,olivine,LED_0805,C73548" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C73548" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,olivine,LED_0805,C73548" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 黄绿" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206,olivine,LED_1206,C73550
+#
+DEF 1206,olivine,LED_1206,C73550 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "1206,olivine,LED_1206,C73550" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C73550" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "1206,olivine,LED_1206,C73550" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "1206 黄绿" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,and,blue,color,led,lights,LED_1.6x1.6x4P,C73822
+#
+DEF red,and,blue,color,led,lights,LED_1.6x1.6x4P,C73822 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,and,blue,color,led,lights,LED_1.6x1.6x4P,C73822" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C73822" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,and,blue,color,led,lights,LED_1.6x1.6x4P,C73822" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1.6x1.6x4P" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "KENTO" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红蓝双色LED灯" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402,emerald_smd,LED_0402,C74338
+#
+DEF 0402,emerald_smd,LED_0402,C74338 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0402,emerald_smd,LED_0402,C74338" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74338" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0402,emerald_smd,LED_0402,C74338" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0402 翠绿色贴片" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402,red_smd,LED_0402,C74339
+#
+DEF 0402,red_smd,LED_0402,C74339 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0402,red_smd,LED_0402,C74339" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74339" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0402,red_smd,LED_0402,C74339" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0402 红色贴片" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402,white_smd,taping,LED_0402,C74342
+#
+DEF 0402,white_smd,taping,LED_0402,C74342 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0402,white_smd,taping,LED_0402,C74342" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74342" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0402,white_smd,taping,LED_0402,C74342" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0402 白色贴片 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,green_smd,LED_0805,C74344
+#
+DEF 0805,green_smd,LED_0805,C74344 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,green_smd,LED_0805,C74344" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74344" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,green_smd,LED_0805,C74344" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 绿色贴片" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,olivine_smd,LED_0805,C74346
+#
+DEF 0805,olivine_smd,LED_0805,C74346 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,olivine_smd,LED_0805,C74346" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74346" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,olivine_smd,LED_0805,C74346" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 黄绿贴片" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3528,blue_smd,taping,LED_3528,C74348
+#
+DEF 3528,blue_smd,taping,LED_3528,C74348 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3528,blue_smd,taping,LED_3528,C74348" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74348" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3528,blue_smd,taping,LED_3528,C74348" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3528 蓝色贴片 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3528,yellow_smd,taping,LED_3528,C74349
+#
+DEF 3528,yellow_smd,taping,LED_3528,C74349 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3528,yellow_smd,taping,LED_3528,C74349" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74349" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3528,yellow_smd,taping,LED_3528,C74349" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3528 黄色贴片 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3528,red_smd,taping,LED_3528,C74350
+#
+DEF 3528,red_smd,taping,LED_3528,C74350 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "3528,red_smd,taping,LED_3528,C74350" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C74350" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "3528,red_smd,taping,LED_3528,C74350" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "3528 红色贴片 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# the,red,light,emitting,diode,in,57-21,/,r6c-ap1q2b,/,bf,taping,SMD-4_4x4x2.5P,C78197
+#
+DEF the,red,light,emitting,diode,in,57-21,/,r6c-ap1q2b,/,bf,taping,SMD-4_4x4x2.5P,C78197 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "the,red,light,emitting,diode,in,57-21,/,r6c-ap1q2b,/,bf,taping,SMD-4_4x4x2.5P,C78197" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C78197" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "the,red,light,emitting,diode,in,57-21,/,r6c-ap1q2b,/,bf,taping,SMD-4_4x4x2.5P,C78197" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "SMD-4_4x4x2.5P" 0 -800 50 H I C CNN "Package"
+F8 "4" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红色侧发光二极管57-21/R6C-AP1Q2B/BF 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603,pure,white,0.4mm,height,LED_0603,C83955
+#
+DEF 0603,pure,white,0.4mm,height,LED_0603,C83955 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0603,pure,white,0.4mm,height,LED_0603,C83955" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C83955" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0603,pure,white,0.4mm,height,LED_0603,C83955" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0603 纯白色 高度0.4mm" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805,pure,white,LED_0805,C83960
+#
+DEF 0805,pure,white,LED_0805,C83960 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "0805,pure,white,LED_0805,C83960" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C83960" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "0805,pure,white,LED_0805,C83960" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "0805 纯白色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,light,smd,led,LED_0805,C84256
+#
+DEF red,light,smd,led,LED_0805,C84256 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,light,smd,led,LED_0805,C84256" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84256" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,light,smd,led,LED_0805,C84256" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "基础库" 0 -900 50 H I C CNN "Library Type"
+F11 "红灯 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow-green,smd,led,LED_0805,C84257
+#
+DEF yellow-green,smd,led,LED_0805,C84257 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow-green,smd,led,LED_0805,C84257" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84257" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow-green,smd,led,LED_0805,C84257" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄绿色 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# white,light,smd,led,LED_0805,C84258
+#
+DEF white,light,smd,led,LED_0805,C84258 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "white,light,smd,led,LED_0805,C84258" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84258" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "white,light,smd,led,LED_0805,C84258" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "白灯 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blue,light,smd,led,LED_0805,C84259
+#
+DEF blue,light,smd,led,LED_0805,C84259 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blue,light,smd,led,LED_0805,C84259" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84259" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blue,light,smd,led,LED_0805,C84259" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝灯 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# emerald,smd,led,LED_0805,C84260
+#
+DEF emerald,smd,led,LED_0805,C84260 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "emerald,smd,led,LED_0805,C84260" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84260" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "emerald,smd,led,LED_0805,C84260" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿色 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow,smd,led,LED_0805,C84261
+#
+DEF yellow,smd,led,LED_0805,C84261 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow,smd,led,LED_0805,C84261" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84261" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow,smd,led,LED_0805,C84261" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄灯 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# orange,ledsmd,LED_0805,C84262
+#
+DEF orange,ledsmd,LED_0805,C84262 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "orange,ledsmd,LED_0805,C84262" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84262" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "orange,ledsmd,LED_0805,C84262" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "橙色 LED贴片" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow-green,smd,led,LED_0603,C84264
+#
+DEF yellow-green,smd,led,LED_0603,C84264 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow-green,smd,led,LED_0603,C84264" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84264" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow-green,smd,led,LED_0603,C84264" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄绿色 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# white,light,smd,led,LED_0603,C84265
+#
+DEF white,light,smd,led,LED_0603,C84265 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "white,light,smd,led,LED_0603,C84265" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84265" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "white,light,smd,led,LED_0603,C84265" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "白灯 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# emerald,smd,led,LED_0603,C84267
+#
+DEF emerald,smd,led,LED_0603,C84267 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "emerald,smd,led,LED_0603,C84267" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84267" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "emerald,smd,led,LED_0603,C84267" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿色 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# yellow,smd,led,LED_0603,C84268
+#
+DEF yellow,smd,led,LED_0603,C84268 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "yellow,smd,led,LED_0603,C84268" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84268" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "yellow,smd,led,LED_0603,C84268" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄灯 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# orange,smd,led,LED_0603,C84269
+#
+DEF orange,smd,led,LED_0603,C84269 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "orange,smd,led,LED_0603,C84269" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84269" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "orange,smd,led,LED_0603,C84269" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "橙色 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,light,smd,led,LED_1206,C84270
+#
+DEF red,light,smd,led,LED_1206,C84270 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,light,smd,led,LED_1206,C84270" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84270" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,light,smd,led,LED_1206,C84270" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红灯 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# olivine,LED_1206,C84273
+#
+DEF olivine,LED_1206,C84273 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "olivine,LED_1206,C84273" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84273" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "olivine,LED_1206,C84273" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄绿" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SML-311DTT86,LED_0603,C84984
+#
+DEF SML-311DTT86,LED_0603,C84984 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "SML-311DTT86,LED_0603,C84984" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C84984" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "SML-311DTT86,LED_0603,C84984" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "ROHM 罗姆" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "SML-311DTT86" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,LED_3528,C85318
+#
+DEF red,LED_3528,C85318 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,LED_3528,C85318" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C85318" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,LED_3528,C85318" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# blue,LED_3528,C85319
+#
+DEF blue,LED_3528,C85319 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "blue,LED_3528,C85319" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C85319" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "blue,LED_3528,C85319" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "蓝色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# green,LED_3528,C85320
+#
+DEF green,LED_3528,C85320 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "green,LED_3528,C85320" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C85320" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "green,LED_3528,C85320" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_3528" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "绿色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# azure,0603,LED_0603,C85323
+#
+DEF azure,0603,LED_0603,C85323 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "azure,0603,LED_0603,C85323" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C85323" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "azure,0603,LED_0603,C85323" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "天蓝 0603" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# pink,0603,LED_0603,C85324
+#
+DEF pink,0603,LED_0603,C85324 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "pink,0603,LED_0603,C85324" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C85324" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "pink,0603,LED_0603,C85324" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "粉红 0603" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,smd,led,LED_0805,C86865
+#
+DEF red,smd,led,LED_0805,C86865 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,smd,led,LED_0805,C86865" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C86865" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,smd,led,LED_0805,C86865" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红色 贴片LED" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15-21SURC/S530-A3/TR8,LED_1206,C88326
+#
+DEF 15-21SURC/S530-A3/TR8,LED_1206,C88326 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "15-21SURC/S530-A3/TR8,LED_1206,C88326" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C88326" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "15-21SURC/S530-A3/TR8,LED_1206,C88326" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "15-21SURC/S530-A3/TR8" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# led,orange,LED_0402,C88330
+#
+DEF led,orange,LED_0402,C88330 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "led,orange,LED_0402,C88330" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C88330" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "led,orange,LED_0402,C88330" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0402" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "EVERLIGHT 台湾亿光" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "发光二极管 橙色" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0402*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# olivine,0603,LED_0603,C89809
+#
+DEF olivine,0603,LED_0603,C89809 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "olivine,0603,LED_0603,C89809" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C89809" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "olivine,0603,LED_0603,C89809" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "黄绿 0603" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FC-F1608BK-470H5,LED_0603,C89814
+#
+DEF FC-F1608BK-470H5,LED_0603,C89814 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "FC-F1608BK-470H5,LED_0603,C89814" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C89814" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "FC-F1608BK-470H5,LED_0603,C89814" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "FC-F1608BK-470H5" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# red,smd,led,(65-150mcd),LED_0603,C90692
+#
+DEF red,smd,led,(65-150mcd),LED_0603,C90692 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "red,smd,led,(65-150mcd),LED_0603,C90692" 50 -100 50 H V L CNN
+F2 "w_smd_inductors:r_0603" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C90692" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "red,smd,led,(65-150mcd),LED_0603,C90692" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0603" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "红色 贴片LED (65-150mcd)" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0603*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# LTST-C170KRKT,(Iv=54mcd(Typ),@IF=20mA),LED_0805,C94868
+#
+DEF LTST-C170KRKT,(Iv=54mcd(Typ),@IF=20mA),LED_0805,C94868 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "LTST-C170KRKT,(Iv=54mcd(Typ),@IF=20mA),LED_0805,C94868" 50 -100 50 H V L CNN
+F2 "footprint-lib:LED_0805_2012Metric" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C94868" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "LTST-C170KRKT,(Iv=54mcd(Typ),@IF=20mA),LED_0805,C94868" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_0805" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "LITEON 台湾光宝" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "LTST-C170KRKT (Iv=54mcd(Typ) @IF=20mA)" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *0805*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# green,led,taping,LED_1206,C99881
+#
+DEF green,led,taping,LED_1206,C99881 C 0 10 N N 1 F N
+F0 "U" 10 70 50 H V L CNN
+F1 "green,led,taping,LED_1206,C99881" 50 -100 50 H V L CNN
+F2 "" 0 -1000 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "C99881" 0 -500 50 H I C CNN "LCSC_Part"
+F5 "green,led,taping,LED_1206,C99881" 50 -200 50 H I L CNN "MFR_Part"
+F6 "二极管_发光二极管" 0 -600 50 H I C CNN "Second Category"
+F7 "LED_1206" 0 -800 50 H I C CNN "Package"
+F8 "2" 0 -1100 50 H I C CNN "Solder Joint"
+F9 "国星光电" 0 -700 50 H I C CNN "Manufacturer"
+F10 "扩展库" 0 -900 50 H I C CNN "Library Type"
+F11 "翠绿LED 编带" 0 -900 50 H I C CNN "Library Type"
+$FPLIST
+ *
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -30 -40 -30 40 N
+P 2 0 1 0 40 0 -30 0 N
+P 4 0 1 0 30 -40 -30 0 30 40 30 -40 N
+P 5 0 1 0 0 30 -20 50 -10 50 -20 50 -20 40 N
+P 5 0 1 0 20 50 0 70 10 70 0 70 0 60 N
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

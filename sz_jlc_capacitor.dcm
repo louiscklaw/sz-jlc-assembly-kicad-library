@@ -1,0 +1,2714 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 75pF(750),±5%,50V,C0G,0805,C10417
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 39pF(390),±5%,50V,C0G,0402,C106223
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 270pF(271),±5%,50V,C0G,0402,C107003
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 51pF(510),±5%,50V,C0G,0402,C111774
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 9pF(090),±0.5pF,50V,C0G,0402,C111805
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 180pF(181),±5%,50V,C0G,0402,C12209
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.4pF(2R4),±0.1pF,50V,C0G,0402,C123475
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5.6pF(5R6),±0.25pF,50V,C0G,0603,C123584
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 56nF(563),±10%,16V,X7R,0402,C12466
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680nF(684),±10%,16V,X7R,0603,C12479
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 68nF(683),±10%,16V,X7R,0402,C12529
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uF(225),±20%,6.3V,X5R,0402,C12530
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18pF(180),±1%,50V,C0G,0603,C126551
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uF,(225),±10%,50V,X5R,1206,C12656
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22uF(226),±10%,25V,1206,C12891
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 430pF(431),±5%,50V,C0G,0603,C13515
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 82pF(820),±5%,50V,C0G,0402,C13532
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330pF,(331),±5%,50V,C0G,0402,C13533
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF,(106),±10%,50V,X5R,1206,C13585
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±10%,50V,X7R,0805,C136621
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uF(105),±10%,100V,X7R,1206,C13832
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470nF,(474),±10%,50V,X7R,0805,C13967
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 68pF,(680),±5%,50V,C0G,0402,C14441
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,50V,X7R,0402,C14442
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF,(104),±10%,50V,X7R,0603,C14663
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47pF,(470),±5%,50V,C0G,0805,C14857
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF,(101),±5%,50V,C0G,0603,C14858
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1pF,(010),±0.25pF,50V,C0G,0805,C14971
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100uF(107),±20%,6.3V,X5R,1206,C15008
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,100V,X7R,0805,C15177
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF,(103),±10%,50V,X7R,0402,C15195
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF,(102),±10%,50V,X7R,0402,C1523
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF,(104),±10%,16V,X7R,0402,C1525
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150pF,(151),±10%,50V,X7R,0402,C1527
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220pF(221),±5%,100V,C0G,0603,C152914
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220pF,(221),±10%,50V,X7R,0402,C1530
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF,(222),±10%,50V,X7R,0402,C1531
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22nF,(223),±10%,50V,X7R,0402,C1532
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,50V,X7R,1206,C153290
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,100V,X7R,0603,C153291
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,50V,X7R,1206,C153292
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 820pF(821),±10%,50V,X7R,0603,C153293
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470pF,(471),±10%,50V,X7R,0402,C1537
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5.6nF(562),±10%,50V,X7R,0805,C153719
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7nF,(472),±10%,50V,X7R,0402,C1538
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8nF,(682),±10%,50V,X7R,0402,C1542
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8nF(182),±10%,50V,X7R,0603,C154498
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF,(101),±5%,50V,C0G,0402,C1546
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12pF,(120),±5%,50V,C0G,0402,C1547
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15pF,(150),±5%,50V,C0G,0402,C1548
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18pF,(180),±5%,50V,C0G,0402,C1549
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1pF,(1R0),±0.25pF,50V,C0G,0402,C1550
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5pF,(1R5),±0.25pF,50V,C0G,0402,C1552
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF,(106),±20%,6.3V,X5R,0402,C15525
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 20pF,(200),±5%,50V,C0G,0402,C1554
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±10%,25V,X7R,0402,C155422
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22pF,(220),±5%,50V,C0G,0402,C1555
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 27pF,(270),±5%,50V,C0G,0402,C1557
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2pF,(2R0),±0.25pF,50V,C0G,0402,C1558
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2pF,(2R2),±0.25pF,50V,C0G,0402,C1559
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7pF,(2R7),±0.25pF,50V,C0G,0402,C1561
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33pF,(330),±5%,50V,C0G,0402,C1562
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 11pF(110),±5%,50V,C0G,0603,C156474
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3pF,(3R3),±0.25pF,50V,C0G,0402,C1565
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47pF,(470),±5%,50V,C0G,0402,C1567
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7pF,(4R7),±0.25pF,50V,C0G,0402,C1569
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,50V,X7R,0805,C15698
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 30pF,(300),±5%,50V,C0G,0402,C1570
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 56pF,(560),±5%,50V,C0G,0402,C1572
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±10%,100V,X7R,0603,C15725
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8pF,(6R8),±0.25pF,50V,C0G,0402,C1576
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uF,(105),±10%,50V,X5R,0603,C15849
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33nF,(333),±20%,50V,Y5V,0402,C1585
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF,(106),±10%,25V,X5R,0805,C15850
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF,(102),±10%,50V,X7R,0603,C1588
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,50V,X7R,0603,C1589
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12nF,(123),±10%,50V,X7R,0603,C1593
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150pF,(151),±10%,50V,X7R,0603,C1594
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5nF,(152),±10%,50V,X7R,0603,C1595
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15nF,(153),±10%,50V,X7R,0603,C1596
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF(101),±5%,500V,C0G,1206,C159750
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF(101),±5%,100V,C0G,1206,C159751
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF(101),±5%,50V,C0G,1206,C159752
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680nF(684),±10%,25V,X7R,1206,C159753
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220pF(221),±10%,500V,X7R,1206,C159755
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±10%,200V,X7R,1206,C159756
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680pF(681),±5%,50V,C0G,0805,C159762
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 560pF(561),±5%,50V,C0G,0805,C159763
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.9pF(3R9),±0.25pF,50V,C0G,0805,C159764
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3pF(3R3),±0.1pF,50V,C0G,0805,C159765
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330pF(331),±5%,50V,C0G,0805,C159766
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5nF(152),±5%,50V,C0G,0805,C159768
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150pF(151),±5%,50V,C0G,0805,C159769
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120pF(121),±5%,50V,C0G,0805,C159770
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF(101),±5%,100V,C0G,0805,C159771
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.5pF(0R5),±0.1pF,50V,C0G,0805,C159772
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3pF(3R0),±0.25pF,50V,C0G,0805,C159773
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47nF(473),±10%,50V,X7R,0805,C159774
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3uF(335),±10%,10V,X7R,0805,C159775
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33nF(333),±10%,100V,X7R,0805,C159776
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33nF(333),±10%,50V,X7R,0805,C159777
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150pF(151),±10%,50V,X7R,0805,C159778
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,200V,X7R,0805,C159779
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,50V,X7R,0805,C159780
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 75pF(75R),±5%,50V,C0G,0603,C159786
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 51pF(51R),±5%,50V,C0G,0603,C159787
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.6pF(3R6),±0.1pF,50V,C0G,0603,C159788
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3pF(3R3),±0.1pF,50V,C0G,0603,C159789
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 36pF(36R),±5%,50V,C0G,0603,C159790
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 300pF(301),±5%,50V,C0G,0603,C159791
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 25pF(25R),±5%,50V,C0G,0603,C159793
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 200pF(201),±5%,50V,C0G,0603,C159794
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2pF(1R2),±0.1pF,50V,C0G,0603,C159795
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7nF(472),±5%,50V,X7R,0603,C159797
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 300pF(301),±10%,50V,X7R,0603,C159799
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.3pF(4R3),±0.25pF,50V,C0G,0402,C159803
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 30pF(30R),±5%,50V,C0G,0402,C159804
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7pF(2R7),±0.1pF,50V,C0G,0402,C159805
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2pF(2R2),±0.25pF,50V,C0G,0402,C159806
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2pF(1R2),±0.25pF,50V,C0G,0402,C159808
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2pF(1R2),±0.1pF,50V,C0G,0402,C159809
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5nF(152),±5%,50V,X7R,0402,C159813
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uF(225),±20%,25V,X5R,0402,C159814
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 200pF,(201),±10%,50V,X7R,0603,C1600
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,200V,X7R,0805,C16005
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220pF,(221),±10%,50V,X7R,0603,C1603
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF(222),±10%,50V,X7R,0603,C16033
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF,(222),±10%,50V,X7R,0603,C1604
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7nF,(272),±10%,50V,X7R,0603,C1609
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3nF,(332),±10%,50V,X7R,0603,C1613
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.4pF(2R4),±0.25pF,50V,C0G,0402,C161317
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.3pF(4R3),±0.25pF,50V,C0G,0603,C16148
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7pF,(2R7),±0.25pF,50V,C0G,0603,C16149
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330nF,(334),±10%,25V,X7R,0603,C1615
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 270pF(271),±1%,50V,C0G,0402,C161545
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470pF,(471),±10%,50V,X7R,0603,C1620
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47nF,(473),±10%,50V,X7R,0603,C1622
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470nF,(474),±10%,25V,X7R,0603,C1623
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680pF,(681),±10%,50V,X7R,0603,C1630
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8nF,(682),±10%,50V,X7R,0603,C1631
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10pF,(100),±5%,50V,C0G,0603,C1634
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF(101),±5%,50V,C0G,0603,C1635
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±5%,50V,C0G,0603,C163508
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5pF,(1R5),±0.25pF,50V,C0G,0603,C1639
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15pF,(150),±5%,50V,C0G,0603,C1644
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 16pF(160),±5%,50V,C0G,0603,C1646
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18pF,(180),±5%,50V,C0G,0603,C1647
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 20pF,(200),±5%,50V,C0G,0603,C1648
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2nF(122),±10%,50V,X7R,0402,C16529
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22pF,(220),±5%,50V,C0G,0603,C1653
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 27pF,(270),±5%,50V,C0G,0603,C1656
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 270pF(271),±5%,50V,C0G,0603,C1657
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33pF,(330),±5%,50V,C0G,0603,C1663
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330pF,(331),±5%,50V,C0G,0603,C1664
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7pF,(4R7),±0.25pF,50V,C0G,0603,C1669
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47pF,(470),±5%,50V,C0G,0603,C1671
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nF,(224),±10%,16V,X7R,0402,C16772
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47uF(476),±20%,6.3V,X5R,0805,C16780
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8pF,(6R8),±0.25pF,50V,C0G,0603,C1679
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 82pF,(820),±5%,50V,C0G,0603,C1683
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8.2pF,(8R2),±0.25pF,50V,C0G,0603,C1685
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 27nF,(273),±20%,50V,Y5V,0603,C1700
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 82pF(820),±5%,50V,C0G,0805,C170103
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 62pF(620),±5%,50V,C0G,0805,C170104
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 56pF(560),±5%,50V,C0G,0805,C170105
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3pF(3R3),±0.25pF,50V,C0G,0805,C170106
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 25pF(250),±5%,50V,C0G,0805,C170107
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5pF(1R5),±0.25pF,50V,C0G,0805,C170108
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18pF(180),±5%,50V,C0G,0805,C170109
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12pF(120),±5%,50V,C0G,0805,C170110
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8pF(080),±0.5pF,50V,C0G,0805,C170111
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 7pF(070),±0.5pF,50V,C0G,0805,C170112
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6pF(060),±0.5pF,50V,C0G,0805,C170113
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5pF(050),±0.25pF,50V,C0G,0805,C170114
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4pF(040),±0.25pF,50V,C0G,0805,C170115
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2pF(020),±0.25pF,50V,C0G,0805,C170116
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8.2nF(822),±10%,50V,X7R,0805,C170117
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 390pF(391),±10%,50V,X7R,0805,C170118
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7nF(272),±10%,50V,X7R,0805,C170119
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 270pF(271),±10%,50V,X7R,0805,C170120
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22nF(223),±10%,50V,X7R,0805,C170121
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2nF(122),±10%,50V,X7R,0805,C170122
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.75pF(R75),±0.25pF,50V,C0G,0603,C170124
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 9.1pF(9R1),±0.5pF,50V,C0G,0603,C170125
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8.2pF(8R2),±0.5pF,50V,C0G,0603,C170126
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 7.5pF(7R5),±0.5pF,50V,C0G,0603,C170127
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8pF(6R8),±0.5pF,50V,C0G,0603,C170128
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 43pF(430),±5%,50V,C0G,0603,C170129
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.5pF(2R5),±0.25pF,50V,C0G,0603,C170130
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22pF(220),±5%,50V,C0G,0603,C170132
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8pF(1R8),±0.25pF,50V,C0G,0603,C170133
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2pF(1R2),±0.25pF,50V,C0G,0603,C170134
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 16pF(160),±5%,50V,C0G,0603,C170135
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 13pF(130),±5%,50V,C0G,0603,C170137
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF(101),±10%,50V,C0G,0603,C170138
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10pF(10R),±0.5pF,50V,C0G,0603,C170139
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.3pF(0R3),±0.25pF,50V,C0G,0603,C170140
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 9pF(090),±0.5pF,50V,C0G,0603,C170141
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6pF(060),±0.5pF,50V,C0G,0603,C170142
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5.6nF(562),±10%,50V,X7R,0603,C170143
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 510pF(511),±10%,50V,X7R,0603,C170144
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.9nF(392),±10%,50V,X7R,0603,C170145
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 270pF(271),±10%,50V,X7R,0603,C170146
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2nF(202),±10%,50V,X7R,0603,C170147
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150pF(151),±10%,50V,X7R,0603,C170148
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470nF(474),±10%,50V,X5R,0603,C170149
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5pF(1R5),±0.25pF,50V,C0G,0402,C170150
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47nF(473),±10%,100V,X7R,0805,C17074
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF,(103),±10%,50V,X7R,0805,C1710
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150pF,(151),±10%,50V,X7R,0805,C1716
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5nF,(152),±10%,50V,X7R,0805,C1717
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 200pF,(201),±10%,50V,X7R,0805,C1724
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF(222),±10%,50V,X7R,0805,C1728
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22nF,(223),±10%,50V,X7R,0805,C1729
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33nF,(333),±10%,50V,X7R,0805,C1739
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330nF,(334),±10%,50V,X7R,0805,C1740
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470pF,(471),±10%,50V,X7R,0805,C1743
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7nF,(472),±10%,50V,X7R,0805,C1744
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8nF,(682),±10%,50V,X7R,0805,C1755
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 68nF,(683),±10%,50V,X7R,0805,C1756
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uF,(475),±10%,25V,X5R,0805,C1779
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10pF,(100),±5%,50V,C0G,0805,C1785
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5pF,(1R5),±0.25pF,50V,C0G,0805,C1788
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF,(101),±5%,50V,C0G,0805,C1790
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±5%,50V,C0G,0805,C1791
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12pF,(120),±5%,50V,C0G,0805,C1792
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15pF,(150),±5%,50V,C0G,0805,C1794
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18pF,(180),±5%,50V,C0G,0805,C1797
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 20pF,(200),±5%,50V,C0G,0805,C1798
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2pF,(2R0),±0.25pF,50V,C0G,0805,C1800
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7pF,(2R7),±0.25pF,50V,C0G,0805,C1803
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22pF,(220),±5%,50V,C0G,0805,C1804
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.9nF(392),±10%,50V,X7R,0402,C18047
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 39nF(393),±10%,16V,X7R,0402,C18048
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 30pF,(300),±5%,50V,C0G,0805,C1809
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33pF,(330),±5%,50V,C0G,0805,C1814
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7pF,(4R7),±0.25pF,50V,C0G,0805,C1820
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 56pF,(560),±5%,50V,C0G,0805,C1828
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8pF,(6R8),±0.25pF,50V,C0G,0805,C1832
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 68pF,(680),±5%,50V,C0G,0805,C1834
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 180pF(181),±5%,50V,C0G,0603,C18437
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120pF,(121),±5%,50V,C0G,0603,C18438
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5nF(152),±5%,100V,C0G,0805,C184499
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF,(103),±10%,50V,X7R,1206,C1846
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uF,(105),±10%,50V,X7R,1206,C1848
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220pF,(221),±10%,50V,X7R,1206,C1854
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nF,(224),±10%,50V,X7R,1206,C1857
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470pF,(471),±10%,50V,X7R,1206,C1868
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470nF,(474),±10%,50V,X7R,1206,C1871
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,100V,X7R,0805,C18741
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 82pF(820),±5%,50V,C0G,0603,C188276
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±5%,50V,X7R,0402,C188845
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330pF(331),±5%,50V,C0G,1206,C1907
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,500V,X7R,1206,C1944
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±10%,100V,X7R,1206,C1945
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uF,(475),±10%,16V,X5R,0603,C19666
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF,(106),±10%,10V,X5R,0603,C19702
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 270nF(274),±10%,16V,X7R,0805,C20008
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,200V,X7R,0805,C209838
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33nF,(333),±10%,50V,X7R,0603,C21117
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150nF(154),±10%,25V,X7R,0603,C21118
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nF,(224),±10%,25V,X7R,0603,C21120
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22nF,(223),±10%,50V,X7R,0603,C21122
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7nF(472),±10%,100V,X7R,0805,C21217
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.8pF(0R8),±0.1pF,50V,C0G,0603,C21357
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2pF,(020),±0.25pF,50V,C0G,0603,C21895
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5pF(1R5),±0.1pF,50V,C0G,0603,C21897
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470pF(471),±10%,50V,X7R,0603,C22396
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 30pF,(300),±5%,50V,C0G,0603,C22397
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF(222),±10%,100V,X7R,0805,C22423
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 24pF(240),±5%,50V,C0G,0402,C22728
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uF,(225),±10%,16V,X5R,0603,C23630
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,2KV,1206,C23631
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 18nF(183),±10%,50V,X7R,0402,C23688
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uF,(475),±20%,10V,X5R,0402,C23733
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5nF,(152),±10%,50V,X7R,0402,C23967
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1pF,(010),±0.25pF,50V,C0G,0603,C23969
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±5%,50V,X7R,0603,C24452
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF,(104),±10%,50V,X7R,1206,C24497
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47nF(473),±10%,16V,X7R,0402,C26403
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3nF,(332),±10%,50V,X7R,0402,C26404
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12pF(120),±5%,50V,C0G,0402,C26406
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8pF(8R0),±0.5pF,50V,C0G,0402,C26408
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF(101),±5%,50V,C0G,0402,C26409
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680pF(681),±10%,50V,X7R,0402,C26410
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470pF(471),±10%,50V,X7R,0402,C26412
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22uF(226),±10%,25V,X5R,1210,C268020
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±5%,50V,C0G,0805,C27071
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220pF(221),±5%,50V,C0G,0603,C27675
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470pF(471),±5%,50V,C0G,0603,C27694
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2pF(1R2),±0.25pF,50V,0402,C277490
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8.2nF,(822),±10%,50V,X7R,0603,C27920
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±10%,100V,X7R,0805,C28233
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470pF(471),±5%,50V,C0G,0805,C28256
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF,(222),±5%,50V,C0G,0805,C28260
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 68pF,(680),±5%,50V,C0G,0603,C28262
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2nF(122),±10%,1KV,1206,C282827
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uF,(105),±10%,50V,X7R,0805,C28323
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF(222),±5%,50V,NP0,0603,C296055
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.5pF(0R5),±0.25pF,50V,0603,C296716
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uF,(475),±10%,50V,X7R,1206,C29823
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120nF(124),±10%,16V,X7R,0603,C29901
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uF(105),±10%,25V,X7R,0603,C29936
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 270pF(271),±5%,50V,NP0,0402,C301975
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6pF,(6R0),±0.25pF,50V,C0G,0402,C30274
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2pF(020),±0.25pF,50V,C0G,0402,C30331
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.2nF,(122),±10%,50V,X7R,0603,C30615
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±10%,50V,0402,C307331
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 7pF(070),±0.5PF,50V,0402,C307438
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 820pF(821),±5%,50V,0402,C307452
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,50V,0603,C307477
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4pF(040),±0.25PF,50V,0603,C307494
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF(106),±10%,10V,0805,C307523
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150nF(154),±10%,50V,0805,C307539
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF(222),±10%,100V,1206,C307570
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330nF(334),±10%,50V,1206,C307572
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47nF(473),±10%,50V,1206,C307574
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680nF(684),±10%,50V,1206,C307578
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF(101),±5%,630V,1206,C307580
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680pF(681),±5%,50V,C0G,0603,C30816
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,2000V,X7R,1206,C314237
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 68nF,(683),±10%,50V,X7R,0603,C31658
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220pF(221),±10%,100V,X7R,0805,C31838
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.4pF(2R4),±0.25PF,50V,C0G,0402,C318575
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3pF(3R0),±0.1PF,50V,0402,C318583
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 8.2pF(8R2),±0.25PF,50V,0402,C318599
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4pF(4R0),±0.1PF,50V,0402,C318615
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5pF(050),±0.1pF,50V,0402,C318616
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF(106),±10%,25V,0805,C318691
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF(106),±10%,6.3V,0805,C318698
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF(106),±10%,25V,1206,C318755
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330nF(334),±10%,25V,1206,C318760
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.80pF(R80),±0.05pF,50V,0402,C326068
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nF(224),±10%,100V,X7R,1210,C326640
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,2KV,X7R,1206,C328909
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10pF(100),±5%,50V,C0G,0402,C328913
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10pF,(100),±5%,50V,C0G,0402,C32949
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 20pF(200),±5%,50V,C0G,0402,C32950
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF(222),±5%,50V,C0G,0603,C33353
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680nF(684),±10%,6.3V,X5R,0402,C34850
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF,(102),±10%,500V,X7R,1206,C35216
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF(222),±10%,500V,X7R,1206,C35220
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 390pF(391),±5%,50V,C0G,0603,C35460
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nF(224),±10%,100V,X7R,1210,C363568
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 240pF(241),±5%,50V,C0G,0805,C36982
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 13pF(130),±5%,50V,C0G,0805,C37059
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150pF(151),±5%,50V,C0G,0603,C37298
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6pF,(6R0),±0.25pF,50V,C0G,0603,C37474
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5nF(152),±10%,50V,X7R,0603,C37788
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150nF(154),±10%,10V,0402,C380295
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uF(225),±10%,50V,1812,C382097
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 12pF,(120),±5%,50V,C0G,0603,C38523
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 56pF,(560),±5%,50V,C0G,0603,C39148
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3pF(030),±0.25pF,50V,C0G,0603,C40189
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7nF(472),±10%,2KV,1206,C41017
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.5nF(152),±10%,50V,X7R,0805,C41756
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22uF,(226),±20%,25V,X5R,0805,C45783
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3pF,(3R0),±0.25pF,50V,C0G,0603,C46219
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330pF(331),±5%,100V,C0G,0805,C46242
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF,(102),±10%,50V,X7R,0805,C46653
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±5%,50V,X7R,0805,C46659
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nF(224),±10%,25V,X5R,0402,C47129
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470nF,(474),±10%,10V,X5R,0402,C47339
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22nF(223),±10%,500V,X7R,1206,C47526
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.9pF(3R9),±0.25pF,50V,C0G,0402,C48151
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uF,(225),±20%,50V,Y5V,0805,C49217
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±10%,50V,X7R,0805,C49678
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7nF(472),±10%,50V,X7R,0805,C50131
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 51pF(510),±5%,50V,C0G,0805,C50206
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6.8nF(682),±10%,50V,X7R,0805,C50208
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uF,(225),±10%,50V,X7R,1206,C50254
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±5%,50V,X7R,0603,C51203
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330pF,(331),±10%,50V,X7R,0805,C51207
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 560pF(561),±10%,50V,X7R,0805,C51208
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,50V,X7R,0805,C51210
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3uF(335),±10%,10V,X5R,0603,C51412
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 150nF(154),±10%,10V,X5R,0402,C51554
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 15nF(153),±10%,50V,X7R,0805,C52412
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uF,(105),±10%,25V,X5R,0402,C52923
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1.8nF(182),±10%,50V,X7R,0402,C5296
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47nF,(473),±10%,50V,X7R,0805,C53134
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680pF,(681),±10%,50V,X7R,0805,C53150
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 820pF(821),±10%,50V,X7R,0805,C53154
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220pF,(221),±10%,50V,X7R,0805,C53172
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3nF,(332),±10%,50V,X7R,0805,C53175
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 39pF(390),±5%,50V,C0G,0603,C53278
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,2KV,1206,C53737
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 7pF(070),±0.5pF,50V,C0G,0603,C53775
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nF,(224),±10%,50V,X7R,0805,C5378
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7nF,(472),±10%,50V,X7R,0603,C53987
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 560pF(561),±5%,50V,C0G,0603,C55393
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3nF(332),±5%,50V,C0G,0603,C55395
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22uF(226),±10%,10V,X5R,1206,C5672
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1uF(105),±10%,25V,X5R,0603,C5673
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF,(103),±10%,50V,X7R,0603,C57112
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7pF(4R7),±0.25pF,50V,C0G,0603,C57140
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2uF(225),±10%,25V,X5R,0603,C57895
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22uF,(226),±20%,6.3V,X5R,0603,C59461
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470pF(471),±10%,100V,X7R,0805,C61096
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220pF(221),±5%,50V,C0G,0805,C61747
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 62pF(620),±5%,50V,C0G,0603,C62683
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 1nF(102),±10%,50V,X7R,0603_x4,C62856
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±5%,50V,X7R,0805,C62912
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 180pF(181),±5%,50V,C0G,0805,C62914
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF(222),±10%,50V,X7R,0805,C64592
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 220nF(224),±10%,50V,X7R,0603,C64705
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3uF(335),±10%,25V,X5R,1206,C66012
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6pF,(6R0),±0.25pF,50V,C0G,0805,C67560
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47uF(476),±20%,6.3V,X5R,1206,C68361
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7uF(475),±10%,25V,X5R,0603,C69335
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22pF(220),±5%,50V,C0G,0402,C70464
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 33pF(330),±5%,50V,C0G,0402,C70465
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680nF(684),±10%,16V,X7R,0805,C71069
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±5%,50V,X7R,0603,C7248
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100nF(104),±10%,250V,X7R,1206,C73745
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3nF(332),±5%,50V,C0G,0805,C76473
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF,(103),±5%,50V,C0G,0603,C76710
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120pF(121),±5%,50V,C0G,0402,C76949
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47uF(476),±10%,16V,X5R,1210,C77101
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 200pF(201),±10%,50V,X7R,0603,C77394
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 27pF,(270),±5%,50V,C0G,0805,C8031
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2nF(222),±10%,50V,X7R,0402,C84703
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7nF(272),±10%,50V,X7R,0402,C84704
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7nF(472),±10%,50V,X7R,0402,C84705
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 47pF(470),±5%,50V,C0G,0402,C84706
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 56pF(560),±5%,50V,C0G,0402,C84707
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,100V,X7R,0603,C84709
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.2pF(2R2),±0.25pF,50V,C0G,0603,C84711
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 2.7nF(272),±10%,50V,X7R,0603,C84713
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10nF(103),±10%,50V,X7R,0805,C84715
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470pF(471),±10%,50V,X7R,0805,C84717
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 390pF(391),±10%,50V,X7R,0603,C84719
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 560pF(561),±10%,50V,X7R,0603,C84721
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 680pF(681),±10%,50V,X7R,0603,C84722
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 6800pF(682),±10%,50V,X7R,0603,C84723
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120pF(121),±10%,50V,X7R,0603,C85298
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 180pF(181),±10%,50V,X7R,0603,C85299
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.3pF(3R3),±0.25pF,50V,C0G,0603,C85300
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.6pF(3R6),±0.25pF,50V,C0G,0603,C85301
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3.9pF(3R9),±0.25pF,50V,C0G,0603,C85302
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 200pF(201),±10%,50V,X7R,0805,C85303
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 4.7pF(4R7),±0.25pF,50V,C0G,0805,C85304
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 330pF(331),±10%,50V,X7R,0603,C85310
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 100pF(101),±5%,100V,C0G,0603,C85983
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 0.5pF(R50),±0.25pF,50V,C0G,0402,C86284
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 22uF(226),±20%,10V,X5R,0603,C86295
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF(106),±10%,50V,X7R,1206,C89632
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF(106),±10%,25V,X7R,1206,C90538
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 120pF(121),±5%,50V,C0G,0603,C90723
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 470nF(474),±10%,25V,X5R,0402,C92361
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 5pF(050),±0.25pF,50V,C0G,0603,C93045
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 10uF(106),±20%,25V,X5R,0603,C96446
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

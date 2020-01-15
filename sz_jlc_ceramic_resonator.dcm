@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABM3-25.000MHZ-D2Y-T,SMD-5032_2P,C148312
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ABM3-12.000MHZ-D2Y-T,SMD-5032_2P,C148313
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ABM8-25.000MHZ-D2Y-T,SMD-3225_4P,C179643
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

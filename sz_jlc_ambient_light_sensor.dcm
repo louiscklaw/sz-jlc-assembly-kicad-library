@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISL29035IROZ-T7,ODFN-6_1.5x1.6x0.5P,C118347
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP VCNL4040M3OE,SMD-8_2.0x4.0x1.075P,C142526
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP 3528-PTSM,D3528,LED_3528,C242256
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP BH1750FVI-TR,WSOF-6_1.6x3.0x0.5P,C78960
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP BH1710FVC-TR,WSOF-6_1.6x2.6x0.5P,C79614
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP OPT3001DNPR,USON-6_EP_2.0x2.0x0.65P,C90462
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLE5012BE1000XUMA1,PG-DSO-8_4.0x5.0x1.27P,C123083
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP TLE5011,SOIC-8_3.9x4.9x1.27P,C124734
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MA730GQ-Z,QFN-16_EP_3.0x3.0x0.5P,C161798
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ADXRS453BRGZ,SOIC-16_7.5x10.3x1.27P,C90716
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library

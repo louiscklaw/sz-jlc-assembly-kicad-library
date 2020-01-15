@@ -1,0 +1,140 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMA8452QR1,QFN-16_3.0x3.0x0.5P_5+3,C11360
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MMA8451QR1,QFN-16_3.0x3.0x0.5P_5+3,C118083
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MMA8452QT,QFN-16_3.0x3.0x0.5P_5+3,C122560
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MMA8453QR1,QFN-16_EP_3.0x3.0x0.5P,C122561
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP LIS3DHTR,LGA-16_3.0x3.0x0.5P_3+5,C15134
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MMA9555LR1,LGA-16_3.0x3.0x0.5P_3+5,C161204
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP BMI088,LGA-16_3.0x4.5x0.5P,C194919
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ADXL327BCPZ-RL7,LFCSP-16_EP_4.0x4.0x0.65P,C207396
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP LIS2HH12TR,LGA-12_2.0x2.0x0.5P,C221446
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP KX023-1025,LGA-16_3.0x3.0x0.5P_3+5,C236128
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP RT3000CGQM,DFN-10_EP_3.0x3.0x0.5P,C246764
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP KXTJ3-1058-01,LGA-12_2.0x2.0x0.5P,C308623
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP QMA6981,LGA-12_2.0x2.0x0.5P,C310611
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP KXTJ3-1057-01,LGA-12_2.0x2.0x0.5P,C340680
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ADXL335BCPZ-RL7,LFCSP-16_EP_4.0x4.0x0.65P,C34439
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP FXOS8700CQR1,QFN-16_3.0x3.0x0.5P,C432308
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP KXTJ3-1057,LGA-12_2.0x2.0x0.5P,C442603
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP QMA7981,LGA-12_2.0x2.0x0.5P,C457290
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ADXL362BCCZ-RL,LGA-16_3.0x3.0x0.5P_3+5,C59641
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP MMA8451QT,QFN-16_3.0x3.0x0.5P_5+3,C71598
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP LSM6DS3TR,LGA-14_2.5x3.0x0.5P,C95230
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ADXL345BCCZ-RL7,LGA-14_3.0x5.0x0.8P,C9667
+D test description,
+K test key,
+F ~
+$ENDCMP
+#
+$CMP ICM-20602,LGA-16_3.0x3.0x0.5P_3+5,C97633
+D test description,
+K test key,
+F ~
+$ENDCMP
+#End Doc Library
