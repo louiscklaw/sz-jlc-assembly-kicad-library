@@ -1,8 +1,8 @@
 # SZ-JLC-ASSEMBLY-KICAD-LIBRARY
 
 | Master | Development | Chats |
-|--------|-------------|-------|
-| ![Travis (.com) branch](https://img.shields.io/travis/com/louiscklaw/sz-jlc-assembly-kicad-library/master) | ![Travis (.com) branch](https://img.shields.io/travis/com/louiscklaw/sz-jlc-assembly-kicad-library/develop) | ![Gitter](https://img.shields.io/gitter/room/louiscklaw/sz-jlc-assembly-kicad-library) |
+|:--------:|:-------------:|:-------:|
+| [![Build Status](https://img.shields.io/travis/com/louiscklaw/sz-jlc-assembly-kicad-library/master)](https://travis-ci.com/louiscklaw/sz-jlc-assembly-kicad-library) | [![Build Status](https://img.shields.io/travis/com/louiscklaw/sz-jlc-assembly-kicad-library/develop)](https://travis-ci.com/louiscklaw/sz-jlc-assembly-kicad-library) | [![Gitter](https://img.shields.io/gitter/room/louiscklaw/sz-jlc-assembly-kicad-library)](https://gitter.im/sz-jlc-assembly-kicad-library/community) |
 
 ### Purpose
 This is my own kicad library to deal with the assembly services provided by SZ JLC. The origional idea is to build a kicad library according to the Excel table(part list/BOM list) available on the SZ JLC website https://www.sz-jlc.com/portal/smtComponentList.html
@@ -58,6 +58,18 @@ Progress steps and their meanings:
 | 3 | testing | test sample sent to PCB fabrication |  |
 | 4 | done | supposing a usable library file here |  |
 
+### Directory structure:
+```
+.
+├── README.md
+├── _ref                         # reference repos
+├── sz_jlc_accelerometer.lib
+├── ... lib files ...
+├── sz_jlc_zener_diode.lib
+├── test                         # test scripts
+└── _util                        # modified kicad-library-utils
+```
+
 ### Difficulties:
 1. The number of component is huge. not everyone of them is being tested
 1. The pin assignment and symbol generation (especially MCU) is still a problem as configuration/pin assignment need to be reviewed case by case. Currently looking into some OCR solution to accelerate the progress.
@@ -67,5 +79,5 @@ Partner repo, to generate the scaffold of lib and dcm files:
 https://github.com/louiscklaw/kicad_factory_assembly_library
 
 ### Communication:
-If you are interested in this repo/ideas, please don't hesitate to contact me @gitter.
-Also, starts and forks are welcomed.
+If you got any comment in this repo/idea, please don't hesitate to contact me @gitter.
+Also, stars and forks are welcomed.
