@@ -2,7 +2,7 @@
 
 | Master | Development | Chats |
 |:--------:|:-------------:|:-------:|
-| ![Travis (.com) branch](https://img.shields.io/travis/com/louiscklaw/sz-jlc-assembly-kicad-library/master) | ![Travis (.com) branch](https://img.shields.io/travis/com/louiscklaw/sz-jlc-assembly-kicad-library/develop) | ![Gitter](https://img.shields.io/gitter/room/louiscklaw/sz-jlc-assembly-kicad-library) |
+| [![Build Status](https://img.shields.io/travis/com/louiscklaw/sz-jlc-assembly-kicad-library/master)](https://travis-ci.com/louiscklaw/sz-jlc-assembly-kicad-library) | [![Build Status](https://img.shields.io/travis/com/louiscklaw/sz-jlc-assembly-kicad-library/develop)](https://travis-ci.com/louiscklaw/sz-jlc-assembly-kicad-library) | [![Gitter](https://img.shields.io/gitter/room/louiscklaw/sz-jlc-assembly-kicad-library)](https://gitter.im/sz-jlc-assembly-kicad-library/community) |
 
 ### Purpose
 This is my own kicad library to deal with the assembly services provided by SZ JLC. The origional idea is to build a kicad library according to the Excel table(part list/BOM list) available on the SZ JLC website https://www.sz-jlc.com/portal/smtComponentList.html
