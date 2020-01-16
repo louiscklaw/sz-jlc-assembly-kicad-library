@@ -58,6 +58,18 @@ Progress steps and their meanings:
 | 3 | testing | test sample sent to PCB fabrication |  |
 | 4 | done | supposing a usable library file here |  |
 
+### Directory structure:
+```
+.
+├── README.md
+├── _ref                         # reference repos
+├── sz_jlc_accelerometer.lib
+├── ... lib files ...
+├── sz_jlc_zener_diode.lib
+├── test                         # test scripts
+└── _util                        # modified kicad-library-utils
+```
+
 ### Difficulties:
 1. The number of component is huge. not everyone of them is being tested
 1. The pin assignment and symbol generation (especially MCU) is still a problem as configuration/pin assignment need to be reviewed case by case. Currently looking into some OCR solution to accelerate the progress.
