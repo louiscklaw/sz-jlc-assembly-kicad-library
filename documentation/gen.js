@@ -37,5 +37,5 @@ content_pug = content_pug.replace(/table/g,'table.table.is-bordered.is-striped.i
 
 html_result = pug.compile(content_pug)
 
-html_result = ROOT_HTML.replace('CONTENT_PLACEHOLDER',html_result())
+html_result = ROOT_HTML.replace('{CONTENT_PLACEHOLDER}',html_result())
 fs.writeFileSync(`${GITHUB_DOCS_DIR}/index.html`, html_result , {encoding:'utf-8'});
