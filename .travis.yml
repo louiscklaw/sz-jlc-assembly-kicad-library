@@ -5,6 +5,7 @@ install:
 
 script:
   - ./test/kicad_test.sh
+  - bash scripts/build_doc.sh
 
 after_success:
   - id
