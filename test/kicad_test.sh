@@ -11,7 +11,7 @@ rm -rf tmp/*
 
 for filename in $LIB_RESULT_DIR/*.lib; do
   # echo ./test_schlib.sh $filename
-  ./test_schlib.sh $filename
+  ./test_schlib.sh $filename &
 done
 
 wait
