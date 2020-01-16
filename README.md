@@ -1,7 +1,7 @@
 # SZ-JLC-ASSEMBLY-KICAD-LIBRARY
 
 | Master | Development | Chats |
-|--------|-------------|-------|
+|:--------:|:-------------:|:-------:|
 | ![Travis (.com) branch](https://img.shields.io/travis/com/louiscklaw/sz-jlc-assembly-kicad-library/master) | ![Travis (.com) branch](https://img.shields.io/travis/com/louiscklaw/sz-jlc-assembly-kicad-library/develop) | ![Gitter](https://img.shields.io/gitter/room/louiscklaw/sz-jlc-assembly-kicad-library) |
 
 ### Purpose
