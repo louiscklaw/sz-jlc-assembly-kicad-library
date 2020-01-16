@@ -79,5 +79,5 @@ Partner repo, to generate the scaffold of lib and dcm files:
 https://github.com/louiscklaw/kicad_factory_assembly_library
 
 ### Communication:
-If you are interested in this repo/ideas, please don't hesitate to contact me @gitter.
-Also, starts and forks are welcomed.
+If you got any comment in this repo/idea, please don't hesitate to contact me @gitter.
+Also, stars and forks are welcomed.
