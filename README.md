@@ -1,5 +1,8 @@
 # SZ-JLC-ASSEMBLY-KICAD-LIBRARY
 
+## TODO:
+https://github.com/xtoolbox/lc_kicad_lib
+
 ## current status
 | Master | Development | Chats |
 |:--------:|:-------------:|:-------:|
