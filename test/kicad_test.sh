@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 LIB_RESULT_DIR=$PWD
 
-set -e
+set -ex
 
 echo 'test to load kicad library'
 
